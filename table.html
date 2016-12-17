@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="">
+	<meta name="author" content="">
+
+	<title>Legionella Pneumophila</title>
+
+	<!-- Bootstrap Core CSS -->
+	<link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+
+	<!-- MetisMenu CSS -->
+	<link href="bower_components/metisMenu/dist/metisMenu.min.css" rel="stylesheet">
+
+	<!-- DataTables CSS -->
+	<link href="bower_components/datatables-plugins/integration/bootstrap/3/dataTables.bootstrap.css" rel="stylesheet">
+
+	<!-- DataTables Responsive CSS -->
+	<link href="bower_components/datatables-responsive/css/dataTables.responsive.css" rel="stylesheet">
+
+	<!-- Custom CSS -->
+	<link href="dist/css/sb-admin-2.css" rel="stylesheet">
+
+	<!-- Custom Fonts -->
+	<link href="bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+</head>
+
+<body>
+
+	<div id="wrapper">
+
+	<nav class="navbar navbar-default navbar-static-top" role="navigation" style="margin-bottom: 0">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<img class="navbar-brand" src="img/logo.png"/>
+				<a class="navbar-brand">Legionella Pneumophila - relatório de análise genómica</a>
+			</div>
+			<!-- /.navbar-top-links -->
+			<!--ul class="nav navbar-top-links navbar-right">
+				<li><a href="login.html"><i class="fa fa-sign-out fa-fw"></i> Logout</a>
+				</li>
+			</ul-->
+
+			<div class="navbar-default sidebar" role="navigation">
+				<div class="sidebar-nav navbar-collapse">
+					<ul class="nav" id="side-menu">
+						<!--li class="sidebar-search">
+							<div class="input-group custom-search-form">
+								<input type="text" class="form-control" placeholder="Pesquisar...">
+								<span class="input-group-btn">
+								<button class="btn btn-default" type="button">
+									<i class="fa fa-search"></i>
+								</button>
+							</span>
+							</div>
+						</li-->
+						<li>
+							<a href="index.html"><i class="fa fa-home fa-fw"></i> Home</a>
+						</li>
+						<li>
+							<a href="#"><i class="fa fa-check fa-fw"></i> Objetivos</a>
+						</li>
+						<li>
+							<a href="#"><i class="fa fa-wrench fa-fw"></i> Trabalho realizado<span class="fa arrow"></span></a>
+							<ul class="nav nav-second-level">
+								<li>
+									<a href="#">Análise da sequência</a>
+								</li>
+								<li>
+									<a href="#">Análise de literatura</a>
+								</li>
+								<li>
+									<a href="#">Análise de homologias por Blast</a>
+								</li>
+								<li>
+									<a href="#">Ferramentas de análise da proteína</a>
+								</li>
+								<li>
+									<a href="#">Resumo das anotações dos genes/proteína</a>
+								</li>
+								<li>
+									<a href="#">Alinhamento múltiplo e filogenia</a>
+								</li>
+							</ul>
+							<!-- /.nav-second-level -->
+						</li>
+						<li>
+							<a href="table.html"><i class="fa fa-table fa-fw"></i> Tabelas resumo</a>
+						</li>
+						<li>
+							<a href="report.pdf" target="_blank"><i class="fa fa-file-text fa-fw"></i> Relatório escrito</a>
+						</li>
+				</div>
+				<!-- /.sidebar-collapse -->
+			</div>
+			<!-- /.navbar-static-side -->
+		</nav>
+		<div id="page-wrapper">
+			<div class="row">
+				<div class="col-lg-12">
+					<h2 class="page-header">Tabelas resumo</h2>
+				</div>
+				<!-- /.col-lg-12 -->
+			</div>
+			
+			<!-- /.row -->
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<b>Identificação dos genes</b>
+						</div>
+						<!-- /.panel-heading -->
+						<div class="panel-body">
+							<div class="dataTable_wrapper">
+								<table class="table table-striped table-bordered table-hover" id="dataTables-example1">
+									<thead>
+										<tr>
+											<th>Locus Tag</th>
+											<th>GeneID NCBI</th>
+											<th>Accession Number NCBI</th>
+											<th>Gene Name</th>
+											<th>Strand</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr class="odd gradeX">
+											<td>lpg2079</td>
+											<td>19833645</td>
+											<td>NC_002942</td>
+											<td>traG</td>
+											<td>2327599..2330328</td>
+										</tr>
+										<tr class="even gradeC">
+											<td>lpg2080</td>
+											<td>19833645</td>
+											<td>NC_002942</td>
+											<td>traH</td>
+											<td>2327599..2330328</td>
+										</tr>
+										<tr class="odd gradeA">
+											<td>lpg2081</td>
+											<td>19833645</td>
+											<td>NC_002942</td>
+											<td>traF</td>
+											<td>2327599..2330328</td>
+										</tr>
+										<tr class="even gradeA">
+											<td>lpg2082</td>
+											<td>19833645</td>
+											<td>NC_002942</td>
+											<td>traF</td>
+											<td>2327599..2330328</td>
+										</tr>
+									   
+									</tbody>
+								</table>
+							</div>
+							<!-- /.table-responsive -->
+							
+						</div>
+						<!-- /.panel-body -->
+					</div>
+					<!-- /.panel -->
+				</div>
+				<!-- /.col-lg-12 -->
+			</div>
+			<!-- /.row -->
+
+			<!-- /.row -->
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<b>Identificação das proteínas</b>
+						</div>
+						<!-- /.panel-heading -->
+						<div class="panel-body">
+							<div class="dataTable_wrapper">
+								<table class="table table-striped table-bordered table-hover" id="dataTables-example2">
+									<thead>
+										<tr>
+											<th>Locus Tag</th>
+											<th>Uniprot ID</th>
+											<th>Revision</th>
+											<th>Accession Number NCBI</th>
+											<th>Name</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr class="odd gradeX">
+											<td>1</td>
+											<td>ANome Mais Um Nome</td>
+											<td>3</td>
+											<td>3</td>
+											<td>120,50€</td>
+										</tr>
+										<tr class="even gradeC">
+											<td>4</td>
+											<td>CNome Mais Um Nome</td>
+											<td>2</td>
+											<td>3</td>
+											<td>7,50€</td>
+										</tr>
+										<tr class="odd gradeA">
+											<td>2</td>
+											<td>BNome Mais Um Nome</td>
+											<td>5</td>
+											<td>3</td>
+											<td>25,00€</td>
+										</tr>
+										<tr class="even gradeA">
+											<td>3</td>
+											<td>DNome Mais Um Nome</td>
+											<td>1</td>
+											<td>3</td>
+											<td>8,00€</td>
+										</tr>
+									   
+									</tbody>
+								</table>
+							</div>
+							<!-- /.table-responsive -->
+							
+						</div>
+						<!-- /.panel-body -->
+					</div>
+					<!-- /.panel -->
+				</div>
+				<!-- /.col-lg-12 -->
+			</div>
+			<!-- /.row -->
+
+		</div>
+		<!-- /#page-wrapper -->
+
+	</div>
+	<!-- /#wrapper -->
+
+	<!-- jQuery -->
+	<script src="bower_components/jquery/dist/jquery.min.js"></script>
+
+	<!-- Bootstrap Core JavaScript -->
+	<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+
+	<!-- Metis Menu Plugin JavaScript -->
+	<script src="bower_components/metisMenu/dist/metisMenu.min.js"></script>
+
+	<!-- DataTables JavaScript -->
+	<script src="bower_components/datatables/media/js/jquery.dataTables.min.js"></script>
+	<script src="bower_components/datatables-plugins/integration/bootstrap/3/dataTables.bootstrap.min.js"></script>
+
+	<!-- Custom Theme JavaScript -->
+	<script src="dist/js/sb-admin-2.js"></script>
+
+	<!-- Page-Level Demo Scripts - Tables - Use for reference -->
+	<script>
+	$(document).ready(function() {
+		$('#dataTables-example1').DataTable({
+				responsive: true
+		});
+		$('#dataTables-example2').DataTable({
+				responsive: true
+		});
+	});
+	</script>
+
+</body>
+
+</html>
