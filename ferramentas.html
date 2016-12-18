@@ -116,27 +116,53 @@
 							<b>NCBI</b>
 						</div>
 						<!-- /.panel-heading -->
-                        <div id="ncbi" class="panel-collapse collapse">
-    						<div class="embed-responsive embed-responsive-16by9">
-    							<iframe class="embed-responsive-item" src="https://www.ncbi.nlm.nih.gov/">
-    								<p>Your browser does not support iframes.</p>
-    							</iframe>
-    						</div>
-                        </div>
+						<div id="ncbi" class="panel-collapse collapse">
+							<div class="embed-responsive embed-responsive-16by9">
+								<iframe class="embed-responsive-item" src="https://www.ncbi.nlm.nih.gov/">
+									<p>Your browser does not support iframes.</p>
+								</iframe>
+							</div>
+						</div>
 					</div>
 					<div class="panel panel-default">
-                        <div class="panel-heading" data-toggle="collapse" href="#blast">
-                            <b>BLAST</b>
-                        </div>
-                        <!-- /.panel-heading -->
-                        <div id="blast" class="panel-collapse collapse">
-                            <div class="embed-responsive embed-responsive-16by9">
-                                <iframe class="embed-responsive-item" src="https://blast.ncbi.nlm.nih.gov/Blast.cgi">
-                                    <p>Your browser does not support iframes.</p>
-                                </iframe>
-                            </div>
-                        </div>
-                    </div>
+						<div class="panel-heading" data-toggle="collapse" href="#blast">
+							<b>BLAST</b>
+						</div>
+						<!-- /.panel-heading -->
+						<div id="blast" class="panel-collapse collapse">
+							<div class="embed-responsive embed-responsive-16by9">
+								<iframe class="embed-responsive-item" src="https://blast.ncbi.nlm.nih.gov/Blast.cgi">
+									<p>Your browser does not support iframes.</p>
+								</iframe>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">
+						<div class="panel-heading" data-toggle="collapse" href="#uniprot">
+							<b>UniProt</b>
+						</div>
+						<!-- /.panel-heading -->
+						<div id="uniprot" class="panel-collapse collapse">
+							<div class="embed-responsive embed-responsive-16by9">
+								<iframe class="embed-responsive-item" src="http://www.uniprot.org/">
+									<p>Your browser does not support iframes.</p>
+								</iframe>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">
+						<div class="panel-heading" data-toggle="collapse" href="#kegg">
+							<b>KEGG</b>
+						</div>
+						<!-- /.panel-heading -->
+						<div id="kegg" class="panel-collapse collapse">
+							<div class="embed-responsive embed-responsive-16by9">
+								<iframe class="embed-responsive-item" src="http://www.genome.jp/kegg/">
+									<p>Your browser does not support iframes.</p>
+								</iframe>
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -157,6 +183,19 @@
 
 	<!-- Custom Theme JavaScript -->
 	<script src="dist/js/sb-admin-2.js"></script>
+
+	<script type='text/javascript'>
+		/*$(function(){	
+			var iFrames = $('iframe');
+			
+			for (var i=0, j=iFrames.length; i<j; i++) {
+				iFrames[i].style.height = iFrames[i].contentWindow.document.body.offsetHeight + 'px';
+			}
+			iFrames.load(function() {
+				this.style.height = this.contentWindow.document.body.offsetHeight + 'px';
+			});
+		});*/
+	</script>
 
 </body>
 
