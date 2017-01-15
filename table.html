@@ -167,28 +167,28 @@
 										</tr>
 									</thead>
 									<tbody>
-										<tr class="odd gradeX">
+										<tr class="odd">
 											<td>1</td>
 											<td>ANome Mais Um Nome</td>
 											<td>3</td>
 											<td>3</td>
 											<td>120,50€</td>
 										</tr>
-										<tr class="even gradeC">
+										<tr class="even">
 											<td>4</td>
 											<td>CNome Mais Um Nome</td>
 											<td>2</td>
 											<td>3</td>
 											<td>7,50€</td>
 										</tr>
-										<tr class="odd gradeA">
+										<tr class="odd">
 											<td>2</td>
 											<td>BNome Mais Um Nome</td>
 											<td>5</td>
 											<td>3</td>
 											<td>25,00€</td>
 										</tr>
-										<tr class="even gradeA">
+										<tr class="even">
 											<td>3</td>
 											<td>DNome Mais Um Nome</td>
 											<td>1</td>
@@ -233,19 +233,16 @@
 	<script src="dist/js/sb-admin-2.js"></script>
 
 	<!-- Page-Level Demo Scripts - Tables - Use for reference -->
+
 	<script>
-	$(document).ready(function() {
+	$(document).ready(function () {
+		$( "#gene" ).load( "gene.html" );
 		$('#dataTables-example1').DataTable({
 				responsive: true
 		});
 		$('#dataTables-example2').DataTable({
 				responsive: true
 		});
-	});
-	</script>
-	<script>
-	$(document).ready(function () {
-		$( "#gene" ).load( "gene.html" );
 	});
 	</script>
 
