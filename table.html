@@ -130,15 +130,8 @@
 											<th>Gene Name</th>
 										</tr>
 									</thead>
-									<tbody>
-										<script>
-										var link = document.querySelector('link[rel="import"]');
-										var content = link.import;
-
-										var el = content.querySelector('.gene');
-
-										document.body.appendChild(content);
-										</script>
+									<tbody id="gene">
+				
 									</tbody>
 								</table>
 							</div>
@@ -248,6 +241,11 @@
 		$('#dataTables-example2').DataTable({
 				responsive: true
 		});
+	});
+	</script>
+	<script>
+	$(document).ready(function () {
+		$( "#gene" ).load( "gene.html" );
 	});
 	</script>
 
