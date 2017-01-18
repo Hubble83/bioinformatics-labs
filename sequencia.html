@@ -24,10 +24,12 @@
 	<link href="bower_components/datatables-responsive/css/dataTables.responsive.css" rel="stylesheet">
 
 	<!-- Custom CSS -->
-	<link href="dist/css/sb-admin-2.css" rel="stylesheet">
+	<link href="dist/css/sb-admin-2.min.css" rel="stylesheet">
 
 	<!-- Custom Fonts -->
 	<link href="bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+	<link href="bower_components/timeline.css" rel="stylesheet" type="text/css">
 
 	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -50,7 +52,7 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<img class="navbar-brand" src="img/logo.png"/>
+				<img class="navbar-brand" src="img/logo.png" alt=" "/>
 				<a class="navbar-brand">Legionella Pneumophila</a>
 			</div>
 
@@ -93,6 +95,7 @@
 						<li>
 							<a href="https://github.com/Hubble83/lb/tree/master/scripts" target="_blank"><i class="fa fa-code-fork fa-fw"></i> Scripts desenvolvidos</a>
 						</li>
+					</ul>
 				</div>
 				<!-- /.sidebar-collapse -->
 			</div>
@@ -101,73 +104,37 @@
 		<div id="page-wrapper">
 			<div class="row">
 				<div class="col-lg-12">
-					<h2 class="page-header">Ferramentas utilizadas</h2>
+					<h2 class="page-header">Relatório de análise genómica</h2>
 				</div>
 				<!-- /.col-lg-12 -->
 			</div>
-
 			<div class="row">
 				<div class="col-lg-12">
 					<div class="panel panel-default">
-						<div class="panel-heading" data-toggle="collapse" href="#ncbi">
-							<b>NCBI</b> <i class="fa fa-chevron-down fa-fw"></i>
+						<div class="panel-heading">
+							<b>Análise da sequência</b>
 						</div>
 						<!-- /.panel-heading -->
-						<div id="ncbi" class="panel-collapse collapse">
-							<div class="embed-responsive embed-responsive-16by9">
-								<iframe class="embed-responsive-item" src="https://www.ncbi.nlm.nih.gov/">
-									<p>Your browser does not support iframes.</p>
-								</iframe>
-							</div>
-						</div>
-					</div>
-					<div class="panel panel-default">
-						<div class="panel-heading" data-toggle="collapse" href="#blast">
-							<b>BLAST</b> <i class="fa fa-chevron-down fa-fw"></i>
-						</div>
-						<!-- /.panel-heading -->
-						<div id="blast" class="panel-collapse collapse">
-							<div class="embed-responsive embed-responsive-16by9">
-								<iframe class="embed-responsive-item" src="https://blast.ncbi.nlm.nih.gov/Blast.cgi">
-									<p>Your browser does not support iframes.</p>
-								</iframe>
-							</div>
-						</div>
-					</div>
-					<div class="panel panel-default">
-						<div class="panel-heading" data-toggle="collapse" href="#uniprot">
-							<b>UniProt</b> <i class="fa fa-chevron-down fa-fw"></i>
-						</div>
-						<!-- /.panel-heading -->
-						<div id="uniprot" class="panel-collapse collapse">
-							<div class="embed-responsive embed-responsive-16by9">
-								<iframe class="embed-responsive-item" src="//www.uniprot.org/">
-									<p>Your browser does not support iframes.</p>
-								</iframe>
-							</div>
-						</div>
-					</div>
-					<div class="panel panel-default">
-						<div class="panel-heading" data-toggle="collapse" href="#kegg">
-							<b>KEGG</b> <i class="fa fa-chevron-down fa-fw"></i>
-						</div>
-						<!-- /.panel-heading -->
-						<div id="kegg" class="panel-collapse collapse">
-							<div class="embed-responsive embed-responsive-16by9">
-								<iframe class="embed-responsive-item" src="//www.genome.jp/kegg/">
-									<p>Your browser does not support iframes.</p>
-								</iframe>
+						<div class="panel-body">
+							<div class="col-lg-10 col-lg-offset-1">
+<h2>Título da cena</h2><br/>
+<p><big>É feita a extração do ficheiro genbank, através do script <a target="_blank" href="https://github.com/Hubble83/lb/tree/master/scripts/TODO">SeqRecord.py</a> referente ao nosso intervalo de genes (23.. - 260800), guardado como <a target="_blank" href="https://github.com/Hubble83/lb/tree/master/scripts/TODO">seq_record.gb</a>. No fim deste processo, é referido , como output do script de extração, algumas das características da proteína, como o ID, nome comum, taxonomia, entre outros, que está guardado em <a target="_blank" href="https://github.com/Hubble83/lb/tree/master/scripts/TODO">ProteinData.txt</a>. A sequência deste intervalo é escrita automaticamente num ficheiro de texto. (<a target="_blank" href="https://github.com/Hubble83/lb/tree/master/scripts/TODO">sequence.txt</a>).</big></p>
+<p><big>Para validar esta extração, é realizada uma comparação do nosso ficheiro com a tabela indicada pelo professor (<a target="_blank" href="https://github.com/Hubble83/lb/tree/master/scripts/TODO">ProteinTable.txt</a>). Esta análise está presente no ficheiro <a target="_blank" href="https://github.com/Hubble83/lb/tree/master/scripts/TODO">analise.txt</a> e é também ela produto do output deste scipt (<a target="_blank" href="https://github.com/Hubble83/lb/tree/master/scripts/TODO">Validation.py</a>).</big></p>
+<br/>
+<br/><h2>Geração de tabelas</h2><br/>
+<p><big>Recorrendo ao ficheiro <a target="_blank" href="https://github.com/Hubble83/lb/tree/master/scripts/TODO">seq_record.gb</a>, através da execução do ficheiro <a target="_blank" href="https://github.com/Hubble83/lb/tree/master/scripts/criatabelas/script.py">script.py</a>, são gerados dois ficheiros com as informações dos vários genes e proteínas correspondentes: o <a target="_blank" href="https://github.com/Hubble83/lb/tree/master/scripts/criatabelas/table.csv">table.csv</a> para abrir a tabela localmente, e o <a target="_blank" href="https://github.com/Hubble83/lb/tree/master/scripts/criatabelas/table.html">table.html</a> contendo as várias linhas com a formatação necessária para serem inseridas na tabela resumo.</big></p>
 							</div>
 						</div>
 					</div>
 				</div>
+				<!-- /.col-lg-8 -->
+
 			</div>
 		</div>
 		<!-- /#page-wrapper -->
 
 	</div>
 	<!-- /#wrapper -->
-
 
 	<!-- jQuery -->
 	<script src="bower_components/jquery/dist/jquery.min.js"></script>
@@ -179,20 +146,7 @@
 	<script src="bower_components/metisMenu/dist/metisMenu.min.js"></script>
 
 	<!-- Custom Theme JavaScript -->
-	<script src="dist/js/sb-admin-2.js"></script>
-
-	<script type='text/javascript'>
-		/*$(function(){	
-			var iFrames = $('iframe');
-			
-			for (var i=0, j=iFrames.length; i<j; i++) {
-				iFrames[i].style.height = iFrames[i].contentWindow.document.body.offsetHeight + 'px';
-			}
-			iFrames.load(function() {
-				this.style.height = this.contentWindow.document.body.offsetHeight + 'px';
-			});
-		});*/
-	</script>
+	<script src="dist/js/sb-admin-2.min.js"></script>
 
 </body>
 
