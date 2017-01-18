@@ -40,7 +40,7 @@
 
 <body>
 
-	<div id="wrapper">
+	<div id="wrapper" style="display:table">
 
 	<nav class="navbar navbar-default navbar-static-top" role="navigation" style="margin-bottom: 0">
 			<div class="navbar-header">
@@ -95,7 +95,7 @@
 			</div>
 			<!-- /.navbar-static-side -->
 		</nav>
-		<div id="page-wrapper">
+		<div id="page-wrapper" style="display:table">
 			<div class="row">
 				<div class="col-lg-12">
 					<h2 class="page-header">Relatório de análise genómica</h2>
@@ -106,14 +106,14 @@
 			<!-- /.row -->
 			<div class="row">
 				<div class="col-lg-12">
-					<div class="panel panel-default">
+					<!--div class="panel panel-default">
 						<div class="panel-heading">
 							<b>Informações principais dos genes e proteínas</b>
 						</div>
-						<!-- /.panel-heading -->
-						<div class="panel-body">
-							<div class="dataTable_wrapper" style="overflow:auto">
-								<table class="table table-bordered table-hover" id="dataTables-example1">
+						<!-- /.panel-heading ->
+						<div class="panel-body"-->
+							<div class="dataTable_wrapper" style="margin:0; padding:0; display:table">
+								<table class="table table-condensed table-bordered" id="dataTables-example1" style="margin:0">
 									<thead>
 										<tr>
 											<th>Locus Tag</th>
@@ -368,8 +368,8 @@
 							</div>
 							<!-- /.table-responsive -->
 							
-						</div>
-						<!-- /.panel-body -->
+						<!--/div>
+						<!-- /.panel-body ->
 					</div>
 					<!-- /.panel -->
 				</div>
