@@ -1,0 +1,229 @@
+#Replicon Name	Replicon Accession	Start	Stop	Strand	GeneID	Locus	Locus tag	Protein product	Length	COG(s)	Protein name
+chr	NC_002942.5	2327599	2330328	-	19833645	traG	lpg2079	YP_096092.1	909	-	hypothetical protein lpg2079
+chr	NC_002942.5	2330325	2331710	-	19833646	traH	lpg2080	YP_096093.1	461	-	hypothetical protein lpg2080
+chr	NC_002942.5	2331707	2332129	-	19833647	traF	lpg2081	YP_096094.1	140	-	sex pilus assembly TraF, thiol-disulfide isomerase and thioredoxins
+chr	NC_002942.5	2332119	2332901	-	19833648	traF	lpg2082	YP_096095.1	260	-	pilus assembly protein TraF
+chr	NC_002942.5	2332894	2334705	-	19833649	traN	lpg2083	YP_096096.1	603	-	conjugal transfer protein TraN
+chr	NC_002942.5	2334705	2335376	-	19833650	-	lpg2084	YP_096097.1	223	-	conjugative transfer protein TrbC
+chr	NC_002942.5	2335389	2336384	-	19833651	traU	lpg2085	YP_096098.1	331	-	hypothetical protein lpg2085
+chr	NC_002942.5	2336381	2336989	-	19833652	-	lpg2086	YP_096099.1	202	-	hypothetical protein lpg2086
+chr	NC_002942.5	2337314	2339911	-	19833653	traC	lpg2087	YP_096100.1	865	-	hypothetical protein lpg2087
+chr	NC_002942.5	2339878	2340228	-	19833654	traV	lpg2088	YP_096101.1	116	-	conjugative transfer: assembly
+chr	NC_002942.5	2340242	2341561	-	19833655	-	lpg2089	YP_096102.1	439	-	conjugative transfer protein TraB
+chr	NC_002942.5	2341530	2342243	-	19833656	-	lpg2090	YP_096103.1	237	-	conjugative transfer protein TraK
+chr	NC_002942.5	2342246	2342809	-	19833657	-	lpg2091	YP_096104.1	187	-	conjugative transfer protein TraE
+chr	NC_002942.5	2342813	2343106	-	19833658	-	lpg2092	YP_096105.1	97	-	sex pilus assembly protein-like
+chr	NC_002942.5	2343108	2343410	-	19833659	-	lpg2093	YP_096106.1	100	-	fimbrial protein -like
+chr	NC_002942.5	2343425	2343661	-	19833660	csrA	lpg2094	YP_096107.1	78	-	carbon storage regulator RsmA
+chr	NC_002942.5	2344000	2344884	-	19833661	lvrA	lpg2095	YP_096108.1	294	-	protein LvrA
+chr	NC_002942.5	2345033	2345737	+	19833662	-	lpg2096	YP_096109.1	234	-	prophage repressor CI-like
+chr	NC_002942.5	2345877	2346560	+	19833663	-	lpg2097	YP_096110.1	227	-	hypothetical protein lpg2097
+chr	NC_002942.5	2347009	2347581	+	19833664	-	lpg2098	YP_096111.1	190	-	MsrA3 - peptide methionine sulfoxide reductase
+chr	NC_002942.5	2347541	2348062	+	19833665	-	lpg2099	YP_096112.1	173	-	methionine sulfoxide reductase B
+chr	NC_002942.5	2348055	2348642	-	19833666	-	lpg2100	YP_096113.1	195	-	phosphatidoglycerophosphate synthase
+chr	NC_002942.5	2348647	2350782	-	19833667	merA1	lpg2101	YP_096114.1	711	-	mercuric reductase
+chr	NC_002942.5	2350801	2351682	-	19833668	-	lpg2102	YP_096115.1	293	-	sterol desaturase
+chr	NC_002942.5	2351789	2351935	-	19833669	-	lpg2103	YP_096116.1	48	-	hypothetical protein lpg2103
+chr	NC_002942.5	2352127	2352303	+	19833670	-	lpg2104	YP_096117.1	58	-	hypothetical protein lpg2104
+chr	NC_002942.5	2352473	2352970	-	19833671	-	lpg2105	YP_096118.1	165	-	transmembrane protein
+chr	NC_002942.5	2352960	2353739	-	19833672	-	lpg2106	YP_096119.1	259	-	hypothetical protein lpg2106
+chr	NC_002942.5	2353732	2354586	-	19833673	-	lpg2107	YP_096120.1	284	-	hypothetical protein lpg2107
+chr	NC_002942.5	2354601	2354894	-	19833674	-	lpg2108	YP_096121.1	97	-	hypothetical protein lpg2108
+chr	NC_002942.5	2355084	2355605	-	19833675	-	lpg2109	YP_096122.1	173	-	hypothetical protein lpg2109
+chr	NC_002942.5	2355910	2356398	-	19833676	-	lpg2110	YP_096123.1	162	-	hypothetical protein lpg2110
+chr	NC_002942.5	2357327	2357848	-	19833677	-	lpg2111	YP_096124.1	173	-	methionine sulfoxide reductase B
+chr	NC_002942.5	2358020	2358574	+	19833678	-	lpg2112	YP_096125.1	184	-	24 kDa macrophage-induced major protein
+chr	NC_002942.5	2359008	2359208	+	19833679	recG	lpg2113	YP_096126.1	66	-	ATP dependent DNA helicase-like
+chr	NC_002942.5	2359302	2359685	+	19833680	-	lpg2114	YP_096127.1	127	-	transposase
+chr	NC_002942.5	2359739	2360692	-	19833681	-	lpg2115	YP_096128.1	317	-	phage AbiD protein
+chr	NC_002942.5	2361172	2362620	+	19833682	-	lpg2116	YP_096129.1	482	-	IS4 family transposase TnpA
+chr	NC_002942.5	2362653	2363828	-	19833683	-	lpg2118	YP_096130.1	391	-	transposase TnpA
+chr	NC_002942.5	2362653	2363213	-	19833685	-	lpg2117	YP_096131.1	186	-	transposase, TnpA
+chr	NC_002942.5	2363881	2364906	-	19833684	-	lpg2119	YP_096132.1	341	-	transposase (ISmav2)
+chr	NC_002942.5	2365065	2366483	+	19833686	-	lpg2120	YP_096133.1	472	-	IS4 family transposase Tn5
+chr	NC_002942.5	2366711	2366920	+	19833687	-	lpg2121	YP_096134.1	69	-	cold shock DNA binding domain-containing protein
+chr	NC_002942.5	2367160	2368566	+	19833688	dbpA	lpg2122	YP_096135.1	468	-	ATP-dependent RNA helicase DbpA
+chr	NC_002942.5	2368723	2369634	+	19833689	-	lpg2123	YP_096136.1	303	-	cobalt zinc cadmium cation transporter
+chr	NC_002942.5	2369804	2369977	+	19833690	-	lpg2124	YP_096137.1	57	-	hypothetical protein lpg2124
+chr	NC_002942.5	2370145	2370606	-	19833691	-	lpg2125	YP_096138.1	153	-	hypothetical protein lpg2125
+chr	NC_002942.5	2370656	2372533	-	19833692	kup2	lpg2126	YP_096139.1	625	-	Kup system potassium uptake protein
+chr	NC_002942.5	2373011	2373499	+	19833693	-	lpg2127	YP_096140.1	162	-	hypothetical protein lpg2127
+chr	NC_002942.5	2373532	2374194	-	19833694	-	lpg2128	YP_096141.1	220	-	hypothetical protein lpg2128
+chr	NC_002942.5	2374202	2374498	-	19833695	-	lpg2129	YP_096142.1	98	-	hypothetical protein lpg2129
+chr	NC_002942.5	2374428	2374697	+	19833696	-	lpg2130	YP_096143.1	89	-	hypothetical protein lpg2130
+chr	NC_002942.5	2374714	2375256	-	19833697	legA6	lpg2131	YP_096144.1	180	-	ankyrin 3
+chr	NC_002942.5	2375275	2376813	-	19833698	-	lpg2132	YP_096145.1	512	-	sensory box/GGDEF family protein
+chr	NC_002942.5	2377025	2378293	+	19833699	-	lpg2133	YP_096146.1	422	-	proline/glycine betaine transporter-like protein
+chr	NC_002942.5	2378395	2381595	-	19833700	-	lpg2134	YP_096147.1	1066	-	chemiosmotic efflux system protein A
+chr	NC_002942.5	2381596	2382564	-	19833701	-	lpg2135	YP_096148.1	322	-	chemiosmotic efflux system protein B
+chr	NC_002942.5	2382561	2383907	-	19833702	-	lpg2136	YP_096149.1	448	-	chemiosmotic efflux system protein C
+chr	NC_002942.5	2384233	2385849	-	19833703	legK2	lpg2137	YP_096150.1	538	-	calmodulin-dependent protein kinase
+chr	NC_002942.5	2386207	2387121	+	19833704	-	lpg2138	YP_096151.1	304	-	LysR family transcriptional regulator
+chr	NC_002942.5	2387133	2387723	-	19833705	-	lpg2139	YP_096152.1	196	-	pyridoxamine 5\'-phosphate oxidase
+chr	NC_002942.5	2387854	2388234	-	19833706	-	lpg2140	YP_096153.1	126	-	MarR family transcriptional regulator
+chr	NC_002942.5	2388257	2389093	+	19833707	-	lpg2141	YP_096154.1	278	-	glucose-1-dehydrogenase
+chr	NC_002942.5	2389116	2389376	+	19833708	-	lpg2142	YP_096155.1	86	-	hypothetical protein lpg2142
+chr	NC_002942.5	2389471	2390412	-	19833709	-	lpg2143	YP_096156.1	313	-	hypothetical protein lpg2143
+chr	NC_002942.5	2390645	2391163	+	19833710	legAU13	lpg2144	YP_096157.1	172	-	F-box protein
+chr	NC_002942.5	2391194	2391550	-	19833711	-	lpg2145	YP_096158.1	118	-	two component response regulator protein
+chr	NC_002942.5	2391603	2394053	-	19833712	-	lpg2146	YP_096159.1	816	-	response regulator TutC
+chr	NC_002942.5	2394467	2395915	+	19833713	-	lpg2147	YP_096160.1	482	-	hypothetical protein lpg2147
+chr	NC_002942.5	2395991	2397271	+	19833714	-	lpg2148	YP_096161.1	426	-	hypothetical protein lpg2148
+chr	NC_002942.5	2397359	2397718	+	19833715	-	lpg2149	YP_096162.1	119	-	hypothetical protein lpg2149
+chr	NC_002942.5	2397952	2398533	+	19833716	-	lpg2150	YP_096163.1	193	-	hypothetical protein lpg2150
+chr	NC_002942.5	2398592	2399458	+	19833717	-	lpg2151	YP_096164.1	288	-	aminoglycoside 6-adenylyltransferase
+chr	NC_002942.5	2399558	2401387	+	19833718	abcT3	lpg2152	YP_096165.1	609	-	multidrug resistance ABC transporter ATP-binding protein
+chr	NC_002942.5	2401678	2406279	+	19833719	-	lpg2153	YP_096166.1	1533	-	Sid related protein-like
+chr	NC_002942.5	2406709	2407614	+	19833720	-	lpg2154	YP_096167.1	301	-	Sid related protein-like
+chr	NC_002942.5	2407667	2410288	+	19833721	-	lpg2155	YP_096168.1	873	-	hypothetical protein lpg2155
+chr	NC_002942.5	2410554	2416334	+	19833722	-	lpg2156	YP_096169.1	1926	-	Sid related protein-like
+chr	NC_002942.5	2416693	2421213	+	19833723	-	lpg2157	YP_096170.1	1506	-	Sid related protein-like
+chr	NC_002942.5	2421627	2422256	+	19833724	pmtA	lpg2158	YP_096171.1	209	-	hypothetical protein lpg2158
+chr	NC_002942.5	2422285	2423406	-	19833725	-	lpg2159	YP_096172.1	373	-	hydroxyneurosporene (C20) methyltransferase CrtF
+chr	NC_002942.5	2423699	2425147	-	19833726	-	lpg2160	YP_096173.1	482	-	hypothetical protein lpg2160
+chr	NC_002942.5	2425676	2427934	+	19833727	-	lpg2161	YP_096174.1	752	-	hypothetical protein lpg2161
+chr	NC_002942.5	2428294	2428959	+	19833728	-	lpg2162	YP_096175.1	221	-	hypothetical protein lpg2162
+chr	NC_002942.5	2429231	2430076	-	19833729	-	lpg2163	YP_096176.1	281	-	AraC family transcriptional regulator
+chr	NC_002942.5	2430292	2430756	-	19833730	-	lpg2164	YP_096177.1	154	-	hypothetical protein lpg2164
+chr	NC_002942.5	2430958	2431470	+	19833731	-	lpg2165	YP_096178.1	170	-	hypothetical protein lpg2165
+chr	NC_002942.5	2431605	2432864	+	19833732	-	lpg2166	YP_096179.1	419	-	hypothetical protein lpg2166
+chr	NC_002942.5	2433024	2433728	-	19833733	-	lpg2167	YP_096180.1	234	-	DeoR family transcriptional regulator
+chr	NC_002942.5	2433697	2434470	-	19833734	-	lpg2168	YP_096181.1	257	-	acetyltransferase
+chr	NC_002942.5	2434660	2435034	+	19833735	-	lpg2169	YP_096182.1	124	-	hypothetical protein lpg2169
+chr	NC_002942.5	2435166	2435807	+	19833736	-	lpg2170	YP_096183.1	213	-	hypothetical protein lpg2170
+chr	NC_002942.5	2436055	2437065	+	19833737	-	lpg2171	YP_096184.1	336	-	hypothetical protein lpg2171
+chr	NC_002942.5	2437187	2438290	-	19833738	-	lpg2172	YP_096185.1	367	-	adenosylhomocysteinase
+chr	NC_002942.5	2438461	2439636	+	19833739	-	lpg2173	YP_096186.1	391	-	TnpA transposase
+chr	NC_002942.5	2439943	2440710	+	19833741	-	lpg2175	YP_096187.1	255	-	(2-pyrone-4,6-)dicarboxylic acid hydrolase
+chr	NC_002942.5	2440714	2442540	-	19833742	legS2	lpg2176	YP_096188.1	608	-	sphingosine-1-phosphate lyase I
+chr	NC_002942.5	2442757	2443863	+	19833743	-	lpg2177	YP_096189.1	368	-	HlyD family secretion protein
+chr	NC_002942.5	2443964	2447119	+	19833744	mexF2	lpg2178	YP_096190.1	1051	-	multidrug-efflux system transmembrane protein
+chr	NC_002942.5	2447235	2451596	+	19833745	-	lpg2179	YP_096191.1	1453	-	peptide synthetase, non-ribosomal
+chr	NC_002942.5	2451717	2454203	+	19833746	-	lpg2180	YP_096192.1	828	-	sensory box histidine kinase/response regulator
+chr	NC_002942.5	2454375	2455283	+	19833747	-	lpg2181	YP_096193.1	302	-	sensory box sensor histidine kinase/response regulator
+chr	NC_002942.5	2455547	2456326	+	19833748	-	lpg2182	YP_096194.1	259	-	hypothetical protein lpg2182
+chr	NC_002942.5	2456333	2457385	+	19833749	-	lpg2183	YP_096195.1	350	-	regulatory protein, SyrP-like
+chr	NC_002942.5	2457486	2458892	-	19833750	-	lpg2184	YP_096196.1	468	-	hypothetical protein lpg2184
+chr	NC_002942.5	2458829	2459137	-	19833751	-	lpg2185	YP_096197.1	102	-	hypothetical protein lpg2185
+chr	NC_002942.5	2459143	2470485	+	19833752	pksJ	lpg2186	YP_096198.1	3780	-	polyketide synthase
+chr	NC_002942.5	2470488	2470889	-	19833753	-	lpg2187	YP_096199.1	133	-	hypothetical protein lpg2187
+chr	NC_002942.5	2470888	2471040	+	19833754	-	lpg2188	YP_096200.1	50	-	hypothetical protein lpg2188
+chr	NC_002942.5	2471119	2472072	-	19833755	ygjT	lpg2189	YP_096201.1	317	-	drug efflux protein
+chr	NC_002942.5	2472187	2474049	-	19833756	-	lpg2190	YP_096202.1	620	-	IcmL-like protein
+chr	NC_002942.5	2474359	2474886	+	19833757	ibpA	lpg2191	YP_096203.1	175	-	global stress protein GspA
+chr	NC_002942.5	2475025	2475591	+	19833758	-	lpg2192	YP_096204.1	188	-	small HspC2 heat shock protein
+chr	NC_002942.5	2475808	2477361	+	19833759	-	lpg2193	YP_096205.1	517	-	sulfate transporter
+chr	NC_002942.5	2477365	2477991	+	19833760	-	lpg2194	YP_096206.1	208	-	(beta)-carbonic anhydrase
+chr	NC_002942.5	2478104	2478400	-	19833761	-	lpg2195	YP_096207.1	98	-	hypothetical protein lpg2195
+chr	NC_002942.5	2478431	2479402	-	19833762	-	lpg2196	YP_096208.1	323	-	ornithine cyclodeaminase
+chr	NC_002942.5	2479457	2479804	-	19833763	-	lpg2197	YP_096209.1	115	-	ketosteroid isomerase
+chr	NC_002942.5	2480322	2481827	+	19833764	-	lpg2198	YP_096210.1	501	-	POT family peptide transport protein
+chr	NC_002942.5	2481832	2482464	-	19833765	-	lpg2199	YP_096211.1	210	-	hypothetical protein lpg2199
+chr	NC_002942.5	2482630	2483166	-	19833766	-	lpg2200	YP_096212.1	178	-	hypothetical protein lpg2200
+chr	NC_002942.5	2483299	2484732	-	19833767	-	lpg2201	YP_096213.1	477	-	replication factor C subunit (activator I)
+chr	NC_002942.5	2484763	2485095	-	19833768	-	lpg2202	YP_096214.1	110	-	hypothetical protein lpg2202
+chr	NC_002942.5	2485291	2486850	-	19833769	-	lpg2203	YP_096215.1	519	-	alginate O-acetylation protein AlgJ
+chr	NC_002942.5	2486847	2488268	-	19833770	-	lpg2204	YP_096216.1	473	-	alginate O-acetylation protein
+chr	NC_002942.5	2488484	2489122	+	19833771	-	lpg2205	YP_096217.1	212	-	hypothetical protein lpg2205
+chr	NC_002942.5	2489349	2490449	+	19833772	-	lpg2206	YP_096218.1	366	-	hypothetical protein lpg2206
+chr	NC_002942.5	2490497	2491720	-	19833773	-	lpg2207	YP_096219.1	407	-	hypothetical protein lpg2207
+chr	NC_002942.5	2492063	2493076	-	19833774	-	lpg2208	YP_096220.1	337	-	zinc binding dehydrogenase
+chr	NC_002942.5	2493393	2493923	+	19833775	-	lpg2209	YP_096221.1	176	-	hypothetical protein lpg2209
+chr	NC_002942.5	2494084	2495133	-	19833776	-	lpg2210	YP_096222.1	349	-	hypothetical protein lpg2210
+chr	NC_002942.5	2495267	2495671	-	19833777	-	lpg2211	YP_096223.1	134	-	hypothetical protein lpg2211
+chr	NC_002942.5	2495865	2497145	+	19833778	bcp	lpg2212	YP_096224.1	426	-	acetylpolyamine aminohydolase
+chr	NC_002942.5	2497386	2497838	+	19833779	-	lpg2213	YP_096225.1	150	-	hemin binding protein Hbp
+chr	NC_002942.5	2497935	2498858	-	19833780	-	lpg2214	YP_096226.1	307	-	nucleoside-diphosphate sugar epimerase
+chr	NC_002942.5	2498937	2500532	-	19833781	legA2	lpg2215	YP_096227.1	531	-	ankyrin repeat-containing protein
+chr	NC_002942.5	2500553	2502325	-	19833782	-	lpg2216	YP_096228.1	590	-	purine NTPase
+chr	NC_002942.5	2502575	2503549	-	19833783	-	lpg2217	YP_096229.1	324	-	chitinase
+chr	NC_002942.5	2503751	2504842	+	19833784	-	lpg2218	YP_096230.1	363	-	choline monooxygenase
+chr	NC_002942.5	2504988	2506124	+	19833785	-	lpg2219	YP_096231.1	378	-	hypothetical protein lpg2219
+chr	NC_002942.5	2506190	2507689	-	19833786	-	lpg2220	YP_096232.1	499	-	hypothetical protein lpg2220
+chr	NC_002942.5	2507832	2508551	-	19833787	-	lpg2221	YP_096233.1	239	-	hypothetical protein lpg2221
+chr	NC_002942.5	2508818	2509945	-	19833788	-	lpg2222	YP_096234.1	375	-	hypothetical protein lpg2222
+chr	NC_002942.5	2510199	2511422	-	19833789	-	lpg2223	YP_096235.1	407	-	hypothetical protein lpg2223
+chr	NC_002942.5	2512062	2513843	+	19833790	-	lpg2224	YP_096236.1	593	-	UVB-resistance protein UVR8
+chr	NC_002942.5	2514038	2515567	-	19833791	-	lpg2225	YP_096237.1	509	-	hypothetical protein lpg2225
+chr	NC_002942.5	2515574	2517265	-	19833792	-	lpg2226	YP_096238.1	563	-	isovaleryl CoA dehydrogenase
+chr	NC_002942.5	2517274	2518713	-	19833793	-	lpg2227	YP_096239.1	479	-	acetyl CoA carboxylase subunit alpha
+chr	NC_002942.5	2518922	2519983	+	19833794	-	lpg2228	YP_096240.1	353	-	3-oxoacyl-ACP synthase
+chr	NC_002942.5	2519995	2521740	+	19833795	-	lpg2229	YP_096241.1	581	-	saframycin Mx1 synthetase B
+chr	NC_002942.5	2521730	2523124	+	19833796	-	lpg2230	YP_096242.1	464	-	acyl CoA ligase
+chr	NC_002942.5	2523344	2524096	+	19833797	fabG	lpg2231	YP_096243.1	250	-	3-oxoacyl-ACP reductase
+chr	NC_002942.5	2524093	2525103	+	19833798	fabH	lpg2232	YP_096244.1	336	-	3-oxoacyl-ACP synthase
+chr	NC_002942.5	2525446	2525673	-	19833799	-	lpg2233	YP_096245.1	75	-	acyl carrier protein
+chr	NC_002942.5	2525683	2527050	-	19833800	-	lpg2234	YP_096246.1	455	-	multidrug resistance protein D
+chr	NC_002942.5	2527060	2528262	+	19833801	-	lpg2235	YP_096247.1	400	-	sterol desaturase
+chr	NC_002942.5	2528349	2530757	+	19833553	-	lpg2236	YP_096248.1	802	-	nitric oxide reductase subunit B
+chr	NC_002942.5	2530946	2532784	-	19833802	abcT3	lpg2237	YP_096249.1	612	-	multidrug ABC transporter ATP-binding protein
+chr	NC_002942.5	2532943	2533329	-	19833803	-	lpg2238	YP_096250.1	128	-	transmembrane protein
+chr	NC_002942.5	2533540	2537397	+	19833804	-	lpg2239	YP_096251.1	1285	-	hypothetical protein lpg2239
+chr	NC_002942.5	2537623	2538831	+	19833805	-	lpg2240	YP_096252.1	402	-	dipeptidyl aminopeptidase/acylaminoacyl peptidase
+chr	NC_002942.5	2538893	2540185	+	19833806	-	lpg2241	YP_096253.1	430	-	hypothetical protein lpg2241
+chr	NC_002942.5	2540094	2541419	+	19833807	-	lpg2242	YP_096254.1	441	-	hypothetical protein lpg2242
+chr	NC_002942.5	2541432	2542076	+	19833808	upp	lpg2243	YP_096255.1	214	-	uracil phosphoribosyltransferase
+chr	NC_002942.5	2542341	2545283	+	19833809	-	lpg2244	YP_096256.1	980	-	hypothetical protein lpg2244
+chr	NC_002942.5	2545546	2546838	-	19833810	dctA	lpg2245	YP_096257.1	430	-	C4-dicarboxylate transport protein
+chr	NC_002942.5	2547160	2547669	-	19833811	-	lpg2246	YP_096258.1	169	-	hypothetical protein lpg2246
+chr	NC_002942.5	2548037	2548792	+	19833812	-	lpg2247	YP_096259.1	251	-	DedA family protein
+chr	NC_002942.5	2549049	2551283	-	19833813	-	lpg2248	YP_096260.1	744	-	hypothetical protein lpg2248
+chr	NC_002942.5	2551374	2552072	-	19833814	-	lpg2249	YP_096261.1	232	-	glutamine amidotransferase
+chr	NC_002942.5	2552202	2553362	-	19833815	-	lpg2250	YP_096262.1	386	-	alcohol dehydrogenase
+chr	NC_002942.5	2553492	2554889	-	19833816	-	lpg2251	YP_096263.1	465	-	succinate semialdehyde dehydrogenase
+chr	NC_002942.5	2554927	2556300	-	19833817	-	lpg2252	YP_096264.1	457	-	glutamine synthetase
+chr	NC_002942.5	2556352	2557140	-	19833818	-	lpg2253	YP_096265.1	262	-	hypothetical protein lpg2253
+chr	NC_002942.5	2557137	2558033	-	19833819	-	lpg2254	YP_096266.1	298	-	hypothetical protein lpg2254
+chr	NC_002942.5	2558082	2558333	-	19833820	-	lpg2255	YP_096267.1	83	-	hypothetical protein lpg2255
+chr	NC_002942.5	2558698	2560116	-	19833821	-	lpg2256	YP_096268.1	472	-	metallo-beta-lactamase superfamily protein
+chr	NC_002942.5	2560179	2560829	-	19833822	-	lpg2257	YP_096269.1	216	-	hypothetical protein lpg2257
+chr	NC_002942.5	2560946	2561236	+	19833823	-	lpg2258	YP_096270.1	96	-	hypothetical protein lpg2258
+chr	NC_002942.5	2561327	2561638	-	19833824	osmY	lpg2259	YP_096271.1	103	-	periplasmic, osmotically inducible protein Y-like
+chr	NC_002942.5	2561792	2563642	+	19833825	phbC	lpg2260	YP_096272.1	616	-	PHA synthase
+chr	NC_002942.5	2563654	2565060	+	19833826	-	lpg2261	YP_096273.1	468	-	bifunctional enoyl-CoA hydratase/phosphate acetyltransferase
+chr	NC_002942.5	2565057	2566175	+	19833827	ackA2	lpg2262	YP_096274.1	372	-	acetate kinase
+chr	NC_002942.5	2566215	2567105	+	19833828	cbpA	lpg2263	YP_096275.1	296	-	curved DNA binding protein DnaJ
+chr	NC_002942.5	2567108	2567422	+	19833829	-	lpg2264	YP_096276.1	104	-	hypothetical protein lpg2264
+chr	NC_002942.5	2567419	2567982	-	19833830	-	lpg2265	YP_096277.1	187	-	acyltransferase
+chr	NC_002942.5	2568100	2568651	+	19833831	-	lpg2266	YP_096278.1	183	-	hypothetical protein lpg2266
+chr	NC_002942.5	2568684	2569922	-	19833832	-	lpg2267	YP_096279.1	412	-	prolidase
+chr	NC_002942.5	2570220	2570831	+	19833833	-	lpg2268	YP_096280.1	203	-	hypothetical protein lpg2268
+chr	NC_002942.5	2570779	2573355	+	19833834	-	lpg2269	YP_096281.1	858	-	endonuclease
+chr	NC_002942.5	2573383	2574225	+	19833835	-	lpg2270	YP_096282.1	280	-	oxidoreductase
+chr	NC_002942.5	2574377	2575027	+	19833836	-	lpg2271	YP_096283.1	216	-	hypothetical protein lpg2271
+chr	NC_002942.5	2575202	2575693	-	19833837	-	lpg2272	YP_096284.1	163	-	transmembrane protein
+chr	NC_002942.5	2575835	2577148	-	19833838	ugpB	lpg2273	YP_096285.1	437	-	glycerol-3-phosphate ABC transporter substrate-binding protein
+chr	NC_002942.5	2577145	2577864	-	19833839	ugpQ	lpg2274	YP_096286.1	239	-	glycerophosphoryl diester esterase
+chr	NC_002942.5	2577869	2578576	-	19833840	-	lpg2275	YP_096287.1	235	-	hypothetical protein lpg2275
+chr	NC_002942.5	2578877	2579950	+	19833841	-	lpg2276	YP_096288.1	357	-	Glu/Leu/Phe/Val dehydrogenase
+chr	NC_002942.5	2579965	2580621	+	19833842	-	lpg2277	YP_096289.1	218	-	O-methyltransferase, SAM-dependent
+chr	NC_002942.5	2580649	2581734	+	19833843	hpd	lpg2278	YP_096290.1	361	-	4-hydroxyphenylpyruvate dioxygenase
+chr	NC_002942.5	2581790	2582788	+	19833844	-	lpg2279	YP_096291.1	332	-	fumarylacetoacetate hydrolase
+chr	NC_002942.5	2582785	2583423	+	19833845	-	lpg2280	YP_096292.1	212	-	glutathione S-transferase
+chr	NC_002942.5	2583420	2583980	-	19833846	-	lpg2281	YP_096293.1	186	-	hypothetical protein lpg2281
+chr	NC_002942.5	2584128	2585531	+	19833847	asnC	lpg2282	YP_096294.2	467	-	asparaginyl-tRNA synthetase
+chr	NC_002942.5	2585528	2585926	-	19833848	-	lpg2283	YP_096295.1	132	-	hypothetical protein lpg2283
+chr	NC_002942.5	2585950	2586633	-	19833849	-	lpg2284	YP_096296.1	227	-	ABC transporter ATP-binding protein
+chr	NC_002942.5	2586626	2587981	-	19833850	-	lpg2285	YP_096297.1	451	-	lipoprotein ABC transporter
+chr	NC_002942.5	2588112	2589086	-	19833851	-	lpg2286	YP_096298.1	324	-	pirin
+chr	NC_002942.5	2589004	2589624	-	19833852	acpD	lpg2287	YP_096299.1	206	-	ACP phosphodiesterase
+chr	NC_002942.5	2589773	2590693	+	19833853	-	lpg2288	YP_096300.1	306	-	LysR family transcriptional regulator
+chr	NC_002942.5	2590658	2590885	-	19833854	-	lpg2289	YP_096301.1	75	-	hypothetical protein lpg2289
+chr	NC_002942.5	2591078	2591641	-	19833858	pgsA	lpg2293	YP_096302.1	187	-	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+chr	NC_002942.5	2591661	2592320	-	19833859	-	lpg2294	YP_096303.1	219	-	HAD superfamily hydrolase
+chr	NC_002942.5	2592313	2593266	-	19833860	rluC	lpg2295	YP_096304.1	317	-	ribosomal large subunit (23S rRNA) pseudouridine synthase C
+chr	NC_002942.5	2593774	2594085	+	19833861	-	lpg2296	YP_096305.1	103	-	hypothetical protein lpg2296
+chr	NC_002942.5	2594148	2596151	+	19833862	rne	lpg2297	YP_096306.1	667	-	ribonuclease E
+chr	NC_002942.5	2596514	2597791	-	19833863	legC7	lpg2298	YP_096307.1	425	-	inclusion membrane protein A
+chr	NC_002942.5	2598385	2601261	+	19833864	hepA	lpg2299	YP_096308.1	958	-	ATP-dependent helicase HepA
+chr	NC_002942.5	2601375	2602778	-	19833865	legA3	lpg2300	YP_096309.1	467	-	ankyrin repeat-containing protein
+chr	NC_002942.5	2602779	2603561	-	19833866	-	lpg2301	YP_096310.1	260	-	hypothetical protein lpg2301
+chr	NC_002942.5	2603700	2604722	-	19833867	asd	lpg2302	YP_096311.1	340	-	aspartate semialdehyde dehydrogenase
+chr	NC_002942.5	2604832	2605890	-	19833868	-	lpg2303	YP_096312.1	352	-	chorismate synthase
+chr	NC_002942.5	2605902	2606834	-	19833869	-	lpg2304	YP_096313.1	310	-	N5-glutamine S-adenosyl-L-methionine-dependent methyltransferase
+chr	NC_002942.5	2606999	2607568	+	19833870	-	lpg2305	YP_096314.1	189	-	Smr domain-containing protein
+chr	NC_002942.5	2607641	2608060	+	19833871	-	lpg2306	YP_096315.1	139	-	rhodanese domain-containing protein
+chr	NC_002942.5	2608065	2608319	+	19833872	grxC	lpg2307	YP_096316.1	84	-	glutaredoxin
+chr	NC_002942.5	2608329	2608817	+	19833873	secB	lpg2308	YP_096317.1	162	-	preprotein translocase subunit SecB
+chr	NC_002942.5	2608741	2609808	+	19833874	gpsA	lpg2309	YP_096318.1	355	-	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+chr	NC_002942.5	2609894	2610760	-	19833875	murI	lpg2310	YP_096319.1	288	-	glutamate racemase

@@ -1,0 +1,48 @@
+ID da proteina:	 NC_002942.5
+Nome comum:	 Legionella pneumophila subsp. pneumophila str. Philadelphia 1 chromosome, complete genome.
+Comprimento da Sequencia:	 283700
+CDS: Genes e localizacao das bases que codificam o gene:
+type: CDS
+location: [12777:13128](-)
+qualifiers:
+    Key: codon_start, Value: ['1']
+    Key: db_xref, Value: ['GeneID:19833654']
+    Key: function, Value: ['Transport and binding']
+    Key: gene, Value: ['traV']
+    Key: locus_tag, Value: ['lpg2088']
+    Key: product, Value: ['conjugative transfer: assembly']
+    Key: protein_id, Value: ['YP_096101.1']
+    Key: transl_table, Value: ['11']
+    Key: translation, Value: ['MKILTTLLLLPCVVLTGCAKLNEDFDCPAPNGGTCKRMDQVYDMVNGKGKSLAVTPSRNPLVMDGRPGQPVRYGEGVMPLWIAPYEDTDGNYHQANRVYSVVKEGQWMQQSQLALK']
+
+Fonte: type: source
+location: [0:283700](+)
+qualifiers:
+    Key: db_xref, Value: ['taxon:272624']
+    Key: mol_type, Value: ['genomic DNA']
+    Key: organism, Value: ['Legionella pneumophila subsp. pneumophila str. Philadelphia 1']
+    Key: strain, Value: ['Philadelphia 1']
+    Key: sub_species, Value: ['pneumophila']
+
+Dados gerais:  type: gene
+location: [498:3228](-)
+qualifiers:
+    Key: db_xref, Value: ['GeneID:19833645']
+    Key: gene, Value: ['traG']
+    Key: locus_tag, Value: ['lpg2079']
+
+Regioes de interesse:  type: CDS
+location: [498:3228](-)
+qualifiers:
+    Key: codon_start, Value: ['1']
+    Key: db_xref, Value: ['GeneID:19833645']
+    Key: function, Value: ['Transport and binding']
+    Key: gene, Value: ['traG']
+    Key: locus_tag, Value: ['lpg2079']
+    Key: product, Value: ['hypothetical protein']
+    Key: protein_id, Value: ['YP_096092.1']
+    Key: transl_table, Value: ['11']
+    Key: translation, Value: ['MSEMAVTMQIYTITGGELLKAFYNATAAMFHYDGILGIFRTALIIGGVWTVGQFIVKRDVRSMFFFILKYAFVISFILTPTCNLQIHDRTDPLRPDLTVDNVPLVLGVVGGLSSQLSDKITRLFEFFFHSPNDMDYSQTGMIMGAKLFLSASNIKITDPLFNANMQKFMQQCVFYDVMYGRYGLKDINQARDIWELVKSNASVARGFIYDGSFKSCMEAASLLDSAWSGVIEDAKSKYAGFAFGNHSDALANFEKYLPQAYNHLTAMSGDAAALIRQNMMANAIRDGVFSMGARVNSKAAIDSFSASRAQDKIPAALSNIGLMSAYWLPMLQSLLFCIVIGCFIFVLFFFPFPSGISFFQFYATLYVWLALWAPMFTVINYIMTILAQFSLSFVSTGATTLAYQTGMNQVYENMAALGGYLVLATTTLSYMLISRHVGSFVSLTQQPTGIVQNAASSAAEEAQMGNYSYGNTSFANHNGFNSSSFHNDQNARISLGGIETSLDSGSIARISRDGSETLTMATATSHTPLNIQLGESTRSAFSELSDSAKSAGFNKSIASSEHYAASLRSLAELGETQSHGEQSGQGHQISTSAGFNAAASKISNLIDTFAHDHNISRDDATKVLSAASINLGGSFGFGTGSAVPGAKGNIEIGGNVRHERDKSESHQDARLMNEARRFSEEHHFTDVVNEARQATKDDHFRTSDDFSGRLANNFSAGFDKSMQYRDEAVASFSESESYHRQATTSSEQTASINLDAQTGFIDWLSHHRAPNSQGTIGLQQAEWLIRHDPELAQSYARQFVGEKTAQSISQFQKNHPINESQVHQKNEGFKSRIAGSAGVDHALGDYTNTFNDRAKNINAGSVNKDSVSAVDKDFARAKSEMSKNVEGIVQDGSQVMQDVIVAQANKDVK']
+
+Taxonomia:  ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Referencias:  [Reference(title='The genomic sequence of the accidental pathogen Legionella pneumophila', ...), Reference(title='Direct Submission', ...), Reference(title='Direct Submission', ...)]
