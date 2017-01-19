@@ -1,0 +1,2052 @@
+
+Locus Name : lpg2079
+Protein Name : TraG 
+Protein ID : Q5ZTT2_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2080
+Protein Name : TraH 
+Protein ID : Q5ZTT1_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2081
+Protein Name : Sex pilus assembly TraF, thiol-disulfide isomerase and thioredoxins 
+Protein ID : Q5ZTT0_LEGPH
+Cellular Locale : cell
+Status : Unreviewed
+Biological Process : ['cell redox homeostasis']
+Molecular Function : ['isomerase activity']
+Function : Unavailable
+
+Locus Name : lpg2082
+Protein Name : Pilus assembly protein TraF 
+Protein ID : Q5ZTS9_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2083
+Protein Name : TraN 
+Protein ID : Q5ZTS8_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2084
+Protein Name : Putative conjugative transfer protein TrbC 
+Protein ID : Q5ZTS7_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2085
+Protein Name : TraU 
+Protein ID : Q5ZTS6_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2086
+Protein Name : TraW 
+Protein ID : Q5ZTS5_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2087
+Protein Name : TraC 
+Protein ID : Q5ZTS4_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2088
+Protein Name : Conjugative transfer: assembly 
+Protein ID : Q5ZTS3_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2089
+Protein Name : Putative conjugative transfer protein TraB 
+Protein ID : Q5ZTS2_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2090
+Protein Name : Putative conjugative transfer protein TraK 
+Protein ID : Q5ZTS1_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2091
+Protein Name : Putative conjugative transfer protein TraE 
+Protein ID : Q5ZTS0_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : ['conjugation']
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2092
+Protein Name : Hypothetical sex pilus assembly protein-like 
+Protein ID : Q5ZTR9_LEGPH
+Cellular Locale : outer membrane
+Status : Unreviewed
+Biological Process : ['conjugation']
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2093
+Protein Name : Hypothetical fimbrial protein-like 
+Protein ID : Q5ZTR8_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2094
+Protein Name : Carbon storage regulator homolog 
+Protein ID : Q5ZTR7_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : ['mRNA catabolic process', 'regulation of carbohydrate metabolic process']
+Molecular Function : ['RNA binding']
+Function :  Could accelerate the degradation of some genes transcripts potentially through selective RNA binding. 
+
+Locus Name : lpg2095
+Protein Name : LvrA 
+Protein ID : Q5ZTR6_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2096
+Protein Name : Hypothetical prophage repressor CI-like 
+Protein ID : Q5ZTR5_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['sequence-specific DNA binding']
+Function : Unavailable
+
+Locus Name : lpg2097
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTR4_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['nucleic acid binding']
+Function : Unavailable
+
+Locus Name : lpg2098
+Protein Name : Peptide methionine sulfoxide reductase MsrA 
+Protein ID : Q5ZTR3_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : ['cellular protein modification process', 'protein repair', 'response to oxidative stress']
+Molecular Function : ['peptide-methionine (S)-S-oxide reductase activity']
+Function :  Has an important function as a repair enzyme for proteins that have been inactivated by oxidation. Catalyzes the reversible oxidation-reduction of methionine sulfoxide in proteins to methionine. 
+
+Locus Name : lpg2099
+Protein Name : MsrA2-peptide methionine sulfoxide reductase 
+Protein ID : Q5ZTR2_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : ['protein repair', 'response to oxidative stress']
+Molecular Function : ['peptide-methionine (R)-S-oxide reductase activity', 'peptide-methionine (S)-S-oxide reductase activity']
+Function : Unavailable
+
+Locus Name : lpg2100
+Protein Name : Predicted phosphatidoglycerophosphate synthase 
+Protein ID : Q5ZTR1_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : ['phospholipid biosynthetic process']
+Molecular Function : ['phosphotransferase activity, for other substituted phosphate groups']
+Function : Unavailable
+
+Locus Name : lpg2101
+Protein Name : Mercuric reductase 
+Protein ID : Q5ZTR0_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : ['cell redox homeostasis']
+Molecular Function : ['flavin adenine dinucleotide binding', 'mercury (II) reductase activity', 'oxidoreductase activity, acting on a sulfur group of donors, NAD(P) as acceptor']
+Function : Unavailable
+
+Locus Name : lpg2102
+Protein Name : Sterol desaturase 
+Protein ID : Q5ZTQ9_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : ['fatty acid biosynthetic process']
+Molecular Function : ['iron ion binding', 'oxidoreductase activity']
+Function : Unavailable
+
+Locus Name : lpg2103
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTQ8_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2104
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTQ7_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2105
+Protein Name : Transmembrane protein 
+Protein ID : Q5ZTQ6_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2106
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTQ5_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2107
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTQ4_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2108
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTQ3_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2109
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTQ2_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2110
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTQ1_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2111
+Protein Name : Peptide methionine sulfoxide reductase 
+Protein ID : Q5ZTQ0_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : ['protein repair', 'response to oxidative stress']
+Molecular Function : ['peptide-methionine (R)-S-oxide reductase activity', 'peptide-methionine (S)-S-oxide reductase activity']
+Function : Unavailable
+
+Locus Name : lpg2112
+Protein Name : Alkyl hydroperoxide reductase AhpD 
+Protein ID : Q5ZTP9_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['peroxidase activity', 'peroxiredoxin activity']
+Function :  Antioxidant protein with alkyl hydroperoxidase activity. Required for the reduction of the AhpC active site cysteine residues and for the regeneration of the AhpC enzyme activity. 
+
+Locus Name : lpg2113
+Protein Name : ATP dependent DNA helicase-like 
+Protein ID : Q5ZTP8_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['helicase activity']
+Function : Unavailable
+
+Locus Name : lpg2114
+Protein Name : Transposase 
+Protein ID : Q5ZTP7_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2115
+Protein Name : Hypothetical phage AbiD protein 
+Protein ID : Q5ZTP6_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg0142
+Protein Name : Transposase, IS4 family TnpA 
+Protein ID : Q5ZWJ9_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : ['transposition, DNA-mediated']
+Molecular Function : ['DNA binding', 'transposase activity']
+Function : Unavailable
+
+Locus Name : lpg2118
+Protein Name : Transposase TnpA 
+Protein ID : Q5ZTP4_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg0143
+Protein Name : Transposase (01), TnpA 
+Protein ID : Q5ZTP3_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2119
+Protein Name : Transposase (ISmav2) 
+Protein ID : Q5ZTP2_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : ['DNA integration']
+Molecular Function : ['DNA binding']
+Function : Unavailable
+
+Locus Name : lpg2120
+Protein Name : Transposase, IS4 family, Tn5 
+Protein ID : Q5ZTP1_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : ['transposition, DNA-mediated']
+Molecular Function : ['DNA binding', 'transposase activity']
+Function : Unavailable
+
+Locus Name : lpg2121
+Protein Name : Cold shock DNA binding domain protein 
+Protein ID : Q5ZTP0_LEGPH
+Cellular Locale : cytoplasm
+Status : Unreviewed
+Biological Process : ['regulation of transcription, DNA-templated', 'transcription, DNA-templated']
+Molecular Function : ['DNA binding']
+Function : Unavailable
+
+Locus Name : lpg2122
+Protein Name : ATP dependent RNA helicase DbpA 
+Protein ID : Q5ZTN9_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['ATP binding', 'helicase activity', 'nucleic acid binding']
+Function : Unavailable
+
+Locus Name : lpg2123
+Protein Name : Cobalt zinc cadmium cation transporter 
+Protein ID : Q5ZTN8_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['cation transmembrane transporter activity']
+Function : Unavailable
+
+Locus Name : lpg2124
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTN7_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2125
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTN6_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2126;
+Protein Name : Probable potassium transport system protein kup 2 
+Protein ID : KUP2_LEGPH
+Cellular Locale : plasma membrane
+Status : Reviewed
+Biological Process : Unavailable
+Molecular Function : ['potassium ion transmembrane transporter activity']
+Function :  Transport of potassium into the cell. 
+
+Locus Name : lpg2127
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTN4_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['transferase activity']
+Function : Unavailable
+
+Locus Name : lpg2128
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTN3_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2129
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTN2_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2130
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTN1_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2131
+Protein Name : Ankyrin 3 
+Protein ID : Q5ZTN0_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2132
+Protein Name : Sensory box/GGDEF family protein 
+Protein ID : Q5ZTM9_LEGPH
+Cellular Locale : intracellular
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['phosphorelay sensor kinase activity']
+Function : Unavailable
+
+Locus Name : lpg2133
+Protein Name : Proline/glycine betaine transporter 
+Protein ID : Q5ZTM8_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : ['transmembrane transport']
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2134
+Protein Name : Chemiosmotic efflux system protein A (CzcA) 
+Protein ID : Q5ZTM7_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['transporter activity']
+Function : Unavailable
+
+Locus Name : lpg2135
+Protein Name : Chemiosmotic efflux system protein B 
+Protein ID : Q5ZTM6_LEGPH
+Cellular Locale : membrane
+Status : Unreviewed
+Biological Process : ['transmembrane transport']
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2136
+Protein Name : Chemiosmotic efflux system protein C (CzcC) 
+Protein ID : Q5ZTM5_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['transporter activity']
+Function : Unavailable
+
+Locus Name : lpg2137
+Protein Name : Calmodulin-dependent protein kinase 
+Protein ID : Q5ZTM4_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['ATP binding', 'calmodulin-dependent protein kinase activity']
+Function : Unavailable
+
+Locus Name : lpg2138
+Protein Name : Transcriptional regulator, LysR family 
+Protein ID : Q5ZTM3_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : ['transcription, DNA-templated']
+Molecular Function : ['DNA binding', 'transcription factor activity, sequence-specific DNA binding']
+Function : Unavailable
+
+Locus Name : lpg2139
+Protein Name : Pyridoxamine 5'-phosphate oxidase 
+Protein ID : Q5ZTM2_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : ['pyridoxine biosynthetic process']
+Molecular Function : ['FMN binding', 'pyridoxamine-phosphate oxidase activity']
+Function : Unavailable
+
+Locus Name : lpg2140
+Protein Name : Hypothetical transcriptional regulator, MarR family 
+Protein ID : Q5ZTM1_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2141
+Protein Name : Glucose-1-dehydrogenase, (3-oxoacyl-(Acyl carrier protein) reductase) 
+Protein ID : Q5ZTM0_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2142
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTL9_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2143
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTL8_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2144
+Protein Name : F-box protein 
+Protein ID : Q5ZTL7_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2145
+Protein Name : Two component response regulator, CheY homologous receiver domain 
+Protein ID : Q5ZTL6_LEGPH
+Cellular Locale : intracellular
+Status : Unreviewed
+Biological Process : ['phosphorelay signal transduction system']
+Molecular Function : ['transferase activity']
+Function : Unavailable
+
+Locus Name : lpg2146
+Protein Name : Response regulator TutC 
+Protein ID : Q5ZTL5_LEGPH
+Cellular Locale : intracellular
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['phosphorelay sensor kinase activity']
+Function : Unavailable
+
+Locus Name : lpg2147
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTL4_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2148
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTL3_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2149
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTL2_LEGPH
+Cellular Locale : ribosome
+Status : Unreviewed
+Biological Process : ['translation']
+Molecular Function : ['structural constituent of ribosome']
+Function : Unavailable
+
+Locus Name : lpg2150
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTL1_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2151
+Protein Name : Aminoglycoside 6-adenylyltransferase 
+Protein ID : Q5ZTL0_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['nucleotidyltransferase activity']
+Function : Unavailable
+
+Locus Name : lpg2152
+Protein Name : Multidrug resistance ABC transporter ATP-binding protein 
+Protein ID : Q5ZTK9_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['ATP binding', 'ATPase activity, coupled to transmembrane movement of substances']
+Function : Unavailable
+
+Locus Name : lpg2153
+Protein Name : Sid related protein-like 
+Protein ID : Q5ZTK8_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2154
+Protein Name : Sid related protein-like 
+Protein ID : Q5ZTK7_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2155
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTK6_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2156
+Protein Name : Sid related protein-like 
+Protein ID : Q5ZTK5_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2157
+Protein Name : Ubiquitinating/deubiquitinating enzyme SdeA 
+Protein ID : SDEA_LEGPH
+Cellular Locale : host cell
+Status : Reviewed
+Biological Process : ['pathogenesis', 'protein deneddylation', 'protein deubiquitination', 'protein ubiquitination']
+Molecular Function : ['Lys63-specific deubiquitinase activity', 'NAD(P)+-protein-arginine ADP-ribosyltransferase activity', 'NEDD8-specific protease activity', 'nucleotide binding']
+Function :  Secreted effector that interferes with the host cell ubiquitin pathway and is required for intracellular bacterial replication. Catalyzes the ubiquitination of several mammalian Rab proteins (Rab33b, Rab1, Rab6a and Rab30) during L.pneumophila infection, without engaging the standard cellular enzyme cascade (E1 and E2). Transfers an ADP-ribose moiety from NAD to the 'Arg- 42' residue of ubiquitin in a reaction that releases nicotinamide. The modified ubiquitin is subsequently transferred to the substrate protein through an unknown mechanism that results in the release of AMP. Cannot ubiquitinate the endosomal Rab5 or the cytoskeletal small GTPase Rac1 (PubMed
+
+Locus Name : lpg2158
+Protein Name : Phosphatidylethanolamine N-methyltransferase 
+Protein ID : Q5ZTK3_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['phosphatidylethanolamine N-methyltransferase activity']
+Function : Unavailable
+
+Locus Name : lpg2159
+Protein Name : CrtF (Hydroxyneurosporene (C20) methyltransferase) 
+Protein ID : Q5ZTK2_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['O-methyltransferase activity']
+Function : Unavailable
+
+Locus Name : lpg2160
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTK1_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2161
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTK0_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2162
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTJ9_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2163
+Protein Name : (AraC family) transcriptional regulator 
+Protein ID : Q5ZTJ8_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['sequence-specific DNA binding', 'transcription factor activity, sequence-specific DNA binding']
+Function : Unavailable
+
+Locus Name : lpg2164
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTJ7_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['transporter activity']
+Function : Unavailable
+
+Locus Name : lpg2165
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTJ6_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2166
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTJ5_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2167
+Protein Name : Transcription regulator protein, DeoR family 
+Protein ID : Q5ZTJ4_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2168
+Protein Name : Acetyltransferase, GNAT family 
+Protein ID : Q5ZTJ3_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['N-acetyltransferase activity']
+Function : Unavailable
+
+Locus Name : lpg2169
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTJ2_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2170
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTJ1_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2171
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTJ0_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['N-acetyltransferase activity']
+Function : Unavailable
+
+Locus Name : lpg2172
+Protein Name : Adenosylhomocysteinase 
+Protein ID : Q5ZTI9_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['adenosylhomocysteinase activity']
+Function : Unavailable
+
+Locus Name : lpg0144
+Protein Name : TnpA transposase 
+Protein ID : Q5ZTI8_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2175
+Protein Name : (2-pyrone-4,6-)dicarboxylic acid hydrolase 
+Protein ID : Q5ZTI7_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['hydrolase activity']
+Function : Unavailable
+
+Locus Name : lpg2176;
+Protein Name : Probable sphingosine-1-phosphate lyase; Short
+Protein ID : SGPL_LEGPH
+Cellular Locale : Unavailable
+Status : Reviewed
+Biological Process : ['carboxylic acid metabolic process']
+Molecular Function : ['carboxy-lyase activity', 'pyridoxal phosphate binding', 'sphinganine-1-phosphate aldolase activity']
+Function :  Cleaves phosphorylated sphingoid bases (PSBs), such as sphingosine-1-phosphate, into fatty aldehydes and phosphoethanolamine (By similarity). Possibly implicated in influencing the macrophage autophagy pathway. 
+
+Locus Name : lpg2177
+Protein Name : HlyD family secretion protein 
+Protein ID : Q5ZTI5_LEGPH
+Cellular Locale : membrane
+Status : Unreviewed
+Biological Process : ['transmembrane transport']
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2178
+Protein Name : Probable multidrug-efflux system transmembrane protein 
+Protein ID : Q5ZTI4_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['transporter activity']
+Function : Unavailable
+
+Locus Name : lpg2179
+Protein Name : Peptide synthetase, non-ribosomal 
+Protein ID : Q5ZTI3_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : ['biosynthetic process']
+Molecular Function : ['hydrolase activity, acting on ester bonds', 'hydroxymethyl-, formyl- and related transferase activity', 'phosphopantetheine binding']
+Function : Unavailable
+
+Locus Name : lpg2180
+Protein Name : Sensory box histidine kinase/response regulator 
+Protein ID : Q5ZTI2_LEGPH
+Cellular Locale : intracellular
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['phosphorelay sensor kinase activity']
+Function : Unavailable
+
+Locus Name : lpg2181
+Protein Name : Sensory box sensor histidine kinase/response regulator, putative 
+Protein ID : Q5ZTI1_LEGPH
+Cellular Locale : intracellular
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['phosphorelay sensor kinase activity']
+Function : Unavailable
+
+Locus Name : lpg2182
+Protein Name : BG:DS09218.5 gene product 
+Protein ID : Q5ZTI0_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2183
+Protein Name : Regulatory protein, SyrP-like 
+Protein ID : Q5ZTH9_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['oxidoreductase activity']
+Function : Unavailable
+
+Locus Name : lpg2184
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTH8_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : ['transposition, DNA-mediated']
+Molecular Function : ['DNA binding', 'transposase activity']
+Function : Unavailable
+
+Locus Name : lpg2185
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTH7_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2186
+Protein Name : Polyketide synthase, type I 
+Protein ID : Q5ZTH6_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : ['metabolic process']
+Molecular Function : ['catalytic activity', 'phosphopantetheine binding']
+Function : Unavailable
+
+Locus Name : lpg2187
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTH5_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2188
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTH4_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2189
+Protein Name : Drug efflux protein 
+Protein ID : Q5ZTH3_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2190
+Protein Name : IcmL-like 
+Protein ID : Q5ZTH2_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2191
+Protein Name : Global stress protein GspA 
+Protein ID : Q5ZTH1_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2192
+Protein Name : Small HspC2 heat shock protein 
+Protein ID : Q5ZTH0_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2193
+Protein Name : Sulfate transporter 
+Protein ID : Q5ZTG9_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['secondary active sulfate transmembrane transporter activity']
+Function : Unavailable
+
+Locus Name : lpg2194
+Protein Name : Carbonic anhydrase 
+Protein ID : Q5ZTG8_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['carbonate dehydratase activity', 'zinc ion binding']
+Function :  Reversible hydration of carbon dioxide. 
+
+Locus Name : lpg2195
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTG7_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2196
+Protein Name : Ornithine cyclodeaminase 
+Protein ID : Q5ZTG6_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2197
+Protein Name : Ketosteroid isomerase 
+Protein ID : Q5ZTG5_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['isomerase activity']
+Function : Unavailable
+
+Locus Name : lpg2198
+Protein Name : Peptide transport, POT family 
+Protein ID : Q5ZTG4_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['peptide transporter activity']
+Function : Unavailable
+
+Locus Name : lpg2199
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTG3_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2200
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTG2_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2201
+Protein Name : RNA-splicing ligase RtcB 
+Protein ID : Q5ZTG1_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : ['RNA processing']
+Molecular Function : ['metal ion binding', 'RNA ligase activity']
+Function : Unavailable
+
+Locus Name : lpg2202
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTG0_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2203
+Protein Name : Alginate O-acetylation protein AlgJ 
+Protein ID : Q5ZTF9_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2204
+Protein Name : Alginate O-acetylation protein 
+Protein ID : Q5ZTF8_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : ['alginic acid biosynthetic process']
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2205
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTF7_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2206
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTF6_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2207
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTF5_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2208
+Protein Name : Zinc binding dehydrogenase 
+Protein ID : Q5ZTF4_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['oxidoreductase activity', 'zinc ion binding']
+Function : Unavailable
+
+Locus Name : lpg2209
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTF3_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2210
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTF2_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2211
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTF1_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2212
+Protein Name : Acetylpolyamine aminohydolase 
+Protein ID : Q5ZTF0_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2213
+Protein Name : Hemin binding protein Hbp 
+Protein ID : Q5ZTE9_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2214
+Protein Name : Nucleoside-diphosphate sugar epimerase 
+Protein ID : Q5ZTE8_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['catalytic activity', 'coenzyme binding']
+Function : Unavailable
+
+Locus Name : lpg2215
+Protein Name : Ankyrin repeat-containing protein 
+Protein ID : Q5ZTE7_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2216
+Protein Name : Purine NTPase, putative 
+Protein ID : Q5ZTE6_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2217
+Protein Name : Chitinase domain 
+Protein ID : Q5ZTE5_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : ['carbohydrate metabolic process']
+Molecular Function : ['hydrolase activity, hydrolyzing O-glycosyl compounds']
+Function : Unavailable
+
+Locus Name : lpg2218
+Protein Name : Choline monooxygenase 
+Protein ID : Q5ZTE4_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : ['aromatic compound catabolic process']
+Molecular Function : ['2 iron, 2 sulfur cluster binding', 'choline monooxygenase activity', 'iron ion binding', 'oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of two atoms of oxygen into one donor']
+Function : Unavailable
+
+Locus Name : lpg2219
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTE3_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2220
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTE2_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2221
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTE1_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2222
+Protein Name : TPR repeat protein, protein-protein interaction 
+Protein ID : Q5ZTE0_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2223
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTD9_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2224
+Protein Name : UVB-resistance protein UVR8 
+Protein ID : Q5ZTD8_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2225
+Protein Name : Expressed protein (GH3 homolog) 
+Protein ID : Q5ZTD7_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2226
+Protein Name : Isovaleryl CoA dehydrogenase 
+Protein ID : Q5ZTD6_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['acyl-CoA dehydrogenase activity', 'flavin adenine dinucleotide binding']
+Function : Unavailable
+
+Locus Name : lpg2227
+Protein Name : Acetyl CoA carboxylase alpha subunit 
+Protein ID : Q5ZTD5_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['ligase activity']
+Function : Unavailable
+
+Locus Name : lpg2228
+Protein Name : 3-oxoacyl-(Acyl carrier protein) synthase III 
+Protein ID : Q5ZTD4_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : ['fatty acid biosynthetic process']
+Molecular Function : ['3-oxoacyl-[acyl-carrier-protein] synthase activity']
+Function : Unavailable
+
+Locus Name : lpg2229
+Protein Name : Saframycin Mx1 synthetase B 
+Protein ID : Q5ZTD3_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : ['metabolic process']
+Molecular Function : ['catalytic activity']
+Function : Unavailable
+
+Locus Name : lpg2230
+Protein Name : Acyl CoA ligase 
+Protein ID : Q5ZTD2_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['decanoate--CoA ligase activity', 'long-chain fatty acid-CoA ligase activity']
+Function : Unavailable
+
+Locus Name : lpg2231
+Protein Name : 3-oxoacyl reductase 
+Protein ID : Q5ZTD1_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['3-oxo-pimeloyl-[acp] methyl ester reductase activity', '3-oxoacyl-[acyl-carrier-protein] reductase (NADPH) activity']
+Function : Unavailable
+
+Locus Name : lpg2232
+Protein Name : 3-oxoacyl-(Acyl carrier protein) synthase III FabH 
+Protein ID : Q5ZTD0_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : ['fatty acid biosynthetic process']
+Molecular Function : ['3-oxoacyl-[acyl-carrier-protein] synthase activity']
+Function : Unavailable
+
+Locus Name : lpg2233
+Protein Name : Acyl carrier protein 
+Protein ID : Q5ZTC9_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2234
+Protein Name : Multidrug resistance protein D 
+Protein ID : Q5ZTC8_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : ['transmembrane transport']
+Molecular Function : ['transporter activity']
+Function : Unavailable
+
+Locus Name : lpg2235
+Protein Name : Sterol desaturase 
+Protein ID : Q5ZTC7_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : ['fatty acid biosynthetic process']
+Molecular Function : ['iron ion binding', 'oxidoreductase activity']
+Function : Unavailable
+
+Locus Name : lpg2236
+Protein Name : Nitric oxide reductase, subunit B 
+Protein ID : Q5ZTC6_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : ['aerobic respiration']
+Molecular Function : ['cytochrome-c oxidase activity', 'heme binding', 'iron ion binding']
+Function : Unavailable
+
+Locus Name : lpg2237
+Protein Name : Multidrug resistance ABC transporter ATP-binding protein (Fused permease/ATPase domains) 
+Protein ID : Q5ZTC5_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['ATP binding', 'ATPase activity, coupled to transmembrane movement of substances']
+Function : Unavailable
+
+Locus Name : lpg2238
+Protein Name : Transmembrane protein 
+Protein ID : Q5ZTC4_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2239
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTC3_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2240
+Protein Name : Dipeptidyl aminopeptidase/acylaminoacyl peptidase 
+Protein ID : Q5ZTC2_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['aminopeptidase activity', 'serine-type peptidase activity']
+Function : Unavailable
+
+Locus Name : lpg2241
+Protein Name : GTP cyclohydrolase II riboflavin biosynthesis 
+Protein ID : Q5ZTC1_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : ['riboflavin biosynthetic process']
+Molecular Function : ['GTP binding', 'GTP cyclohydrolase II activity', 'metal ion binding']
+Function : Unavailable
+
+Locus Name : lpg2242
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTC0_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2243;
+Protein Name : Uracil phosphoribosyltransferase 
+Protein ID : UPP_LEGPH
+Cellular Locale : Unavailable
+Status : Reviewed
+Biological Process : ['UMP salvage', 'uracil salvage']
+Molecular Function : ['GTP binding', 'magnesium ion binding', 'uracil phosphoribosyltransferase activity']
+Function :  Catalyzes the conversion of uracil and 5-phospho-alpha- D-ribose 1-diphosphate (PRPP) to UMP and diphosphate. 
+
+Locus Name : lpg2244
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTB8_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2245
+Protein Name : C4-dicarboxylate transport protein 
+Protein ID : Q5ZTB7_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['symporter activity']
+Function : Unavailable
+
+Locus Name : lpg2246
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTB6_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2247
+Protein Name : DedA family protein 
+Protein ID : Q5ZTB5_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2248
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTB4_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2249
+Protein Name : Glutamine amidotransferase, class I 
+Protein ID : Q5ZTB3_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : ['glutamine metabolic process']
+Molecular Function : ['transferase activity']
+Function : Unavailable
+
+Locus Name : lpg2250
+Protein Name : Alcohol dehydrogenase, iron containing 
+Protein ID : Q5ZTB2_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['metal ion binding', 'oxidoreductase activity']
+Function : Unavailable
+
+Locus Name : lpg2251
+Protein Name : Succinate semialdehyde dehydrogenase 
+Protein ID : Q5ZTB1_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor']
+Function : Unavailable
+
+Locus Name : lpg2252
+Protein Name : Glutamine synthetase 
+Protein ID : Q5ZTB0_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : ['nitrogen compound metabolic process']
+Molecular Function : ['glutamate-ammonia ligase activity']
+Function : Unavailable
+
+Locus Name : lpg2253
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTA9_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2254
+Protein Name : UPF0276 protein lpg2254 
+Protein ID : Q5ZTA8_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2255
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTA7_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2256
+Protein Name : Metallo-beta-lactamase superfamily protein 
+Protein ID : Q5ZTA6_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2257
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTA5_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2258
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZTA4_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2259
+Protein Name : Periplasmic, osmotically inducible protein Y-like 
+Protein ID : Q5ZTA3_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2260
+Protein Name : PHA synthase 
+Protein ID : Q5ZTA2_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : ['poly-hydroxybutyrate biosynthetic process']
+Molecular Function : ['transferase activity, transferring acyl groups']
+Function : Unavailable
+
+Locus Name : lpg2261
+Protein Name : Phosphate acetyl/butyryltransferase family protein includes: (Dehydratase mit MaoC domain 
+Protein ID : Q5ZTA1_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : ['metabolic process']
+Molecular Function : ['transferase activity, transferring acyl groups']
+Function : Unavailable
+
+Locus Name : lpg2262
+Protein Name : Acetate kinase 
+Protein ID : Q5ZTA0_LEGPH
+Cellular Locale : cytoplasm
+Status : Unreviewed
+Biological Process : ['acetyl-CoA biosynthetic process', 'organic acid metabolic process']
+Molecular Function : ['acetate kinase activity', 'ATP binding', 'magnesium ion binding']
+Function :  Catalyzes the formation of acetyl phosphate from acetate and ATP. Can also catalyze the reverse reaction. 
+
+Locus Name : lpg2263
+Protein Name : Curved DNA binding protein DnaJ 
+Protein ID : Q5ZT99_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : ['protein folding']
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2264
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZT98_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2265
+Protein Name : Acyltransferase 
+Protein ID : Q5ZT97_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : ['metabolic process']
+Molecular Function : ['transferase activity, transferring acyl groups']
+Function : Unavailable
+
+Locus Name : lpg2266
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZT96_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2267
+Protein Name : Prolidase 
+Protein ID : Q5ZT95_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds']
+Function : Unavailable
+
+Locus Name : lpg2268
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZT94_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2269
+Protein Name : RecB family exonuclease, hypothetical 
+Protein ID : Q5ZT93_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['exonuclease activity']
+Function : Unavailable
+
+Locus Name : lpg2270
+Protein Name : Oxidoreductase (NAD-dependent epimerase/dehydratase) 
+Protein ID : Q5ZT92_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2271
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZT91_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2272
+Protein Name : Transmembrane protein 
+Protein ID : Q5ZT90_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2273
+Protein Name : Glycerol-3-phosphate binding periplasmic protein 
+Protein ID : Q5ZT89_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['transporter activity']
+Function : Unavailable
+
+Locus Name : lpg2274
+Protein Name : Glycerophosphoryl diester esterase 
+Protein ID : Q5ZT88_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : ['lipid metabolic process']
+Molecular Function : ['glycerophosphodiester phosphodiesterase activity']
+Function : Unavailable
+
+Locus Name : lpg2275
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZT87_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2276
+Protein Name : Glu/Leu/Phe/Val dehydrogenase 
+Protein ID : Q5ZT86_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : ['cellular amino acid metabolic process']
+Molecular Function : ['leucine dehydrogenase activity']
+Function : Unavailable
+
+Locus Name : lpg2277
+Protein Name : O-methyltransferase, SAM-dependent 
+Protein ID : Q5ZT85_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['O-methyltransferase activity']
+Function : Unavailable
+
+Locus Name : lpg2278;
+Protein Name : 4-hydroxyphenylpyruvate dioxygenase; Short
+Protein ID : LLY_LEGPH
+Cellular Locale : Unavailable
+Status : Reviewed
+Biological Process : ['aromatic amino acid family metabolic process', 'hemolysis in other organism']
+Molecular Function : ['4-hydroxyphenylpyruvate dioxygenase activity', 'metal ion binding']
+Function :  Catalyzes the transformation of p-hydroxyphenylpyruvate into HGA. Has hemolytic and brown pigment production activity.
+
+Locus Name : lpg2279
+Protein Name : Fumarylacetoacetate hydrolase 
+Protein ID : Q5ZT83_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : ['metabolic process']
+Molecular Function : ['hydrolase activity']
+Function : Unavailable
+
+Locus Name : lpg2280
+Protein Name : Glutathione S-transferase 
+Protein ID : Q5ZT82_LEGPH
+Cellular Locale : cytoplasm
+Status : Unreviewed
+Biological Process : ['aromatic amino acid family metabolic process']
+Molecular Function : ['maleylacetoacetate isomerase activity', 'transferase activity']
+Function : Unavailable
+
+Locus Name : lpg2281
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZT81_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2282
+Protein Name : Asparagine--tRNA ligase 
+Protein ID : Q5ZT80_LEGPH
+Cellular Locale : cytoplasm
+Status : Unreviewed
+Biological Process : ['asparaginyl-tRNA aminoacylation']
+Molecular Function : ['asparagine-tRNA ligase activity', 'ATP binding', 'nucleic acid binding']
+Function : Unavailable
+
+Locus Name : lpg2283
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZT79_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2284;
+Protein Name : Lipoprotein-releasing system ATP-binding protein LolD 
+Protein ID : LOLD_LEGPH
+Cellular Locale : ATP-binding cassette (ABC) transporter complex
+Status : Reviewed
+Biological Process : Unavailable
+Molecular Function : ['ATP binding', 'ATPase activity', 'lipoprotein transporter activity']
+Function :  Part of the ABC transporter complex LolCDE involved in the translocation of mature outer membrane-directed lipoproteins, from the inner membrane to the periplasmic chaperone, LolA. Responsible for the formation of the LolA-lipoprotein complex in an ATP-dependent manner. 
+
+Locus Name : lpg2285
+Protein Name : Lipoprotein ABC transporter 
+Protein ID : Q5ZT77_LEGPH
+Cellular Locale : plasma membrane
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['lipoprotein transporter activity']
+Function : Unavailable
+
+Locus Name : lpg2286
+Protein Name : Pirin 
+Protein ID : Q5ZT76_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2287;
+Protein Name : FMN-dependent NADH-azoreductase 
+Protein ID : AZOR_LEGPH
+Cellular Locale : Unavailable
+Status : Reviewed
+Biological Process : Unavailable
+Molecular Function : ['electron carrier activity', 'FMN binding', 'FMN reductase activity', 'oxidoreductase activity, acting on NAD(P)H, NAD(P) as acceptor', 'oxidoreductase activity, acting on other nitrogenous compounds as donors']
+Function :  Catalyzes the reductive cleavage of azo bond in aromatic azo compounds to the corresponding amines. Requires NADH, but not NADPH, as an electron donor for its activity. 
+
+Locus Name : lpg2288
+Protein Name : Transcriptional regulator, LysR family 
+Protein ID : Q5ZT74_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : ['transcription, DNA-templated']
+Molecular Function : ['DNA binding', 'transcription factor activity, sequence-specific DNA binding']
+Function : Unavailable
+
+Locus Name : lpg2289
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZT73_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2293
+Protein Name : CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase 
+Protein ID : Q5ZT72_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : ['phospholipid biosynthetic process']
+Molecular Function : ['CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase activity']
+Function : Unavailable
+
+Locus Name : lpg2294
+Protein Name : Hydrolase (Haloacid dehalogenase family) 
+Protein ID : Q5ZT71_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : ['phosphoglycolate phosphatase activity']
+Function : Unavailable
+
+Locus Name : lpg2295
+Protein Name : Pseudouridine synthase 
+Protein ID : Q5ZT70_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : ['pseudouridine synthesis']
+Molecular Function : ['lyase activity', 'pseudouridine synthase activity', 'RNA binding']
+Function :  Responsible for synthesis of pseudouridine from uracil. 
+
+Locus Name : lpg2296
+Protein Name : Uncharacterized protein 
+Protein ID : Q5ZT69_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2297
+Protein Name : Ribonuclease E 
+Protein ID : Q5ZT68_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : ['RNA processing']
+Molecular Function : ['ribonuclease activity', 'RNA binding']
+Function : Unavailable
+
+Locus Name : lpg2298
+Protein Name : Inclusion membrane protein A 
+Protein ID : Q5ZT67_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2299
+Protein Name : RNA polymerase-associated protein RapA 
+Protein ID : Q5ZT66_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : ['regulation of transcription, DNA-templated', 'transcription, DNA-templated']
+Molecular Function : ['ATP binding', 'DNA binding', 'helicase activity']
+Function :  Transcription regulator that activates transcription by stimulating RNA polymerase (RNAP) recycling in case of stress conditions such as supercoiled DNA or high salt concentrations. Probably acts by releasing the RNAP, when it is trapped or immobilized on tightly supercoiled DNA. Does not activate transcription on linear DNA. Probably not involved in DNA repair. 
+
+Locus Name : lpg2300
+Protein Name : Ankyrin repeat domain protein 
+Protein ID : Q5ZT65_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2301
+Protein Name : Hypothetical Smr domain protein 
+Protein ID : Q5ZT64_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2302
+Protein Name : Aspartate-semialdehyde dehydrogenase 
+Protein ID : Q5ZT63_LEGPH
+Cellular Locale : cytoplasm
+Status : Unreviewed
+Biological Process : ["'de novo' L-methionine biosynthetic process", 'diaminopimelate biosynthetic process', 'isoleucine biosynthetic process', 'lysine biosynthetic process via diaminopimelate', 'threonine biosynthetic process']
+Molecular Function : ['aspartate-semialdehyde dehydrogenase activity', 'N-acetyl-gamma-glutamyl-phosphate reductase activity', 'NAD binding', 'NADP binding']
+Function :  Catalyzes the NADPH-dependent formation of L-aspartate- semialdehyde (L-ASA) by the reductive dephosphorylation of L- aspartyl-4-phosphate. 
+
+Locus Name : lpg2303;
+Protein Name : Chorismate synthase 
+Protein ID : AROC_LEGPH
+Cellular Locale : Unavailable
+Status : Reviewed
+Biological Process : ['aromatic amino acid family biosynthetic process', 'cellular amino acid biosynthetic process', 'chorismate biosynthetic process']
+Molecular Function : ['chorismate synthase activity']
+Function :  Catalyzes the anti-1,4-elimination of the C-3 phosphate and the C-6 proR hydrogen from 5-enolpyruvylshikimate-3-phosphate (EPSP) to yield chorismate, which is the branch point compound that serves as the starting substrate for the three terminal pathways of aromatic amino acid biosynthesis. This reaction introduces a second double bond into the aromatic ring system. 
+
+Locus Name : lpg2304
+Protein Name : 50S ribosomal protein L3 glutamine methyltransferase 
+Protein ID : Q5ZT61_LEGPH
+Cellular Locale : intracellular
+Status : Unreviewed
+Biological Process : ['peptidyl-glutamine methylation']
+Molecular Function : ['nucleic acid binding', 'protein-glutamine N-methyltransferase activity', 'site-specific DNA-methyltransferase (adenine-specific) activity']
+Function :  Specifically methylates the 50S ribosomal protein L3 on a specific glutamine residue. 
+
+Locus Name : lpg2305
+Protein Name : Smr domain protein, DNA mismatch repair protein-like 
+Protein ID : Q5ZT60_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2306
+Protein Name : Rhodanese domain protein 
+Protein ID : Q5ZT59_LEGPH
+Cellular Locale : integral component of membrane
+Status : Unreviewed
+Biological Process : Unavailable
+Molecular Function : Unavailable
+Function : Unavailable
+
+Locus Name : lpg2307
+Protein Name : Glutaredoxin 3 
+Protein ID : Q5ZT58_LEGPH
+Cellular Locale : cell
+Status : Unreviewed
+Biological Process : ['cell redox homeostasis']
+Molecular Function : ['electron carrier activity', 'protein disulfide oxidoreductase activity']
+Function : Unavailable
+
+Locus Name : lpg2308;
+Protein Name : Protein-export protein SecB 
+Protein ID : SECB_LEGPH
+Cellular Locale : cytoplasm
+Status : Reviewed
+Biological Process : ['protein folding', 'protein tetramerization', 'protein transport']
+Molecular Function : Unavailable
+Function :  One of the proteins required for the normal export of preproteins out of the cell cytoplasm. It is a molecular chaperone that binds to a subset of precursor proteins, maintaining them in a translocation-competent state. It also specifically binds to its receptor SecA. 
+
+Locus Name : lpg2309;
+Protein Name : Glycerol-3-phosphate dehydrogenase [NAD(P)+] 
+Protein ID : GPDA_LEGPH
+Cellular Locale : glycerol-3-phosphate dehydrogenase complex
+Status : Reviewed
+Biological Process : ['carbohydrate metabolic process', 'glycerol-3-phosphate biosynthetic process', 'glycerol-3-phosphate catabolic process', 'glycerophospholipid metabolic process', 'phospholipid biosynthetic process']
+Molecular Function : ['glycerol-3-phosphate dehydrogenase [NAD(P)+] activity', 'glycerol-3-phosphate dehydrogenase [NAD+] activity', 'glycerol-3-phosphate dehydrogenase [NADP+] activity', 'NAD binding']
+Function : Unavailable
+
+Locus Name : lpg2310
+Protein Name : Glutamate racemase 
+Protein ID : Q5ZT55_LEGPH
+Cellular Locale : Unavailable
+Status : Unreviewed
+Biological Process : ['cell wall organization', 'peptidoglycan biosynthetic process', 'regulation of cell shape']
+Molecular Function : ['glutamate racemase activity']
+Function :  Provides the (R)-glutamate required for cell wall biosynthesis. 
