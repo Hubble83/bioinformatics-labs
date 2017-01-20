@@ -1,0 +1,20 @@
+Protein Name: hypothetical protein			Uniprot ID: Q5ZT73
+
+Functions: Unknown
+
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (75): MWQSGHAAACKAVYAGSIPASASIKKTVNAQVAKQVDARDLKSLGGNTMPVRFRPWAPKFDVFKL
+		LKPNVGTIIN
+
+--------------------------------Blast Results--------------------------------
+
+Result: NOT FOUND

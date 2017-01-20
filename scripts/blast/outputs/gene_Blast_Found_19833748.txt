@@ -1,0 +1,45 @@
+Protein Name: hypothetical protein			Uniprot ID: Q5ZTI0
+
+Functions: Unknown
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (259): MILENEVIWDPERYVLGNYIQNKINDVFLKTIHSKLSGNILDIGCGDGHYTSLLAGKVKHGQILG
+		IDSSEQMIMHANQQWARTGLSFEVHNIEEFHQPQSFDLVLSFWCLHWTNIHISFPNIFHLLKREG
+		KLYAVMSSFSDHSILQTWKELAKQNLYRDLTKQYISPINEQYFYGVINLLNRLPFKRIKLDLKTC
+		RVHLPHIDYYKNLLLTMPFIKRVPSEITDTLVEDMLKAFQTICDRKYGGELYYETRPIFLEAIK
+
+--------------------------------Blast Results--------------------------------
+Result: Q9VJK8	E-Value: 8.7718e-13
+
+Host: Drosophila melanogaster(Fruit fly)
+
+Protein Name:  Juvenile hormone acid O-methyltransferase,
+				 Juvenile hormone acid methyltransferase
+
+Functions: O-methyltransferase that transfers a methyl group from S-adenosyl-L-methionine (SAM) to the carboxyl group of juvenile hormone acids to produce active juvenile hormones in the corpora allata, the last step during juvenile hormone biosynthesis (PubMed:18549957). Also able to methylate farnesoate to methyl farnesoate (PubMed:18549957).
+
+Gene Ontology:
+
+		Molecular Function:  farnesoic acid O-methyltransferase activity,
+							 juvenile hormone acid methyltransferase activity
+
+		Biological Process:  juvenile hormone biosynthetic process,
+							 male courtship behavior
+
+Location: cytoplasm
+
+Revision: Reviewed (---/5)
+
+Seq AA (259): MNQASLYQHANQVQRHDAKLILDEFASTMQWRSDGEDALLDVGSGSGNVLMDFVKPLLPIRGQLV
+		GTDISSQMVHYASKHYQREERTRFQVLDIGCERLPEELSGRFDHVTSFYCLHWVQNLKGALGNIY
+		NLLKPEGGDCLLAFLASNPVYEVYKILKTNDKWSTFMQDVENFISPLHYSLSPGEEFSQLLNDVG
+		FVQHNVEIRNEVFVYEGVRTLKDNVKAICPFLERMPADLHEQFLDDFIDIVISMNLQQGENNEDQ
+		KFLSPYKLVVAYARKTPEFVNNVFLEPTHQNLVKGIN

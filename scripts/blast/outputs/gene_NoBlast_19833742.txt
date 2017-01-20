@@ -1,0 +1,28 @@
+Protein Name: sphingosine-1-phosphate lyase I			Uniprot ID: Q5ZTI6
+
+Functions: Amino Acid Metabolism, Metabolism of Other Amino Acids, Carbohydrate Metabolism,
+			 Cleaves phosphorylated sphingoid bases (PSBs), such as sphingosine-1-phosphate, into fatty aldehydes and phosphoethanolamine (By similarity). Possibly implicated in influencing the macrophage autophagy pathway.
+
+Gene Ontology:
+
+		Molecular Function:  carboxy-lyase activity,
+							 pyridoxal phosphate binding,
+							 sphinganine-1-phosphate aldolase activity
+
+		Biological Process:  carboxylic acid metabolic process
+
+Location: Unknown
+
+Revision: Reviewed (---/5)
+
+Seq AA (608): MFVRICAMFGFVSDLLTAAVSSLDELLQDTPAHQIILGTAALYFLYNQYHNPSISRWYRSRNNAS
+		MKQRIIDSAYALAKNLPGVNQIIEKELNKELSSTREKLRIQRSGMTLREEIPEEGLSPQDILSAF
+		DVDVEKCHFDFLSVTNDSPEREFLVERGDGKDSGALYAIHPKELTELLKEVYGATALTNPLHDKW
+		PRINAMQAEVIRWCQNLFHGSKECYGLLTHGGTTSIIEAMAAYVIRARAKGIDYPEIVVPETAHA
+		AFKKAAELTGAILITVPVDKKTGAVNPKVMSSYITRNTAVIVGSAPSFMNGIHDPVSELGQLAKK
+		KNVPFHVDACLGGFLTAFLDTSSEPMDFRVPGVTSISADLHKYGCCPKGTSVCLFSEDSPALSVY
+		AALNWSGGLYATPGILDGSTSGARVAEVYATLSYYGKNKYQEIAKSIITLRNAIQKELTTLLEEG
+		NGLTSEDIYVYGNPQWSILGFRSNTCNAHFIADELEKRGWKLNLLQNPDGFHLCLTHVHTLVKGF
+		ETQFIKDLREAVIDVKNYPPGKKPSGNVKVYGAVGMMPIELQREICKQYQKARLNYTSASPGSLR
+		IFTNVPVEEDEGLRNRKTEKYKV
+

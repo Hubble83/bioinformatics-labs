@@ -1,0 +1,18 @@
+Protein Name: sex pilus assembly TraF, thiol-disulfide isomerase and thioredoxins			Uniprot ID: Q5ZTT0
+
+Functions: Transport and binding, Viral functions / Phage / Transposases
+
+Gene Ontology:
+
+		Molecular Function:  isomerase activity
+
+		Biological Process:  cell redox homeostasis
+
+Location: cell
+
+Revision: Unreviewed (---/5)
+
+Seq AA (140): MRNKLAIFLILGTLFSSSLYADIDNAPLHALAKHQGFFFFFSSSCPHCQRFAPTLKRLSQHYGFS
+		VVAISVDGGFLPSFPDAVMNEGQTKVFQVSVYPSLFLINPKSQVASLVTEGTIDEGELTNRLLKI
+		SQIHDKEVPL
+

@@ -1,0 +1,17 @@
+Protein Name: conjugative transfer: assembly			Uniprot ID: Q5ZTS3
+
+Functions: Transport and binding
+
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (116): MKILTTLLLLPCVVLTGCAKLNEDFDCPAPNGGTCKRMDQVYDMVNGKGKSLAVTPSRNPLVMDG
+		RPGQPVRYGEGVMPLWIAPYEDTDGNYHQANRVYSVVKEGQWMQQSQLALK
+

@@ -1,0 +1,21 @@
+Protein Name: AraC family transcriptional regulator			Uniprot ID: Q5ZTJ8
+
+Functions: Transcription factors / DNA binding proteins
+
+Gene Ontology:
+
+		Molecular Function:  sequence-specific DNA binding,
+							 transcription factor activity, sequence-specific DNA binding
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (281): MKYQQKLRNMIDFIGKHLDEELSLESLSEIFCISKFHFHRLFTAFTGLSLQQYIKWLRLKRAAHQ
+		LIVDKDQSVINIAINAGFESHEAFSRAFKKACGFSPSQFRQGFGRSYWEQPPYCLPGQSRTDMKV
+		DIKSIDKIRLAVIEHKGDPKLLGESINKLVSWAKSQSINLKPRAGEAFALAYDDPKTTPPSDFRI
+		DLGIKVPENLKLDGVIEKFLPSGRYAVTVHKGSRNNIGDVVYYLYRDWLPNTSEQLGDLPCIFCY
+		YNFDHEVAETELLTECWLLLK
+

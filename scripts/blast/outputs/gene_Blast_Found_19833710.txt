@@ -1,0 +1,48 @@
+Protein Name: F-box protein			Uniprot ID: Q5ZTL7
+
+Functions: Unknown
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (172): MKKNFFSDLPEETIVNTLSFLKANTLARIAQTCQFFNRLANDKHLELHQLRQQHIKRELWGNLMV
+		AARSNNLEEVKKILKKGIDPTQTNSYHLNRTPLLAAIEGKAYQTANYLWRKYTFDPNFKDNYGDS
+		PISLLKKQLANPAFKDKEKKQIRALIRGMQEEKIAQSKCLVC
+
+--------------------------------Blast Results--------------------------------
+Result: P87053	E-Value: 8.02054e-06
+
+Host: Schizosaccharomyces pombe (strain 972 / ATCC 24843)(Fission yeast)
+
+Protein Name:  F-box/WD repeat-containing protein pof1,
+				 Skp1-binding protein 1
+
+Functions: Probably recognizes and binds to some phosphorylated proteins and promotes their ubiquitination and degradation. Required for the inactivation of zip1 via ubiquitination.
+
+Gene Ontology:
+
+		Molecular Function:  protein binding, bridging
+
+		Biological Process:  cellular response to cadmium ion,
+							 protein ubiquitination involved in ubiquitin-dependent protein catabolic process
+
+Location: SCF ubiquitin ligase complex
+
+Revision: Reviewed (---/5)
+
+Seq AA (172): MTTGYESVPTSEPSDNLAPRAELWQRHLLEKKEGDQSISVSAFNISSMHNELSGLSEKSRQRVEA
+		VWAAFSEASCSERKLALQGILNNCSSSLLSFASSTLDSLVRLDFLSLLPVEISFRILSFLDARSL
+		CQAAQVSKHWKELADDDVIWHRMCEQHINRKCEKCGWGLPLLERNTLYAAKASIQKRYERLTKRG
+		VDQAHESSPVKKAKLDDYPTSSNEETISSVKPPSPNSDSKFFLPFKTRPWKEVYAERCRVECNWR
+		HGRCRQVVLSGHSDGVMCLQLVRNILASGSYDATIRLWNLATFQQVALLEGHSSGVTCLQFDQCK
+		LISGSMDKTIRIWNYRTSECISILHGHTDSVLCLTFDSTLLVSGSADCTVKLWHFSGGKRITLRG
+		HTGPVNSVRIIRDRGLVLSGSDDSTIKIWSLETNTCLHTFSAHIGPVQSLALADSRLFSCSLDGT
+		IKQWDIEKKKCVHTLFGHIEGVWEIAADHLRLISGAHDGVVKVWEACECVHTLKNHSEPVTSVAL
+		GDCEVVSGSEDGKIYLWLFNNAPNESPVSTQSVPISSLNGQRSNSSVQRALSSVPNYSSSLSNIS
+		TRNLNIPPSNANNDDVSIQS

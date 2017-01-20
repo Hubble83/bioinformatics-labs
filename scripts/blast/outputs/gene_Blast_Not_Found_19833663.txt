@@ -1,0 +1,22 @@
+Protein Name: hypothetical protein			Uniprot ID: Q5ZTR4
+
+Functions: Unknown
+
+Gene Ontology:
+
+		Molecular Function:  nucleic acid binding
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (227): MNSMDMLDLYCDYLIFQNKYATATGLSDLVDGAFAHNKVTRFLRFEHFGSKSLWHYVKKPVRSQE
+		TVGGVLILDDSIEEKPYSDENEVNCWYYSHAKGAVLKGINILYCMVRYADFSVSIGYKVIKKDIA
+		YCDIKTRQTRRKSSVNKNQLFQSLIAQAITNKVMFDYVLADNWFGSKANMVHIHKDLQKSFIIGI
+		KSNLTLALSENDAKNGRYQQVRALELEEDILA
+
+--------------------------------Blast Results--------------------------------
+
+Result: NOT FOUND

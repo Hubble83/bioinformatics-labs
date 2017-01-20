@@ -1,0 +1,23 @@
+Protein Name: N5-glutamine S-adenosyl-L-methionine-dependent methyltransferase			Uniprot ID: Q5ZT61
+
+Functions: Signal transduction / other regulatory functions,
+			 Specifically methylates the 50S ribosomal protein L3 on a specific glutamine residue.
+
+Gene Ontology:
+
+		Molecular Function:  nucleic acid binding,
+							 protein-glutamine N-methyltransferase activity,
+							 site-specific DNA-methyltransferase (adenine-specific) activity
+
+		Biological Process:  peptidyl-glutamine methylation
+
+Location: intracellular
+
+Revision: Unreviewed (---/5)
+
+Seq AA (310): MVMVDTLVSSYFSKETEELVTILDFLRFSLSCAENAQLFYGHGTDNAWDDMRSLILRSLSLPYDV
+		DPFLLNARLTTSERKHLCNQLDKRINQRVPVPYLIKEAYFCDLPFYVDERVLIPRSPIGELINNQ
+		FSPWIEAERVHHVLDLCTGSGCIAIACCYAFPEAQVDAVDISNQALAVATINCERHDVGDQLALI
+		ESDCFTALSGKQYDLIVSNPPYVGKEEMQTLPDEYRHEPVLALETGNNGLAIIEKILKNAHAYLS
+		EHGILVVEVGNSEEALCETYPMVPFTWLEMSNGGQGVFLLTKQQLEDYFK
+

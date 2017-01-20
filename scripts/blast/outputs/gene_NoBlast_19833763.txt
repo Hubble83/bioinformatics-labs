@@ -1,0 +1,17 @@
+Protein Name: ketosteroid isomerase			Uniprot ID: Q5ZTG5
+
+Functions: Lipid Metabolism
+
+Gene Ontology:
+
+		Molecular Function:  isomerase activity
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (115): MSYYAPDIRSFDAVSQLQFKGADDYRKHWQTCLSFCPGPSVFEVHELETLVDNNLAVSYYLTYCG
+		GTNEKGEMQGGWMRGTMVHCKMNGKWKIMHEHYSVPFDMKTGNTLFDLKP
+

@@ -1,0 +1,25 @@
+Protein Name: acetate kinase			Uniprot ID: Q5ZTA0
+
+Functions: Metabolism of Other Amino Acids, Carbohydrate Metabolism,
+			 Catalyzes the formation of acetyl phosphate from acetate and ATP. Can also catalyze the reverse reaction.
+
+Gene Ontology:
+
+		Molecular Function:  acetate kinase activity,
+							 ATP binding,
+							 magnesium ion binding
+
+		Biological Process:  acetyl-CoA biosynthetic process,
+							 organic acid metabolic process
+
+Location: cytoplasm
+
+Revision: Unreviewed (---/5)
+
+Seq AA (372): MRHSALLIINSGSSSVKFQVFSNTETLDLLAKGKIINIGGEPSFTAVNETLEHQRTLITLEKDMT
+		YEQAIHLILDWISQQQQSWEIHAVAHRVVHGGEYFTQSVLVTPQIISQLETLNSLAPLHQPHNLA
+		AIKIIGRIKPELPQIACFDTAFHAQHTPLFTTCALPEYLRQQGIRRYGFHGLSYEWISLVLKKDY
+		PDLANNRIIIAHLGNGASLCAINRGISIDTTMSLTALDGLPMGTRCGSLDPGAVIYMMRELNLPP
+		DKVEEILYNESGLLGLSGKTNNVLELQSSPDKNAQFALEYFCLKTAQFIGMMAISLGGVDGIVFT
+		GGIGENSEPIRANILKRIECLHPFSVIVIPANEEKMMAMHTLTALRT
+

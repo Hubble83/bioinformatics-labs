@@ -1,0 +1,21 @@
+Protein Name: hypothetical protein			Uniprot ID: Q5ZTG2
+
+Functions: Unknown
+
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (178): MSAKQKELERLLELKKKQEEQQVLNQKDMLERIKLENKYMEFLQMTSQQMEEELKKRGPVKEVEV
+		KGKDIDPIIADYKKLYSKESWYKEPETKDGKTHLTFPSQEAAGTFFKDQAEKNRSFIVIDAATNK
+		VLAYSNGDGKLYNGNGSLYQGGDFKASKEDFTSFKMPEREEPKMGMQL
+
+--------------------------------Blast Results--------------------------------
+
+Result: NOT FOUND

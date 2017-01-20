@@ -1,0 +1,39 @@
+Protein Name: rhodanese domain-containing protein			Uniprot ID: Q5ZT59
+
+Functions: Unknown
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  Unknown
+
+Location: integral component of membrane
+
+Revision: Unreviewed (---/5)
+
+Seq AA (139): MEKLGQFIINHWQLWLAFVVVVFLIFINEILSQRKKAKEVSPQSLVDLMNNGNAIVIDIRDKESF
+		KNGHIINSMNVNPDDFEQQKMSKYKDKPIILVCARGLQSPTLAMKIRNQGYQPLVLSGGIQAWQN
+		ADLPLVKGK
+
+--------------------------------Blast Results--------------------------------
+Result: P0AG29	E-Value: 3.41553e-21
+
+Host: Escherichia coli O157:H7
+
+Protein Name:  Uncharacterized protein YibN
+
+Functions: Unknown
+
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Reviewed (---/5)
+
+Seq AA (139): MQEIMQFVGRHPILSIAWIALLVAVLVTTFKSLTSKVKVITRGEATRLINKEDAVVVDLRQRDDF
+		RKGHIAGSINLLPSEIKANNVGELEKHKDKPVIVVDGSGMQCQEPANALTKAGFAQVFVLKEGVA
+		GWAGENLPLVRGK

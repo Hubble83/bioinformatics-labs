@@ -1,0 +1,18 @@
+Protein Name: phosphatidoglycerophosphate synthase			Uniprot ID: Q5ZTR1
+
+Functions: Metabolism of Complex Lipids
+
+Gene Ontology:
+
+		Molecular Function:  phosphotransferase activity, for other substituted phosphate groups
+
+		Biological Process:  phospholipid biosynthetic process
+
+Location: integral component of membrane
+
+Revision: Unreviewed (---/5)
+
+Seq AA (195): MIEQHLRPLYQRLCVNPITPVLIERVTPNQVTFFSGVLGLLVIPALWLNLPYLAISLLLLSGYCD
+		TLDGTIARLTNHSSDWGSVLDIMTDRVVEVGVVFALWAINPNERGLGSLLMMASILLCITSFLVV
+		GIFKTNDSEKSFHYSPGLIERAEAFVFFIAMMLWPNHFLSLAMIFSLLVIGTAMHRLYEFHKQSI
+

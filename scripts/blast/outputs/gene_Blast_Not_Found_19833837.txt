@@ -1,0 +1,21 @@
+Protein Name: transmembrane protein			Uniprot ID: Q5ZT90
+
+Functions: Unknown
+
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  Unknown
+
+Location: integral component of membrane
+
+Revision: Unreviewed (---/5)
+
+Seq AA (163): MMIIRFSKVLLVVAVSFFCLLTAFGNITDYSANFPAVVKVLTMSDIFPDSTITYRAITSPVLHYV
+		AFIIIVILELLTAIFCGIGAWKLFKARNESASVFNHSKNWAIGGLTLGFVTWQVIFMSIGGEWFG
+		MWMSPTLNSALTTAFHIFITILAVMIYLVIKDE
+
+--------------------------------Blast Results--------------------------------
+
+Result: NOT FOUND

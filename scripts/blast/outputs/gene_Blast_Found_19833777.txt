@@ -1,0 +1,39 @@
+Protein Name: hypothetical protein			Uniprot ID: Q5ZTF1
+
+Functions: Unknown
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (134): MVQHDIIKLPPKPYGAHLITNEVMQKITLRGTGLLHLFIQHTSAALALNENASPDVLIDLNHFFT
+		QLVPEHQHYRHDIEGPDDMPAHIKSILCGSSLTIPFQENKLLLGVWQGIYLMEFRKQAGARTIVA
+		SQLI
+
+--------------------------------Blast Results--------------------------------
+Result: P0A2L1	E-Value: 1.46862e-31
+
+Host: Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)
+
+Protein Name:  UPF0047 protein YjbQ
+
+Functions: Unknown
+
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Reviewed (---/5)
+
+Seq AA (134): MWYQRTITLSEKPRGFHLITDEITDKLSGLPPVETGLLHLLLLHTSASLTLNENCDPTVRADMER
+		HFLKTVPDNAAYEHDYEGADDMPSHIKSSVLGVSLLLPVRQGRLQLGTWQGIWLGEHRIHGGPRK
+		IIATLQGE

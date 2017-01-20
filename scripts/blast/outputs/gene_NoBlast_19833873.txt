@@ -1,0 +1,21 @@
+Protein Name: preprotein translocase subunit SecB			Uniprot ID: Q5ZT57
+
+Functions: Protein fate / hydrolases / secretion,
+			 One of the proteins required for the normal export of preproteins out of the cell cytoplasm. It is a molecular chaperone that binds to a subset of precursor proteins, maintaining them in a translocation-competent state. It also specifically binds to its receptor SecA.
+
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  protein folding,
+							 protein tetramerization,
+							 protein transport
+
+Location: cytoplasm
+
+Revision: Reviewed (---/5)
+
+Seq AA (162): MTEQLNTNQQNDEAQFMIQRIYIKDLSYETPNTPAVFQQQWEPELKLDLNTTTTQLDKNVYEVVL
+		TVTATVMNQKTTAFLVEVKQAGIFTIQGAAASQLDHLLHSFCPSILFPYAREAITSQVIRGSFPQ
+		LVLAPINFDALYMQQLEEKQKATGAKDETVSH
+

@@ -1,0 +1,20 @@
+Protein Name: sex pilus assembly protein-like			Uniprot ID: Q5ZTR9
+
+Functions: Unknown
+
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  conjugation
+
+Location: outer membrane
+
+Revision: Unreviewed (---/5)
+
+Seq AA (97): MEDPRKYKTPQYLNEPYRLIIFTLDEVMVGALTLYVFGAVCGFFVTSLILTCAFLFLMKRMKGNE
+		GPYFYIHLFYWFFSLSPKLRATPPSWIRAFLG
+
+--------------------------------Blast Results--------------------------------
+
+Result: NOT FOUND

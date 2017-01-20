@@ -1,0 +1,19 @@
+Protein Name: carbon storage regulator RsmA			Uniprot ID: Q5ZTR7
+
+Functions: Signal transduction / other regulatory functions,
+			 Could accelerate the degradation of some genes transcripts potentially through selective RNA binding.
+
+Gene Ontology:
+
+		Molecular Function:  RNA binding
+
+		Biological Process:  mRNA catabolic process,
+							 regulation of carbohydrate metabolic process
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (78): MLSLTRRVGESIVIGEDIFITVLCCKGNQVRIGFNAPNSVAIHRYEIYQKIQSEKHDGLADPTKK
+		FCPSMQQSILNHH
+

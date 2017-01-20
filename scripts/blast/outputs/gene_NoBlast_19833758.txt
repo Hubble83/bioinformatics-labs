@@ -1,0 +1,18 @@
+Protein Name: small HspC2 heat shock protein			Uniprot ID: Q5ZTH0
+
+Functions: Detoxification / adaptation
+
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (188): MEVTTMDIKKLAPWNWFKEEEAQNKSVPLSTTGQSCISPLSQLHQEIDRIFDNVLRSVGISNLDI
+		EKTPSNSAQNLLLKPCIDIAATDKEYTITVEVPGVEEDHIKLELSDNTLIIKGEKKHESEKKDKD
+		IYRIERAYGSFQRVLSLPEDANQEDIKAQIKNGVLTITMPRKEVSKPKGKLIDIKKAS
+

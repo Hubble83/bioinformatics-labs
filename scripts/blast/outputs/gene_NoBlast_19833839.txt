@@ -1,0 +1,19 @@
+Protein Name: glycerophosphoryl diester esterase			Uniprot ID: Q5ZT88
+
+Functions: Metabolism of Complex Lipids
+
+Gene Ontology:
+
+		Molecular Function:  glycerophosphodiester phosphodiesterase activity
+
+		Biological Process:  lipid metabolic process
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (239): MILEKIIGHRGASGYAPENTMASFNKALSLGCRFIEFDVMCSLDGEPFIIHDDNLKRTTNGKGEV
+		GLMEADYLRGLDAGSWYSKQYKGEKIPHFTDVLKWLSFSDVQANIEIKPYPGTVEQTTVSVLSHI
+		HRHWPQNKELPLVSCFEWDALVLCRSIAPEMPLGLLLHEWDKDWLQKAKQLECYSIHFNRKILTA
+		DRVKAVKDQGYVVCAYTVNRKRLAKKLFDWGVDALFSDYPDLLK
+

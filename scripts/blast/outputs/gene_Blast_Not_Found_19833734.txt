@@ -1,0 +1,22 @@
+Protein Name: acetyltransferase			Uniprot ID: Q5ZTJ3
+
+Functions: Unknown
+
+Gene Ontology:
+
+		Molecular Function:  N-acetyltransferase activity
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (257): MNSRIETFHQMEWHFFSLISMELLSLEGLKACNSGMPIPALNPVFYSGKSTLLVAEIYQCKRFYE
+		SHSVPWALMVPDYLSDTKTDNVLAQSGFLSIDQGVAMYLSIQDLGMPGFKSDLLIKRMDNEMETW
+		ILPTIPAFESTAEIAKIYRVRHQEAIEKSSDIYHFSGFIQEQIVCSLTLTVMGDCARIDDVATFP
+		KYQKNGYATQLILSELQILKDTNISWCFLEASADGLNIYKKIGFRELFKNLYYEEQYHYEQN
+
+--------------------------------Blast Results--------------------------------
+
+Result: NOT FOUND

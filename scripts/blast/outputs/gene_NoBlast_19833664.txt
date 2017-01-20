@@ -1,0 +1,21 @@
+Protein Name: MsrA3 - peptide methionine sulfoxide reductase			Uniprot ID: Q5ZTR3
+
+Functions: Detoxification / adaptation,
+			 Has an important function as a repair enzyme for proteins that have been inactivated by oxidation. Catalyzes the reversible oxidation-reduction of methionine sulfoxide in proteins to methionine.
+
+Gene Ontology:
+
+		Molecular Function:  peptide-methionine (S)-S-oxide reductase activity
+
+		Biological Process:  cellular protein modification process,
+							 protein repair,
+							 response to oxidative stress
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (190): MRYLFILIALLSQPLFAKPSEAIFAGGCFWCVEADFDKVPGVLETISGYDGGTEPRPGYALVSSG
+		KTAYVEVVRVVFDSDKVTYQELLDFYWRHIDPTVQNQQFCDVGKQYRSVIFYLNDDQKKAALASI
+		DEIKKRFPKVYTEVIPSTTFYPAEEYHQDYYQKNPIRYKYYRYNCGRDARIKELWDEKSS
+

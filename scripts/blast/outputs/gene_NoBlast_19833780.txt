@@ -1,0 +1,21 @@
+Protein Name: nucleoside-diphosphate sugar epimerase			Uniprot ID: Q5ZTE8
+
+Functions: Chemotaxis / motility / cell division, Signal transduction / other regulatory functions, Nucleotide Metabolism
+
+Gene Ontology:
+
+		Molecular Function:  catalytic activity,
+							 coenzyme binding
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (307): MNILLAGGSGLIGQELVRGMGEEHHYTVLGRDKDAIQKIFTTKASSLSWDELNTQDASRFDAVIN
+		LCGVNIAISRWTPKIKEEIISSRVQTTENLLHWILQQNAKPRFYCANAVGIYGLQENGDATDLTE
+		DTAINWEHPKDYLSEVGIRWQQALQKAEEAGLPVTSTRFGVVLKKGKGFLGKLYPSFICGLGSTI
+		GDGRQYLSWIDSEDLVNAYRFLLNHPEITGPVNVTSPNPCMQREFAKAFAKSLHRPLLLWTPAFI
+		IHLLFGEMGDCLINHGQKVKPKRLLEAGFEFKWPDIEKALKHQYSAI
+

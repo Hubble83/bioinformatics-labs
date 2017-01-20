@@ -1,0 +1,28 @@
+Protein Name: NAD(P)H-dependent glycerol-3-phosphate dehydrogenase			Uniprot ID: Q5ZT56
+
+Functions: Metabolism of Complex Lipids
+
+Gene Ontology:
+
+		Molecular Function:  glycerol-3-phosphate dehydrogenase [NAD(P)+] activity,
+							 glycerol-3-phosphate dehydrogenase [NAD+] activity,
+							 glycerol-3-phosphate dehydrogenase [NADP+] activity,
+							 NAD binding
+
+		Biological Process:  carbohydrate metabolic process,
+							 glycerol-3-phosphate biosynthetic process,
+							 glycerol-3-phosphate catabolic process,
+							 glycerophospholipid metabolic process,
+							 phospholipid biosynthetic process
+
+Location: glycerolUnknown3Unknownphosphate dehydrogenase complex
+
+Revision: Reviewed (---/5)
+
+Seq AA (355): MMLYICSSWKKNKKQLELKTRLFLTKMNKKTIAMLGAGSWGTAVAIHLAKIGHKTLLWSHNPQHV
+		ALMAEQHSNPAYLPGIPFPENLIPSDNLIECVQSADYVIIAVPSHAFAEIINKIPKPTQGLAWLT
+		KGVDPASHELLSQLVASRFGVDFPIAVISGPSFAKEVARFLPTALTLASNNTNYQKKMHQLFHHD
+		NIRVYLSDDLIGVQLCGAVKNILAIACGISDGLGYGANAKAALITRGLAEMTRLGLSMGARQDTF
+		LGLAGVGDLVLTCTDDQSRNRRFGLLLGREVPIPEAEHQIGQVVEGKHNAAQICAIANKNKVEMP
+		ICEQINALLHGIVHAQEAVNNLMSRPAKEE
+

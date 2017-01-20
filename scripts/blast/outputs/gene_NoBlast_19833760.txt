@@ -1,0 +1,21 @@
+Protein Name: (beta)-carbonic anhydrase			Uniprot ID: Q5ZTG8
+
+Functions: Energy Metabolism,
+			 Reversible hydration of carbon dioxide.
+
+Gene Ontology:
+
+		Molecular Function:  carbonate dehydratase activity,
+							 zinc ion binding
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (208): MWTLTKEQQQAITPEKAIELLKEGNKRFVNNLKLNRNLLQQVNETSQGQFPFAVILSCMDSRTPA
+		ELIFDQGLGDVFSIRVAGNILNDDILGSIEFACQVVGVKLIAVVGHTQCGAIKGACDGVKLGNLT
+		NLLNKISPVIQEAKKLDSKHDVHSPEFLNCVTSLNVKHTMNEIKQRSNIVHQLLDEKRIAIVGGL
+		YQLETGEVQFFDE
+

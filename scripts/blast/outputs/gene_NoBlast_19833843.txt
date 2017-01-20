@@ -1,0 +1,24 @@
+Protein Name: 4-hydroxyphenylpyruvate dioxygenase			Uniprot ID: Q5ZT84
+
+Functions: Amino Acid Metabolism,
+			 Catalyzes the transformation of p-hydroxyphenylpyruvate into HGA. Has hemolytic and brown pigment production activity.
+
+Gene Ontology:
+
+		Molecular Function:  4-hydroxyphenylpyruvate dioxygenase activity,
+							 metal ion binding
+
+		Biological Process:  aromatic amino acid family metabolic process,
+							 hemolysis in other organism
+
+Location: Unknown
+
+Revision: Reviewed (---/5)
+
+Seq AA (361): MHCYVNKYKENLIMQNNNPCGLDGFAFLEFSGPDRNKLHQQFSEMGFQAVAHHKNQDITLFKQGE
+		IQFIVNAASHCQAEAHASTHGPGACAMGFKVKDAKAAFQHAIAHGGIAFQDAPHANHGLPAIQAI
+		GGSVIYFVDEEHQPFSHEWNITSPEPVVGNGLTAIDHLTHNVYRGNMDKWASFYASIFNFQEIRF
+		FNIKGKMTGLVSRALGSPCGKIKIPLNESKDDLSQIEEFLHEYHGEGIQHIALNTNDIYKTVNGL
+		RKQGVKFLDVPDTYYEMINDRLPWHKEPLNQLHAEKILIDGEADPKDGLLLQIFTENIFGPVFFE
+		IIQRKGNQGFGEGNFQALFEAIERDQVRRGTLKELS
+

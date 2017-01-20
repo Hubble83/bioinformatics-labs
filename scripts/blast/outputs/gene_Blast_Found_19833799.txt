@@ -1,0 +1,37 @@
+Protein Name: acyl carrier protein			Uniprot ID: Q5ZTC9
+
+Functions: Unknown
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (75): MKITDEELKKIISKLSGSKADEIQDDTALIEDLHLDSLKIVELLAILSEEYQLEVSEEDAMNFHT
+		YKDLYDFTQA
+
+--------------------------------Blast Results--------------------------------
+Result: Q8ZFT4	E-Value: 1.39203e-09
+
+Host: Yersinia pestis
+
+Protein Name:  Acyl carrier protein
+
+Functions: Carrier of the growing fatty acid chain in fatty acid biosynthesis.
+
+Gene Ontology:
+
+		Molecular Function:  ACP phosphopantetheine attachment site binding involved in fatty acid biosynthetic process
+
+		Biological Process:  Unknown
+
+Location: cytoplasm
+
+Revision: Reviewed (---/5)
+
+Seq AA (75): MSTIEERVKKIIVEQLGVKEDEVKNSASFVEDLGADSLDTVELVMALEEEFDTEIPDEEAEKITT
+		VQAAIDFINANQQ

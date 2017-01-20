@@ -1,0 +1,20 @@
+Protein Name: fimbrial protein -like			Uniprot ID: Q5ZTR8
+
+Functions: Unknown
+
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  Unknown
+
+Location: integral component of membrane
+
+Revision: Unreviewed (---/5)
+
+Seq AA (100): MSLLNQFRSNVLSSINAHIGKIFILICLLIMAQGTFAADALSAAEEVVKDTYNGSIKTYLYVGEA
+		VAAVVTLMFTRNIKTLGGVGAMAIFLNVVAMLAGV
+
+--------------------------------Blast Results--------------------------------
+
+Result: NOT FOUND

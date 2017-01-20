@@ -1,0 +1,23 @@
+Protein Name: glutamate racemase			Uniprot ID: Q5ZT55
+
+Functions: Amino Acid Metabolism, Metabolism of Other Amino Acids,
+			 Provides the (R)-glutamate required for cell wall biosynthesis.
+
+Gene Ontology:
+
+		Molecular Function:  glutamate racemase activity
+
+		Biological Process:  cell wall organization,
+							 peptidoglycan biosynthetic process,
+							 regulation of cell shape
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (288): MPNKRARKQMTRRSNQLNSNKDLAIGVFDSGMGGLTVLRALRDKLPHESFVYLGDTARLPYGTKS
+		PDTVKQYAMQMAKILVERRIKALVIACNTATTAALPHLQSMLTDIPVLGVVAPGAAAAVSATKNH
+		RIAVLATETTIASRAYHDLIIKNLPEAVVSSRACSVLVALAEEGMVTNAVAREALKHYLDDFSDE
+		DAVLLGCTHFPVFKPLLSSLLPKDVAIVDSAQATAISLYELLQNQNLHNDNLEAPPRINYLVTDS
+		INRFQKVGEIFLGEQLSLSDIELIDAMG
+

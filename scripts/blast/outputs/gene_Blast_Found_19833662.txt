@@ -1,0 +1,46 @@
+Protein Name: prophage repressor CI-like			Uniprot ID: Q5ZTR5
+
+Functions: Unknown
+Gene Ontology:
+
+		Molecular Function:  sequence-specific DNA binding
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (234): MGLIGLVNMNIKEKIGQRIQEERIAKGLTRKALEELTDDLKQSRISNWERGDRTPGPEEIKQLAR
+		ALDISPAYLMCLTDEKRPKKIPGLGSLVPLLDHQQACDPKGFIQRVRNEHNSDEISFIPISSELS
+		TRLGENAFALKMKDESMHPELRVNDILIIDPNSELHPGSLVAAQLNEENEVIVRRYKQLTLSKEF
+		NPFELRAENDNWGNIKIDKVTDAIIIGVIVCVVRYTGRY
+
+--------------------------------Blast Results--------------------------------
+Result: Q48AA9	E-Value: 0.00151292
+
+Host: Colwellia psychrerythraea (strain 34H / ATCC BAA-681)
+
+Protein Name:  LexA repressor
+
+Functions: Represses a number of genes involved in the response to DNA damage (SOS response), including recA and lexA. In the presence of single-stranded DNA, RecA interacts with LexA causing an autocatalytic cleavage which disrupts the DNA-binding part of LexA, leading to derepression of the SOS regulon and eventually DNA repair.
+
+Gene Ontology:
+
+		Molecular Function:  DNA binding,
+							 serine-type endopeptidase activity
+
+		Biological Process:  DNA repair,
+							 DNA replication,
+							 negative regulation of transcription, DNA-templated,
+							 SOS response,
+							 transcription, DNA-templated
+
+Location: Unknown
+
+Revision: Reviewed (---/5)
+
+Seq AA (234): MIDSTTELRPLTKRQQQIYDLIKAKIQDTGMPPTRAEIANFFGFKSANAAEEHLKALAKKGYIEM
+		LAGTSRGIRLVEEMLEAEGLPLIGRVAAGEPILAQEHIEEHYKMDGNLFHPAADYLLRVNGESMK
+		DIGILDGDLLAVHQTTEVQNGQVVVARVENDVTVKRFKREGNVVYLHAENEDFSPIKVDLANQEF
+		NIEGIAVGIIRSGRWM

@@ -1,0 +1,23 @@
+Protein Name: uracil phosphoribosyltransferase			Uniprot ID: Q5ZTB9
+
+Functions: Nucleotide Metabolism,
+			 Catalyzes the conversion of uracil and 5-phospho-alpha-D-ribose 1-diphosphate (PRPP) to UMP and diphosphate.
+
+Gene Ontology:
+
+		Molecular Function:  GTP binding,
+							 magnesium ion binding,
+							 uracil phosphoribosyltransferase activity
+
+		Biological Process:  UMP salvage,
+							 uracil salvage
+
+Location: Unknown
+
+Revision: Reviewed (---/5)
+
+Seq AA (214): MDFNQVKVINHPLIQHKLTIMRKKETSTVKFRTLMHEVSMLLAYEVTRDLEIEYEEIETPLATMQ
+		SPVLKGKKLVFVSILRAGNGLLDGMLQLVPTARIGHIGLYRDPKTLEAVEYYFKLPEHTQDRDVI
+		VVDPMLATGNSAIAAVKEVKALHPKSIKFLCLLASPEGISNFHGEHPDVPIFTAAIDEQLNDHGY
+		IVPGLGDAGDRLYGTKLAH
+

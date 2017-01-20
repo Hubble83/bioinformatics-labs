@@ -1,0 +1,42 @@
+Protein Name: DedA family protein			Uniprot ID: Q5ZTB5
+
+Functions: Unknown
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  Unknown
+
+Location: integral component of membrane
+
+Revision: Unreviewed (---/5)
+
+Seq AA (251): MPEWFEITADFIHNSRQYRYPGIHVIHLIQRDTMQNIQHLIDYILHIDVYLNAFVSTYGFWTYLA
+		LFAVIFCETGLIVTPFLPGDSLLFAAGSIAAQPGNPMNIMLLFVLLFMASILGNQVNFLVGRAIG
+		PRVFSAKRSWLLNPKHLHDTHAFYEKHGGKTIILARFIPIIRTFAPFIAGIGRMRSLHFTLFNLI
+		SAILWIGSLLSLGYYLGSIPLIKENFSLVIYGVIAISILPPIIALISKKSTSSIKK
+
+--------------------------------Blast Results--------------------------------
+Result: P0AA63	E-Value: 6.314e-24
+
+Host: Escherichia coli (strain K12)
+
+Protein Name:  Inner membrane protein YqjA
+
+Functions: May be a membrane transporter required for proton motive force (PMF)-dependent drug efflux. Required, with YghB, for the proper export of certain periplasmic amidases and, possibly, other Tat substrates. May play a role in determining membrane lipid composition.
+
+Gene Ontology:
+
+		Molecular Function:  transmembrane transporter activity
+
+		Biological Process:  FtsZ-dependent cytokinesis,
+							 transmembrane transport
+
+Location: plasma membrane
+
+Revision: Reviewed (---/5)
+
+Seq AA (251): MELLTQLLQALWAQDFETLANPSMIGMLYFVLFVILFLENGLLPAAFLPGDSLLVLVGVLIAKGA
+		MGYPQTILLLTVAASLGCWVSYIQGRWLGNTRTVQNWLSHLPAHYHQRAHHLFHKHGLSALLIGR
+		FIAFVRTLLPTIAGLSGLNNARFQFFNWMSGLLWVLILTTLGYMLGKTPVFLKYEDQLMSCLMLL
+		PVVLLVFGLAGSLVVLWKKKYGNRG

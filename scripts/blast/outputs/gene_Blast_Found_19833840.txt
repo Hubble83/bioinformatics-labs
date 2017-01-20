@@ -1,0 +1,41 @@
+Protein Name: hypothetical protein			Uniprot ID: Q5ZT87
+
+Functions: Unknown
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (235): MEHIMRKIAWILGLMVLTPFVWADNETPDLVLDKIFFQVSAKKWVTTQTALLNVSINATLSNADL
+		VKARADIMDSLNKIAKGEWHLVQFDRSQDSSGLEKLYVQAQARVDQSALTNIYQNAKSVSKPGAK
+		YEISGVEFKPSLEETQVVRAKIREQLYQQVNDEIDRMNKAYPKQNYSVSNLVFFEGDNIPQQPRA
+		YQAKEMNALAMAAAPAPLTVSNELILTAMVEAASNRKQGD
+
+--------------------------------Blast Results--------------------------------
+Result: Q83CZ8	E-Value: 1.13384e-27
+
+Host: Coxiella burnetii (strain RSA 493 / Nine Mile phase I)
+
+Protein Name:  Uncharacterized protein CBU_0952
+
+Functions: Unknown
+
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Reviewed (---/5)
+
+Seq AA (235): MKKLTVTFLTFISIFFAATAAFAENRPILNTINYQQQVEKWVTTDSADVMVSVNVTTKEKKFDAL
+		QHQVMKKLEELSDGRQWHIDSFSMSQDQSGLEVLSWEVRSRMPLALVNSLRQKIDSLSQAGQQYK
+		IQNVDFEPSLVEKEKAFAELRQRVYDQVKVELDNLNKSFPNGHYFLHSIDFVSPPLYAANQKELT
+		LMRSAPSEKTAVTLGRNLMLIANVKVATFLNK

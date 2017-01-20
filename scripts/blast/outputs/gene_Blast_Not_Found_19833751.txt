@@ -1,0 +1,20 @@
+Protein Name: hypothetical protein			Uniprot ID: Q5ZTH7
+
+Functions: Unknown
+
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (102): MLLKVPGYAQKLFVWQRVIIKTTITEREFEYKQINLEGLFTLSIARIQQDFVWEYHIRSLIVILL
+		YISINPCKIHIFYMELRWLVVNGLLMNPRKRTSVISG
+
+--------------------------------Blast Results--------------------------------
+
+Result: NOT FOUND

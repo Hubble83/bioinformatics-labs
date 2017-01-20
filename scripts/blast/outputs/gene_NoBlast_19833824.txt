@@ -1,0 +1,17 @@
+Protein Name: periplasmic, osmotically inducible protein Y-like			Uniprot ID: Q5ZTA3
+
+Functions: Detoxification / adaptation
+
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (103): MLKCLSSVIIVFLILFTTGCQTNTVSNMFIPSNPSGMTLAQSVKDSLMESNDPVINQIHVESNQN
+		VVILSGYVKKIRQSDIAEQIARQVQGVQSVENRIIVRP
+

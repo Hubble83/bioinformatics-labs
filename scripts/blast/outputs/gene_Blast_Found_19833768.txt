@@ -1,0 +1,38 @@
+Protein Name: hypothetical protein			Uniprot ID: Q5ZTG0
+
+Functions: Unknown
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (110): MGALALTNVVADAALIKPSLSIKIHCEAPNEEILFTDWLNAVVYNMQIHNMLFREFDVKLNRFVL
+		DAVIRGEKVDQKKHQPVVEVKGATYTELKIYKNNGIWIAQCVVDV
+
+--------------------------------Blast Results--------------------------------
+Result: Q46D27	E-Value: 3.40097e-14
+
+Host: Methanosarcina barkeri (strain Fusaro / DSM 804)
+
+Protein Name:  Protein archease
+
+Functions: Activates the tRNA-splicing ligase complex by facilitating the enzymatic turnover of catalytic subunit RtcB. Acts by promoting the guanylylation of RtcB, a key intermediate step in tRNA ligation. Can also alter the NTP specificity of RtcB such that ATP, dGTP or ITP is used efficiently (By similarity).
+
+Gene Ontology:
+
+		Molecular Function:  calcium ion binding
+
+		Biological Process:  tRNA splicing, via endonucleolytic cleavage and ligation
+
+Location: Unknown
+
+Revision: Reviewed (---/5)
+
+Seq AA (110): MSSQGKQYEYLDHTADIKFQAYGKTREEVFENAALAMFNVIIDTKKISGDTAREIFLKSPDLESL
+		LVDWLSELLYLFEVDEIVFREFRVDNIREENGEYSITAQALGEKYDLKSLPFETEIKAVTYNQLE
+		ITKTADGWKAQVVVDI

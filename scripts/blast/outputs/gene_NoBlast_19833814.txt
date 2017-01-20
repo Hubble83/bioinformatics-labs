@@ -1,0 +1,19 @@
+Protein Name: glutamine amidotransferase			Uniprot ID: Q5ZTB3
+
+Functions: Nucleotide Metabolism
+
+Gene Ontology:
+
+		Molecular Function:  transferase activity
+
+		Biological Process:  glutamine metabolic process
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (232): MNLGILLCDKVSEVFVADHGQYPEMFANLLRPADSTLELTVFDAEHGELPTDIHAVDAYLISGSR
+		HGVNDDYPWIRKLEEFVRTLHASQKKLIGICFGHQLIAKALGGKVIKSPKGWGVGMSQNQIYQFK
+		EWMRPSLNCFNLLVSHQDQVIELPTGAEILAGSDFCPNYMMQIGSFFSVQGHPEFTKSYSRDLMV
+		SREDSVNEIEFAKGMKSLELHEDDTIIAQWIVNFLKA
+

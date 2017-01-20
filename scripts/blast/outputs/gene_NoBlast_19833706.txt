@@ -1,0 +1,17 @@
+Protein Name: MarR family transcriptional regulator			Uniprot ID: Q5ZTM1
+
+Functions: Transcription factors / DNA binding proteins
+
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (126): MVQIIEMDEKKLIQKKAPIKTASMVEAIYGCKWSLTIYSLLRNGINRPGEMVRSVEGLSTKVLNQ
+		CLRKNIEFGILGRNTFHELPPRVEYFVTPFGEKFLKILDQIEELNEQIRDYQQPKFHNDDS
+

@@ -1,0 +1,18 @@
+Protein Name: glutaredoxin			Uniprot ID: Q5ZT58
+
+Functions: Detoxification / adaptation
+
+Gene Ontology:
+
+		Molecular Function:  electron carrier activity,
+							 protein disulfide oxidoreductase activity
+
+		Biological Process:  cell redox homeostasis
+
+Location: cell
+
+Revision: Unreviewed (---/5)
+
+Seq AA (84): MNEVILYTTGYCPYCIKAKELLDRKKVIYTEIRVDLQPELREEMIQKSGRRTVPQIFINGQAIGG
+		CDDLYALEAQGTLNELLKK
+

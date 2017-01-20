@@ -1,0 +1,18 @@
+Protein Name: CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase			Uniprot ID: Q5ZT72
+
+Functions: Metabolism of Complex Lipids
+
+Gene Ontology:
+
+		Molecular Function:  CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase activity
+
+		Biological Process:  phospholipid biosynthetic process
+
+Location: integral component of membrane
+
+Revision: Unreviewed (---/5)
+
+Seq AA (187): MSTLTSLPNILTLMRISIIPVFIMVFYFPFKWAHPTAAVLFAIASITDWLDGYLARKLEMMSHFG
+		AFLDPVADKLLVSTSLLLLVGAKDIDYITIPAIVIVGREIVISALREWMAEVGRRASVAVGYIGK
+		VKTSLQMIALVLLLAFNPLVSWWGSLGFVLLYVSAILTIWSMVIYLAIAWPELMKKS
+

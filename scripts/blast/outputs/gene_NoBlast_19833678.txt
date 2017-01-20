@@ -1,0 +1,20 @@
+Protein Name: 24 kDa macrophage-induced major protein			Uniprot ID: Q5ZTP9
+
+Functions: Toxin production / other pathogen functions, Detoxification / adaptation,
+			 Antioxidant protein with alkyl hydroperoxidase activity. Required for the reduction of the AhpC active site cysteine residues and for the regeneration of the AhpC enzyme activity.
+
+Gene Ontology:
+
+		Molecular Function:  peroxidase activity,
+							 peroxiredoxin activity
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (184): MQRIKKISIANAQGKAKELLEGTKKAMGTELNLFSTLANSPAALEAYIGIMTSLSKGALNPKLRE
+		QIALVSAGYNGCNYCASAHTYLGEKAGINKDELKENLSGKSSDKKTQVALNFATQLIERRGGVSE
+		FDIKTVREAGFSDEEMVEILAHVAMNTFTNYFNEAFKTDIDFPVVDTHKGRTAS
+

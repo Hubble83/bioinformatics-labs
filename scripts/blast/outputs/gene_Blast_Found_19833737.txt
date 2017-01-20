@@ -1,0 +1,47 @@
+Protein Name: hypothetical protein			Uniprot ID: Q5ZTJ0
+
+Functions: Unknown
+Gene Ontology:
+
+		Molecular Function:  N-acetyltransferase activity
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (336): MSTDNLLQPKLIEATLGDYPVIQNMARFYVYDMSRYCGFISEEWTCPPDGLYESYDFKIYFTDPE
+		RKAFLIQIDNELAGFALLNKFGIQAVDWSMGEFFILAKFQGKGIGQSVAHQLWRTHPGEWEISVI
+		PENIPALSFWRQAVMTYTLGRYKEQIKTVNYDIHQTQRIILSFNTQKQNKSCHSIPKKPITIDFV
+		DNIPKSLEKKMTEDLIAYERTHGIDVNYKRFSIVLSEEGVTCGVINAFTAFAEIYIDDIWVDKAY
+		RGKGYGKKLLQTLENHFKGQGFNNINLCTSAFQAPEFYRKCGYTAEFTRINQANPKLSKTFFVKF
+		FDDENQTQGLF
+
+--------------------------------Blast Results--------------------------------
+Result: Q9LFU9	E-Value: 0.00171088
+
+Host: Arabidopsis thaliana(Mouse-ear cress)
+
+Protein Name:  Glucosamine 6-phosphate N-acetyltransferase,
+				 Glucose-6-phosphate acetyltransferase 1,
+				 Phosphoglucosamine acetylase,
+				 Phosphoglucosamine transacetylase,
+				 Protein LIGNESCENS
+
+Functions: Acetyltransferase involved in UDP-N-acetylglucosamine (UDP-GlcNAc) biosynthesis. UDP-GlcNAc is an essential metabolite that serves as an initial sugar donor for N-glycan synthesis and thus plays an important role in protein and lipid glycosylation.
+
+Gene Ontology:
+
+		Molecular Function:  glucosamine 6-phosphate N-acetyltransferase activity
+
+		Biological Process:  N-acetylglucosamine metabolic process,
+							 UDP-N-acetylglucosamine biosynthetic process
+
+Location: endoplasmic reticulum membrane
+
+Revision: Reviewed (---/5)
+
+Seq AA (336): MAETFKIRKLEISDKRKGFIELLGQLTVTGSVTDEEFDRRFEEIRSYGDDHVICVIEEETSGKIA
+		ATGSVMIEKKFLRNCGKAGHIEDVVVDSRFRGKQLGKKVVEFLMDHCKSMGCYKVILDCSVENKV
+		FYEKCGMSNKSIQMSKYFD

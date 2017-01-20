@@ -1,0 +1,19 @@
+Protein Name: O-methyltransferase, SAM-dependent			Uniprot ID: Q5ZT85
+
+Functions: Metabolism of Cofactors and Vitamins, Lipid Metabolism, Amino Acid Metabolism, Metabolism of Other Amino Acids, Biodegradation of Xenobiotics
+
+Gene Ontology:
+
+		Molecular Function:  O-methyltransferase activity
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (218): MKHLSLTPELYKYLLDISLREHPALAALRKETSTMELANMQVAPEQAQFMQMLIRLTRAKKVLEL
+		GTFTGYSALAMSLALPDDGQVITCDINEGWTKHAHPYWREAKQEHKIKLRLGPALDTLHSLLNEG
+		GEHQFDFIFIDADKTNYLNYYELALKLVTPKGLIAIDNIFWDGKVIDPNDTSGQTREIKKLNQVI
+		KNDSRVFVSLLAIADGMFLVQPI
+

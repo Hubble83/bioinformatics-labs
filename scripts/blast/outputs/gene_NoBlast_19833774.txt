@@ -1,0 +1,22 @@
+Protein Name: zinc binding dehydrogenase			Uniprot ID: Q5ZTF4
+
+Functions: Carbohydrate Metabolism, Lipid Metabolism, Amino Acid Metabolism, Nucleotide Metabolism, Biodegradation of Xenobiotics
+
+Gene Ontology:
+
+		Molecular Function:  oxidoreductase activity,
+							 zinc ion binding
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (337): MKAIGYYHSLPITDNKALMDLDVSVPKATGHDILVEIKAVAVNPVDTKVRRNVQPEPHQPKILGW
+		DASGVVTEIGSEVTMFKPGDEVWYAGDLTRPGSNCEFHLVDERIAAKKPKSLSFQEAAALPLTSL
+		TAWELLFDRLQLSAEDKGILLITGAAGGVGSILVQLARQLTQLTIIGTGARPESIQWILDNGAHH
+		VIDHTKDMKAQLQNLHYSEVDYVISLTHTDQHAKSLVEVLKPQGKFALIDDPQNLDIKLFKLKSI
+		SIHWEMMYTRSMFKTADMIKQHDILTEVARLVDAGKIKTTIAECLGLINADNLRRAHALLESGTS
+		RGKIVLNGFKSI
+

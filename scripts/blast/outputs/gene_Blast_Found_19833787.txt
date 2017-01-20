@@ -1,0 +1,41 @@
+Protein Name: hypothetical protein			Uniprot ID: Q5ZTE1
+
+Functions: Unknown
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  Unknown
+
+Location: integral component of membrane
+
+Revision: Unreviewed (---/5)
+
+Seq AA (239): MTERKKTTVKNKKAPVKKSQLTVSLLIFIDLISILLSLMPGVAAFSLTGLFLYYGFSKTWLVLIC
+		SPFVLLFSFILIIALIRISLPKLKPGRYKRELNKTMIAWFCHFALSRAAKIVGLIHLLQSFNVIK
+		YLYWRALGIKVSFRVMNSFDIDFVDCPLISIGKDVTLASQVSISCHSDVGNYLFLSPVVIEDNVF
+		VGMTTKIGPGTTIKKGAWIGYGNAFVNQVIEENAKIGNVRPVPE
+
+--------------------------------Blast Results--------------------------------
+Result: Q09707	E-Value: 0.00168781
+
+Host: Schizosaccharomyces pombe (strain 972 / ATCC 24843)(Fission yeast)
+
+Protein Name:  Putative acetyltransferase C18B11.09c
+
+Functions: Unknown
+
+Gene Ontology:
+
+		Molecular Function:  serine O-acetyltransferase activity
+
+		Biological Process:  Unknown
+
+Location: nucleus
+
+Revision: Reviewed (---/5)
+
+Seq AA (239): MTRTRVQKMIPKTIEYQKMISGQPYKAYDEELTQARCNAKKLMRRFNDTMGDLENVGPAELIKRR
+		AELLAEVFVFDESSAPEIEPPMAFDYGFNVHFGKKFFANYNCTFLDVAIITIGNNVMLGPNVQLC
+		TATHPLDFKARNSGIEFGLPINIQDNVWIGMGVIVLPGVTIGEGSVIGAGAVVTKDIPPNTLAVG
+		SPAKPIRKIENE

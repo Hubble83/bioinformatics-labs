@@ -1,0 +1,21 @@
+Protein Name: hypothetical protein			Uniprot ID: Q5ZTJ6
+
+Functions: Unknown
+
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (170): MSVINGKKIITIILGIACLFCSIHPVNSAPDFSNKPHVREKNKNLLGVFVGGNHAQNDEAFTYGF
+		EYHRVLSMPFGFSAVIEHTPVNVEHNNQVELIGLGTLNVFRNLTFGIGPGIRYEKDEPNRMVGRL
+		GIGYIIHFPPDIEITPNIDLDFIEGGEKELIFGITFGKQF
+
+--------------------------------Blast Results--------------------------------
+
+Result: NOT FOUND

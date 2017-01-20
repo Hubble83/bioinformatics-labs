@@ -1,0 +1,23 @@
+Protein Name: hypothetical protein			Uniprot ID: Q5ZTA9
+
+Functions: Unknown
+
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (262): MKSLLTLQTQFQEFIYSGQGSIKESIVPTKLVSTETRLNIYKDGYRLRLIECLAANYPALYAYLG
+		TEEFEKLSARYIDSYPSAYRSIRWYGDRLPELIKKYYAKSCYYLYELAELEWKMTLAFDAADDTV
+		LNVEEMAAVPPESWAEMGFVLHSSVHRLDFCWNVFSLWQALVNNLEIPELKDSPATTGWVLWRGQ
+		NYIIQYYSLSEEEAWALDALIQGSSFGVICEGLCQWMSAEEVGMKAASYLKNWIQNGLLSQCRIR
+		RN
+
+--------------------------------Blast Results--------------------------------
+
+Result: NOT FOUND

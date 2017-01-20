@@ -1,0 +1,40 @@
+Protein Name: hypothetical protein			Uniprot ID: Q5ZT64
+
+Functions: Unknown
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (260): MKKMAKEYYLSDEIEEIVLASTVLSYSRPNLSSKSFNDLKNGKTPWEAELDLKGLNVESARKSLY
+		QFIQTQIKNNKQCVLIIHGADNSQDKPPLMKNLVNRWLPQINEVLAFHSAKPKDGGSAAVYVLLG
+		SVFHVELPTRLPSNRSESTFLVAETKAMERRRRLAEQQGERRFASVKAREHPEEEIKVAPEGELQ
+		NNILQHPELNSQRFDGIDPNLNPEPPLNTEARREFDNERREQDKEKQLRLGNMPKFTTAPTPRGP
+
+--------------------------------Blast Results--------------------------------
+Result: C4L8D4	E-Value: 1.12692e-11
+
+Host: Tolumonas auensis (strain DSM 9187 / TA4)
+
+Protein Name:  UPF0115 protein Tola_2181
+
+Functions: Unknown
+
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Reviewed (---/5)
+
+Seq AA (260): MSKKNTLDDQDVSLFREAIAGARPIKQDTIRLHSPAIKQKAQIREIRETQQALHYFSDEYEPLLN
+		QDGPVKYCRADVSTYEVKKLRRGDYIPDMMLDLHGLTQQQAKSELAALIEACRRQHIRCACVMHG
+		HGKNILKQRIPLWLAQHPDVMAFHQAPKLWGGDAAILVLIEQNI

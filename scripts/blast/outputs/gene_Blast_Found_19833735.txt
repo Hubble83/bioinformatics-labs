@@ -1,0 +1,38 @@
+Protein Name: hypothetical protein			Uniprot ID: Q5ZTJ2
+
+Functions: Unknown
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (124): MLSDPNLVLFYVKNPAKSEEFYKNLLDTQPIESSPTFAMFVMKTGLRLGLWAQEEIEPKAHQTGG
+		GMELSFQVNSNEMVDEIHRQWSDKEISIIQPPTQMDFGYTFVGVDPDEHRLRIFCLKRT
+
+--------------------------------Blast Results--------------------------------
+Result: Q8GPH6	E-Value: 8.44417e-11
+
+Host: Enterobacter agglomerans(Erwinia herbicola)
+
+Protein Name:  Phenazine antibiotic resistance protein EhpR
+
+Functions: Required for resistance to the phenazine antibiotic D-alanylgriseoluteic acid (AGA), an antibiotic produced by E.agglomerans itself, and thus protects the bacterium against phenazine toxicity. Probably binds AGA and acts as a chaperone that works in tandem with a membrane transporter for subsequent antibiotic secretion.
+
+Gene Ontology:
+
+		Molecular Function:  organic acid binding,
+							 protein homodimerization activity
+
+		Biological Process:  response to antibiotic
+
+Location: Unknown
+
+Revision: Reviewed (---/5)
+
+Seq AA (124): MTDLAGPTITPNLQLVYVSNVERSTDFYRFIFKKEPVFVTPRYVAFPSSGDALFAIWSGGEEPVA
+		EIPRFSEIGIMLPTGEDVDKLFNEWTKQKSHQIIVIKEPYTDVFGRTFLISDPDGHIIRVCPLD

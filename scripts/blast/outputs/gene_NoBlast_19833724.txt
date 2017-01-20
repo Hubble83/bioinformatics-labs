@@ -1,0 +1,19 @@
+Protein Name: hypothetical protein			Uniprot ID: Q5ZTK3
+
+Functions: Amino Acid Metabolism
+
+Gene Ontology:
+
+		Molecular Function:  phosphatidylethanolamine N-methyltransferase activity
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (209): MVMSLSSVKKVYNIYSSFYDVLFGSIFHQGRSLCTNKVNKNAGLNASVLELGVGTGLSLPFYRPD
+		LNITGIDISEKMLEKAEKRIVKKKLTTHIDLKIMDAANLEFPDNHFDFVVAMYVASVVPDIDTFL
+		KEISRVCKPSGEIIFVNHFASEKPILRFFEKQLSHIDNFVGFNSNFSIHSILNYKEFKLLETQKV
+		NLFGYWKLLHCKIN
+

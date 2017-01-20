@@ -1,0 +1,20 @@
+Protein Name: glutathione S-transferase			Uniprot ID: Q5ZT82
+
+Functions: Amino Acid Metabolism, Biodegradation of Xenobiotics
+
+Gene Ontology:
+
+		Molecular Function:  maleylacetoacetate isomerase activity,
+							 transferase activity
+
+		Biological Process:  aromatic amino acid family metabolic process
+
+Location: cytoplasm
+
+Revision: Unreviewed (---/5)
+
+Seq AA (212): MILYDYFRSTACYRVRIALNLKKIAYEKIEVHLVNNGGEQHSLQYHQINPQELVPSLDINGQILS
+		QSMAIIDYLEEIHPEMPLLPKDPFMKATLKSMALIVACDMHPLNNLRVLNRLKEQFNANEEQVLE
+		WYHHWLKTGFDAFEEKLGALERDKPVCFGSEVGLADVCLIPQVYNAHRFHFDMASYPIINEINEY
+		CLTLPAFHDAAPEAISS
+

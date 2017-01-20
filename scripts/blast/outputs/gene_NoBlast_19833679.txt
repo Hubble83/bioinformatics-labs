@@ -1,0 +1,17 @@
+Protein Name: ATP dependent DNA helicase-like			Uniprot ID: Q5ZTP8
+
+Functions: DNA/RNA degradation / restriction, Transcription, Replication and Repair
+
+Gene Ontology:
+
+		Molecular Function:  helicase activity
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (66): MIKELNRIVSNQTFDEQPLTALNSEAIDFRAALEQFEKIRKIDKKDLETVVILMDYQGKKVPTVQ
+		G
+

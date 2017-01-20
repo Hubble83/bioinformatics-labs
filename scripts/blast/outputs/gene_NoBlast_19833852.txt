@@ -1,0 +1,24 @@
+Protein Name: ACP phosphodiesterase			Uniprot ID: Q5ZT75
+
+Functions: Metabolism of Cofactors and Vitamins,
+			 Catalyzes the reductive cleavage of azo bond in aromatic azo compounds to the corresponding amines. Requires NADH, but not NADPH, as an electron donor for its activity.
+
+Gene Ontology:
+
+		Molecular Function:  electron carrier activity,
+							 FMN binding,
+							 FMN reductase activity,
+							 oxidoreductase activity, acting on NAD(P)H, NAD(P) as acceptor,
+							 oxidoreductase activity, acting on other nitrogenous compounds as donors
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Reviewed (---/5)
+
+Seq AA (206): MKLLAIDSSILTNTSVSRQLTRSFVSRWQKIYPETEVVYRDLHAQPINHLSQKILAANSVPSTQI
+		SAEIREEMNLSMQLISELLSASVLVIGAPMYNFSIPSQLKSWIDRIVIAGKTFKYVDGKVQGLAT
+		GKRAYILSSRGGFYNAEPALNLDHQERYLTSILNFIGISDITFIRAEGVNVGEEIRTQSLHQAEA
+		KIQQLLQFQMA
+

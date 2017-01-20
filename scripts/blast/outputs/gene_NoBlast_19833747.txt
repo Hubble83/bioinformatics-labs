@@ -1,0 +1,20 @@
+Protein Name: sensory box sensor histidine kinase/response regulator			Uniprot ID: Q5ZTI1
+
+Functions: Signal transduction / other regulatory functions
+
+Gene Ontology:
+
+		Molecular Function:  phosphorelay sensor kinase activity
+
+		Biological Process:  Unknown
+
+Location: intracellular
+
+Revision: Unreviewed (---/5)
+
+Seq AA (302): MSDEISKEYFDETLGIHQEYLGILNCLPDIVYWVDKDCLLKGCNQNFIKLLGLKKIKDLKGTPYE
+		QMAKYTGWPEKNIEAFKLDDMKVLFSGEPQWDVEEGPLFNKDKEVSYYRTRRVPLFDKDNKVYGL
+		VVVLTDITKFKKMEEQLQKVATKEKIKPSPAKRIEEPKILMVEDNFVAQKVEEALLKELQCQVDI
+		ADTGDKALNLFDPGKYDMVFMDIGLEDTSGYLVAKKIRQKEQNTNYHVPIIALTSYQADVVKYDV
+		EDYFMDGVLTKPLTSEQADQLIKHFVHKEDIMVSGLKSAREN
+

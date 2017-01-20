@@ -1,0 +1,20 @@
+Protein Name: methionine sulfoxide reductase B			Uniprot ID: Q5ZTQ0
+
+Functions: Detoxification / adaptation
+
+Gene Ontology:
+
+		Molecular Function:  peptide-methionine (R)-S-oxide reductase activity,
+							 peptide-methionine (S)-S-oxide reductase activity
+
+		Biological Process:  protein repair,
+							 response to oxidative stress
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (173): MKSIIKGLLFFFMSVASLTAYAEQAYKRPSDAVIKQKLSTIQYNVTQQQGTESPFNNAYWNNEEQ
+		GIYVDVVTGEPLFISLDKYDSKTGWPSFTKPLEPGNIIYKDDSSMFTSRTEVISKHGKSHLGHVF
+		GDGPPPTNKRFCMNSAALEFIPVKDLQKRGYGKYLPLFKNAGK
+

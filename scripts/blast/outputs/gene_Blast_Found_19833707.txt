@@ -1,0 +1,48 @@
+Protein Name: glucose-1-dehydrogenase			Uniprot ID: Q5ZTM0
+
+Functions: Unknown
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (278): MLTFFNIVVLSYWIGQYFNESGESMFNQNLAIIIGGSSGMGLETAKKLSSNNMELLITGKDKQKL
+		ENAAAEIQKLGAKVDILVLDLYDKEQVFQFMTSMNDETRRVKYLVNAAGYFKPITFLEHDEEDYD
+		RQVNLNKAFFFITQAVVKNMKKNGGGSIVNIGSMWANQAVKATPSSAYSMQKAGLHSLTQHLAME
+		LAEHNIRVNAVAPAVVATPIYKSFIDEERIEESLQDFNKFHPIGRIGKATDIADAIEFLLSEKAS
+		WITGEIMNVDGGVMAGRN
+
+--------------------------------Blast Results--------------------------------
+Result: Q9X248	E-Value: 7.15293e-38
+
+Host: Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099)
+
+Protein Name:  3-oxoacyl-[acyl-carrier-protein] reductase FabG,
+				 3-ketoacyl-acyl carrier protein reductase,
+				 Beta-Ketoacyl-acyl carrier protein reductase,
+				 Beta-ketoacyl-ACP reductase
+
+Functions: Catalyzes the NADPH-dependent reduction of beta-ketoacyl-ACP substrates to beta-hydroxyacyl-ACP products, the first reductive step in the elongation cycle of fatty acid biosynthesis.
+
+Gene Ontology:
+
+		Molecular Function:  3-oxo-pimeloyl-[acp] methyl ester reductase activity,
+							 3-oxoacyl-[acyl-carrier-protein] reductase (NADPH) activity,
+							 NAD binding,
+							 NADP binding
+
+		Biological Process:  fatty acid elongation
+
+Location: Unknown
+
+Revision: Reviewed (---/5)
+
+Seq AA (278): MRLEGKVCLITGAASGIGKATTLLFAQEGATVIAGDISKENLDSLVKEAEGLPGKVDPYVLNVTD
+		RDQIKEVVEKVVQKYGRIDVLVNNAGITRDALLVRMKEEDWDAVINVNLKGVFNVTQMVVPYMIK
+		QRNGSIVNVSSVVGIYGNPGQTNYAASKAGVIGMTKTWAKELAGRNIRVNAVAPGFIETPMTEKL
+		PEKARETALSRIPLGRFGKPEEVAQVILFLASDESSYVTGQVIGIDGGLVI

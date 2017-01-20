@@ -1,0 +1,18 @@
+Protein Name: cold shock DNA binding domain-containing protein			Uniprot ID: Q5ZTP0
+
+Functions: Detoxification / adaptation, Transcription factors / DNA binding proteins
+
+Gene Ontology:
+
+		Molecular Function:  DNA binding
+
+		Biological Process:  regulation of transcription, DNA-templated,
+							 transcription, DNA-templated
+
+Location: cytoplasm
+
+Revision: Unreviewed (---/5)
+
+Seq AA (69): MSKTVNGVVKWFNEIKGFGFIEQEGGPDVFAHFKEISSSGFKTLTEGQRVQFIVTQGAKGLQAQN
+		ITAL
+

@@ -1,0 +1,20 @@
+Protein Name: pyridoxamine 5'-phosphate oxidase			Uniprot ID: Q5ZTM2
+
+Functions: Metabolism of Cofactors and Vitamins
+
+Gene Ontology:
+
+		Molecular Function:  FMN binding,
+							 pyridoxamine-phosphate oxidase activity
+
+		Biological Process:  pyridoxine biosynthetic process
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (196): MVAMNNPISLLTTWISEELEKGAPNPQHAILSTAGKNSIPHGRVIAIREINEQGLLFFTQRGTRK
+		VEEMTHNPMVSLTFWFELCEREVMIDGSARPLSESENQAYWDTYPPFAQIRFHSYAPTSSQVIPS
+		KQLIENKRKILTSQFHDKPLPMSEYYYGFRVIPTRMVFYTYRTDELSDVVEYCFIKNNWEKNLLS
+		P
+

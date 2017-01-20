@@ -1,0 +1,18 @@
+Protein Name: global stress protein GspA			Uniprot ID: Q5ZTH1
+
+Functions: Detoxification / adaptation
+
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (175): MASKLRRYIMNTTSLSLTPLLRHSVGFERFNDLFESMRNADDSTYAYPAYDIEKHGEDSYTITMA
+		VPGFQESDLNIMVQNDQLTVSGRIQEKETKESEYLHRSIVTRAFEQTFRLADHMQVTGAEIKNGL
+		LSIGLIREIPEEAKPRIIPIKSISDQESNKKGKTLEPESKKKISN
+

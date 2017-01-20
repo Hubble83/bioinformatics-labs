@@ -1,0 +1,20 @@
+Protein Name: hypothetical protein			Uniprot ID: Q5ZTL2
+
+Functions: Unknown
+
+Gene Ontology:
+
+		Molecular Function:  structural constituent of ribosome
+
+		Biological Process:  translation
+
+Location: ribosome
+
+Revision: Unreviewed (---/5)
+
+Seq AA (119): MMSREKAAGTFFKDYQKKNVMRLLQDSLEKIINEWLKTDDESHTKLKSLQELSEMDINATSFAEH
+		SPLPDFVTRLWLDPHKALDAMDKNISKNEIRKLIKETAREIELVFTHQKAPDYS
+
+--------------------------------Blast Results--------------------------------
+
+Result: NOT FOUND

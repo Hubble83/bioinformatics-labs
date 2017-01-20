@@ -1,0 +1,20 @@
+Protein Name: 3-oxoacyl-ACP reductase			Uniprot ID: Q5ZTD1
+
+Functions: Lipid Metabolism
+
+Gene Ontology:
+
+		Molecular Function:  3-oxo-pimeloyl-[acp] methyl ester reductase activity,
+							 3-oxoacyl-[acyl-carrier-protein] reductase (NADPH) activity
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (250): MNILITGGSSDIAQAIAKRRSESGDKIIITCSNDISLNQTLAIYRQQNIDVTGFIYNFSDPQACE
+		ADLELILKEPLDGIILNAFTRVTQLRKLHALPYHAVRTYLDNNLNGNIWLIHRLLPALLKNKFGR
+		LVLISSLSATAGTSRYPVYCTAKAALEGLFFNLAVDYSANNILSNIVRVGLIKTSRTEQFWKNPA
+		YQEKVIQIIPQGTMGEPTQVAEAIDPLLSKTSFMTGSVVTVSGGLPLMRSEGLLS
+

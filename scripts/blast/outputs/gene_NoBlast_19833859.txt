@@ -1,0 +1,19 @@
+Protein Name: HAD superfamily hydrolase			Uniprot ID: Q5ZT71
+
+Functions: Carbohydrate Metabolism
+
+Gene Ontology:
+
+		Molecular Function:  phosphoglycolate phosphatase activity
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (219): MSSAYQLVIFDWEGTIADTLGVILHTVATEAKMLGFGDIDPYQARKYVDLGLVQAVKKTLPNLTA
+		GQQEDLLQAVQSAMISRPTEVRLIPGVLEFIQQLHQAKVDLAIATNKGHNSLIRALQATELDQLF
+		KVTRSAGQVPAKPCPQMLEEIMEEFGRDPSSTLMIGDSTTDMEMAKRINVNAIGMDFYHQQEDAL
+		KAAGALAVFDDYKLLSAYLMLPEA
+

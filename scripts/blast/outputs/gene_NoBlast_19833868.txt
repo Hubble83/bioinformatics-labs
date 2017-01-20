@@ -1,0 +1,24 @@
+Protein Name: chorismate synthase			Uniprot ID: Q5ZT62
+
+Functions: Amino Acid Metabolism,
+			 Catalyzes the anti-1,4-elimination of the C-3 phosphate and the C-6 proR hydrogen from 5-enolpyruvylshikimate-3-phosphate (EPSP) to yield chorismate, which is the branch point compound that serves as the starting substrate for the three terminal pathways of aromatic amino acid biosynthesis. This reaction introduces a second double bond into the aromatic ring system.
+
+Gene Ontology:
+
+		Molecular Function:  chorismate synthase activity
+
+		Biological Process:  aromatic amino acid family biosynthetic process,
+							 cellular amino acid biosynthetic process,
+							 chorismate biosynthetic process
+
+Location: Unknown
+
+Revision: Reviewed (---/5)
+
+Seq AA (352): MSGNTFGALFTVTTFGESHGPAIGCVVDGCPPGMSLTEADIQPFLDKRKPGQSKYTTQRREEDKV
+		QILSGVFDGKTTGAPIALLIQNTDQRSRDYEDIKNLFRPGHADFTYHYKYGHRDYRGGGRSSARE
+		TAARVAAGAIARLYLKRYLNLDIIGYLQQMGDLKLQFENENEINKNPFFCPNNKQIQELADYVDR
+		LRRQGDSVGARVKILARGVPTGLGDPVFDKLDATLAYAMMSINAVKGVEIGAGFNAVEQLGSHHR
+		DQMTAKGFLSNHAGGILGGIATGQPIEVSIALKPTSSITTPGQTINTEGEEVTVVTKGRHDPCVG
+		IRAVPIAEAMMALVLMDHYLRHKAQCK
+

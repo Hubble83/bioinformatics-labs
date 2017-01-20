@@ -1,0 +1,39 @@
+Protein Name: transmembrane protein			Uniprot ID: Q5ZTQ6
+
+Functions: Unknown
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  Unknown
+
+Location: integral component of membrane
+
+Revision: Unreviewed (---/5)
+
+Seq AA (165): MLNNSVETSINKPFISKIIQIYLSVTKVLEKIALPVLVLFMRLWMAKIFWYSGMTKISNWQSTVF
+		LFREEYKVPFVPPEITACLATSFELACPVLLIFGFATRLATLPLLAMTAVIQFTYLDLIDHRYWA
+		MLLALILFYGPGSLSLDHLISKKFGLLASSRGDVA
+
+--------------------------------Blast Results--------------------------------
+Result: P44270	E-Value: 8.66669e-07
+
+Host: Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)
+
+Protein Name:  Uncharacterized protein HI_1602
+
+Functions: Unknown
+
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  Unknown
+
+Location: plasma membrane
+
+Revision: Reviewed (---/5)
+
+Seq AA (165): MKDCKMQGIGSGVSLLILRFFLAWEFFESGLEKWNGQNWFAEIQDRFPFPFNLIPADINWHVAMG
+		SELIFPFLLIFGVLTRFSALSLTILISVAWYSIHADSGYNVCDNGYKLPLIYVVTLLILITQGAG
+		KLSLDTLIKKVYPTKSWLKFL

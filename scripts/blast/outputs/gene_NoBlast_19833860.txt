@@ -1,0 +1,23 @@
+Protein Name: ribosomal large subunit (23S rRNA) pseudouridine synthase C			Uniprot ID: Q5ZT70
+
+Functions: DNA/RNA degradation / restriction, Translation,
+			 Responsible for synthesis of pseudouridine from uracil.
+
+Gene Ontology:
+
+		Molecular Function:  lyase activity,
+							 pseudouridine synthase activity,
+							 RNA binding
+
+		Biological Process:  pseudouridine synthesis
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (317): MTMSEVSYKEIGSEENGQRLDNYLIRILKGVPKSHIYRIIRGGEVRINKKRAQASSRLQIGDSIR
+		IPPIRMTDSKEIFVSDNLAKRLKDSIIFEDSSLLVINKPAGIAVHGGSGLSLGVIEALRKTRHDL
+		SYLELVHRLDRETSGCLLLAKKRSTLRAIQALLEAREVQKIYWALLTHRWDGKKKITITAPLEKN
+		TLKSGERVVSVQKDGKASETDFKLLENYHQACWVEASPKTGRTHQIRVHSAYFGHVIVGDEKYGA
+		KVGEVEGIDYQQNRLYLHARSIQFNLNGVMHVFQADVDDGFGNTLKQLRARSLLSYE
+

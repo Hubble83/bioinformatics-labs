@@ -1,0 +1,21 @@
+Protein Name: LysR family transcriptional regulator			Uniprot ID: Q5ZTM3
+
+Functions: Transcription factors / DNA binding proteins
+
+Gene Ontology:
+
+		Molecular Function:  DNA binding,
+							 transcription factor activity, sequence-specific DNA binding
+
+		Biological Process:  transcription, DNA-templated
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (304): MDLRKINLNLLLHLDTLLNELSVSKAAEKSFMSQTAMSHILKQLRDIFDDPLFIRKPHGLQPTQK
+		VLDLAPKIKKFLNYSNDIFEEDTFNPGNDNLFLKTASVGTGEYFILPRLCAHLAKNAPKFVLKIS
+		SLSEYLSLEYLLMSELDFAIGPGFVETGNNIIRELLFEEEAVCIMHKSHPLANQELTQDMYLQAE
+		HVDIQFSYMGNENILYKALQGYHQRNIKVIVPNIISALEVVYHTNFITTVPRTLAVTFKDRYQIE
+		LHPFPFPKKTFLVNFYYHKRLSNHKPLQWVLDVIKKYCCVNHEA
+

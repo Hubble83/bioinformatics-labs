@@ -1,0 +1,17 @@
+Protein Name: transposase			Uniprot ID: Q5ZTP7
+
+Functions: Viral functions / Phage / Transposases
+
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (127): MLNFIILLEKQLKKQALLLISFAFNKAILTKQPDAKIVIPPPSVAVISWKANTQRDDHIRLLQDE
+		GDMVWQKKNNYGLRSHIELAILRYKKVMGTAMKARELPQQKTECGIATRALNESLHWVCQSL
+

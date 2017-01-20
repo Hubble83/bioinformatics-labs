@@ -1,0 +1,43 @@
+Protein Name: acyltransferase			Uniprot ID: Q5ZT97
+
+Functions: Unknown
+Gene Ontology:
+
+		Molecular Function:  transferase activity, transferring acyl groups
+
+		Biological Process:  metabolic process
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (187): MQKICRFIFKLIGWKIVGELPNEKKYIVIVAPHTSNWDFVICLCARFVVGVKINFLAKHQLFFFP
+		LSYFLRAVGGTPVDRSKKGNRVEKVVELFRQHDELKLGLAPEGTRSPVTRWKEGFYHIARQAGIP
+		IVMVGPDYSTKEIRIHEPFWTTGDIKKDFQCIIEFFRTIKGYRPKEIPDYNPKDSDA
+
+--------------------------------Blast Results--------------------------------
+Result: P33333	E-Value: 5.40704e-06
+
+Host: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)(Baker's yeast)
+
+Protein Name:  Probable 1-acyl-sn-glycerol-3-phosphate acyltransferase,
+				 Lysophosphatidic acid acyltransferase
+
+Functions: May be an acyltransferase with an altered substrate specificity that enables it to use a C-26-CoA in place of the C-16 or C-18-CoAs used by the wild-type protein.
+
+Gene Ontology:
+
+		Molecular Function:  1-acylglycerol-3-phosphate O-acyltransferase activity
+
+		Biological Process:  CDP-diacylglycerol biosynthetic process,
+							 glycerophospholipid biosynthetic process
+
+Location: lipid particle
+
+Revision: Reviewed (---/5)
+
+Seq AA (187): MSVIGRFLYYLRSVLVVLALAGCGFYGVIASILCTLIGKQHLAQWITARCFYHVMKLMLGLDVKV
+		VGEENLAKKPYIMIANHQSTLDIFMLGRIFPPGCTVTAKKSLKYVPFLGWFMALSGTYFLDRSKR
+		QEAIDTLNKGLENVKKNKRALWVFPEGTRSYTSELTMLPFKKGAFHLAQQGKIPIVPVVVSNTST
+		LVSPKYGVFNRGCMIVRILKPISTENLTKDKIGEFAEKVRDQMVDTLKEIGYSPAINDTTLPPQA
+		IEYAALQHDKKVNKKIKNEPVPSVSISNDVNTHNEGSSVKKMH

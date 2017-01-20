@@ -1,0 +1,17 @@
+Protein Name: two component response regulator protein			Uniprot ID: Q5ZTL6
+
+Functions: Signal transduction / other regulatory functions
+
+Gene Ontology:
+
+		Molecular Function:  transferase activity
+
+		Biological Process:  phosphorelay signal transduction system
+
+Location: intracellular
+
+Revision: Unreviewed (---/5)
+
+Seq AA (118): MSVQRALTKLSIPVCFHIARDGVEALEQLSGNIKATKPKIIILDIMMPKMNGIEFLRELRSHIHY
+		NPIKVVIFTTSSNIRDKQATTGLDIAGYFVKDSQFNEFVYCCKHLLEKKSHLS
+

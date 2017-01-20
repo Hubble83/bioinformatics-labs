@@ -1,0 +1,18 @@
+Protein Name: transposase, TnpA			Uniprot ID: Q5ZTP3
+
+Functions: Viral functions / Phage / Transposases
+
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (186): MDLSNTYRSLVKKHFPNAKIVADRFHVIRLVQHQCMMTYRELSSSIKNNRGLLALLRTKPDKLTS
+		HKKIKRDTFLAENPAIEAIYHFQQQLHELLMNKTLTKVRCRKIIPLFLKMIQNLKQSPFKSLVAL
+		GKTLDSWKEEIACMWRFSKSNGITEGFHRKMKLIQRRAYGFRNFENYRLRVRVLCA
+

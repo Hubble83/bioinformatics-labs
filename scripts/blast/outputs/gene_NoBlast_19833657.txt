@@ -1,0 +1,18 @@
+Protein Name: conjugative transfer protein TraE			Uniprot ID: Q5ZTS0
+
+Functions: Transport and binding
+
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  conjugation
+
+Location: integral component of membrane
+
+Revision: Unreviewed (---/5)
+
+Seq AA (187): MKIEQKKSELMKEKKIRVLFIGISSVLLAMTFMQSITIVVLLHYAHSKHETHFIPPKISQEFTLS
+		GTGVSEGYLRDMTNFLTQLRFNITSSSATYQFNALLGYVAPSLYGDIRAQLVKEVEQINHEHLSS
+		VFYPSTFEIDIKHLSVKVMGQMKRFVGADLMSDVRETFLIRYSYEYGLLKLTNLEKV
+

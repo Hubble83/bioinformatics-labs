@@ -1,0 +1,21 @@
+Protein Name: hypothetical protein			Uniprot ID: Q5ZTJ7
+
+Functions: Unknown
+
+Gene Ontology:
+
+		Molecular Function:  transporter activity
+
+		Biological Process:  Unknown
+
+Location: integral component of membrane
+
+Revision: Unreviewed (---/5)
+
+Seq AA (154): MVSWDLFNKEIGMYFSRCISHGAIAGIIAGIVFTFFLVMGGMLETLGSMINMPTKGGGLLVHAVM
+		SIGSGIVFALVLDWLMHSWVSAILLGLLFGFAMWVGGPMTLLPYFASGVPLFAKWTMEGFKQNIP
+		PLVGHLVYGLILGVTYYAFKRRNK
+
+--------------------------------Blast Results--------------------------------
+
+Result: NOT FOUND

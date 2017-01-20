@@ -1,0 +1,18 @@
+Protein Name: Smr domain-containing protein			Uniprot ID: Q5ZT60
+
+Functions: Replication and Repair
+
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (189): MTDDFLSDEDKALFRHHMRSVKPLNEKTKRVKNPTQPTHEKKTTTFKSQPVPKEEYFLSDFIRDT
+		VQPDTILSFSEPGIPNQRFRALKNGQIPWEAKLDLHGLKAEAARQALYDFIQTQSLNNKRCLLII
+		HGKGGHQGAPPVIKNLINRWLPQFSQVLAFHSALPKDGGLGAVYVLLKRNREKDEQGNY
+

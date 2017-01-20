@@ -1,0 +1,58 @@
+Protein Name: UVB-resistance protein UVR8			Uniprot ID: Q5ZTD8
+
+Functions: Unknown
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (593): MKEPRELNRQPNPEHMAQLIKDTPKDVWFHLAKYLPDHELLNLMQVDKRLNRFFKEGTPPKEIIK
+		KIEHAPLKVVSSGVNTFILTQYHGKPLLLACGQNKDGQLGCGDTKIRTALTPVNIPESFASIESV
+		QISLFHAVLWGRDKDNKPILATCGLNDKGQLGCGDYKSRALFTQVKLAEDITSIESVEINIFHSV
+		ILGHDKHNRPVLASCGSNHLGKLGCGDIKDKTTFTRMKLPTEIVSIDTLQMNWHTIVSGRDKNNK
+		PVLAACGWNDRGQLGCGDKKERALLTPVKLPENIVSIQSAQIGTSRTTVLGRDKDNKPILTYCGW
+		NERNQMGWSNTEDKTALTPAKLPENIVSIELMQISTSRTVILGRDKNNKPILAACGLNNHGQLGC
+		GDIKTRTTLYPIKFPKDIVSIESVQISDNHTVILGRDKHKNPIIAACGLNNYGQLGCGDTKNRML
+		LTPIKLPKEIVCIDSVTVKYSSLFVSGRDKNHRPILAACGDNRYGQLGVPSKKLLTELTIVPTPI
+		LTLPATPKREASSRKEATEKALVFATHGSREQKPRKSNRILTAIIASFGRFFTGAHPHTPDSDKE
+		SPSPKRSA
+
+--------------------------------Blast Results--------------------------------
+Result: Q9FN03	E-Value: 0.000125072
+
+Host: Arabidopsis thaliana(Mouse-ear cress)
+
+Protein Name:  Ultraviolet-B receptor UVR8,
+				 Protein UV-B RESISTANCE 8,
+				 RCC1 domain-containing protein UVR8
+
+Functions: UV-B specific signaling component that acts as UV-B photoreceptor and plays a key role in establishing UV-protective responses in plants. Upon UV-B irradiation, UVR8 undergoes an immediate switch from homodimer to monomer, accumulates in the nucleus, interacts with the photomorphogenic repressor COP1 and regulates the expression of the transcription factor HY5 by associating with chromatin (through histone H2B binding) in the HY5 promoter region. UVR8 is involved in controlling aspects of leaf growth and morphogenesis in response to UV-B, is required for normal progression of endocycle and has a regulatory role in stomatal differentiation. Is required for plant circadian clock response to photomorphogenic UV-B light, partly through the transcriptional activation of responsive clock genes. Promotes photosynthetic efficiency at elevated levels of UV-B. Plays a role in mediating the effects of UV-B radiation on pathogen resistance by controlling the expression of the sinapate biosynthetic pathway. The two tryptophans, Trp-285 and Trp-233, serve collectively as the UV-B chromophore.
+
+Gene Ontology:
+
+		Molecular Function:  chromatin binding,
+							 guanyl-nucleotide exchange factor activity,
+							 photoreceptor activity,
+							 protein homodimerization activity
+
+		Biological Process:  entrainment of circadian clock,
+							 protein-chromophore linkage,
+							 response to UV,
+							 response to UV-B
+
+Location: nucleus
+
+Revision: Reviewed (---/5)
+
+Seq AA (593): MAEDMAADEVTAPPRKVLIISAGASHSVALLSGDIVCSWGRGEDGQLGHGDAEDRPSPTQLSALD
+		GHQIVSVTCGADHTVAYSQSGMEVYSWGWGDFGRLGHGNSSDLFTPLPIKALHGIRIKQIACGDS
+		HCLAVTMEGEVQSWGRNQNGQLGLGDTEDSLVPQKIQAFEGIRIKMVAAGAEHTAAVTEDGDLYG
+		WGWGRYGNLGLGDRTDRLVPERVTSTGGEKMSMVACGWRHTISVSYSGALYTYGWSKYGQLGHGD
+		LEDHLIPHKLEALSNSFISQISGGWRHTMALTSDGKLYGWGWNKFGQVGVGNNLDQCSPVQVRFP
+		DDQKVVQVSCGWRHTLAVTERNNVFAWGRGTNGQLGIGESVDRNFPKIIEALSVDGASGQHIESS
+		NIDPSSGKSWVSPAERYAVVPDETGLTDGSSKGNGGDISVPQTDVKRVRI

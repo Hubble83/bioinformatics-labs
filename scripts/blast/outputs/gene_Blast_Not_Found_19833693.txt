@@ -1,0 +1,21 @@
+Protein Name: hypothetical protein			Uniprot ID: Q5ZTN4
+
+Functions: Unknown
+
+Gene Ontology:
+
+		Molecular Function:  transferase activity
+
+		Biological Process:  Unknown
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (162): MKIRAIFFMIAIFFPVTLFASNTTCPLSNGINVLTKKRILNICKNGTVVKTFKVALGYKGVGKKK
+		AGDNKTPIGLYGLAHPRKSNQFKVFIPILYPTKKQLAAGYSGRDVGIHGPAQTSNLFGWLNNLPG
+		STRGCVAVGKNNYIEYVANWVKANPGAKVLII
+
+--------------------------------Blast Results--------------------------------
+
+Result: NOT FOUND

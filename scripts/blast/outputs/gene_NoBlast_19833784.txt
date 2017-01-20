@@ -1,0 +1,24 @@
+Protein Name: choline monooxygenase			Uniprot ID: Q5ZTE4
+
+Functions: Biodegradation of Xenobiotics
+
+Gene Ontology:
+
+		Molecular Function:  2 iron, 2 sulfur cluster binding,
+							 choline monooxygenase activity,
+							 iron ion binding,
+							 oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of two atoms of oxygen into one donor
+
+		Biological Process:  aromatic compound catabolic process
+
+Location: Unknown
+
+Revision: Unreviewed (---/5)
+
+Seq AA (363): MFMKNLYIDPDITKASTISSEFYTSTEWFEITKEKIFSKTWQFCISTEELTTNRQLIPFTLLPGY
+		LEEPLLFAKDELGTIRCLSNVCTHRGKILIEEPCVAHKIKCSYHGRRFNFCGELLHMPEFELTKD
+		FPSNNDNLSQISTGILEPFLFASLSPVVPFHEVFAEIKERLFWLPMEKMRLDKEKCKDYVVKSHW
+		ALYCENYLEALHIPFVHPSLRKVIDCNTYTTELFRYCNLQLALASPDEVSFDLPKGAQDYGKQVA
+		AYYFWIFPNTMLNFYPWGCSVNVVKPLSPELTQVSFLSFVLDESKFGKGAGGALDQVEQEDERVV
+		ESVQRGIKSRYYDIGRFSPTKEQGTHHFQRLLCEFLND
+

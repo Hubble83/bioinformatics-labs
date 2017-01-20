@@ -1,0 +1,22 @@
+Protein Name: hypothetical protein			Uniprot ID: Q5ZTJ1
+
+Functions: Unknown
+
+Gene Ontology:
+
+		Molecular Function:  Unknown
+
+		Biological Process:  Unknown
+
+Location: integral component of membrane
+
+Revision: Unreviewed (---/5)
+
+Seq AA (213): MYFLKRRYRMVWDATTTNAISNAAHALFLLLYLIGACIHYLKKDHTFSLLIVFFFLNLLVLKVLG
+		VYVHYYPSHLHLPPAWIAISLLVIMLNYLLVQSMQMPDLCRVIVVFLSIVFTYLFLTHDGNYTYI
+		ALPVILVCLIAAYYSQAKVRIGFVMVVISNLIWIVTRHIANYLTGHEIPIEYRYDNDIYHILLIL
+		STYVIYKGIAEGQWKHPR
+
+--------------------------------Blast Results--------------------------------
+
+Result: NOT FOUND

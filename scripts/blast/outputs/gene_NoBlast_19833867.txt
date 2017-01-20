@@ -1,0 +1,29 @@
+Protein Name: aspartate semialdehyde dehydrogenase			Uniprot ID: Q5ZT63
+
+Functions: Amino Acid Metabolism,
+			 Catalyzes the NADPH-dependent formation of L-aspartate-semialdehyde (L-ASA) by the reductive dephosphorylation of L-aspartyl-4-phosphate.
+
+Gene Ontology:
+
+		Molecular Function:  aspartate-semialdehyde dehydrogenase activity,
+							 N-acetyl-gamma-glutamyl-phosphate reductase activity,
+							 NAD binding,
+							 NADP binding
+
+		Biological Process:  'de novo' L-methionine biosynthetic process,
+							 diaminopimelate biosynthetic process,
+							 isoleucine biosynthetic process,
+							 lysine biosynthetic process via diaminopimelate,
+							 threonine biosynthetic process
+
+Location: cytoplasm
+
+Revision: Unreviewed (---/5)
+
+Seq AA (340): MSRHLNVAIVGATGAVGETFLTVLEERNFPIKSLYPLASSRSVGKTVTFRDQELDVLDLAEFDFS
+		KVDLALFSAGGAVSKEYAPKAVAAGCVVVDNTSCFRYEDDIPLVVPEVNPHRIADYTKRGIIANP
+		NCSTIQMVVALKPIYDAVGISRINVATYQSVSGTGKKAISELVAQVGDLLNGRPANVQVYPQQIA
+		FNALPHIDQFEDNGYTREEMKMVWETRKIMEDDSIMVNPTAVRVPVIYGHSEAVHLELKKPLTAD
+		DARALLAKAPGVTVVDNLSKASYPTAIKNAVGHDDVFVGRIRQDISHPCGLNLWIVADNIRKGAA
+		TNAVQIAEILQKEFL
+

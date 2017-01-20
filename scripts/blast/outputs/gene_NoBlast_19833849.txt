@@ -1,0 +1,22 @@
+Protein Name: ABC transporter ATP-binding protein			Uniprot ID: Q5ZT78
+
+Functions: Transport and binding,
+			 Part of the ABC transporter complex LolCDE involved in the translocation of mature outer membrane-directed lipoproteins, from the inner membrane to the periplasmic chaperone, LolA. Responsible for the formation of the LolA-lipoprotein complex in an ATP-dependent manner.
+
+Gene Ontology:
+
+		Molecular Function:  ATP binding,
+							 ATPase activity,
+							 lipoprotein transporter activity
+
+		Biological Process:  Unknown
+
+Location: ATPUnknownbinding cassette (ABC) transporter complex
+
+Revision: Reviewed (---/5)
+
+Seq AA (227): MNDIILTSQKLYKSYHDGTSTVEVLKGVDLAITKGDRIAIIGPSGSGKSTLLHLLGGLDKPTSGL
+		ITLGNVNWQKINEKQRCQLRNQQLGFVYQFHHLLPEFTALENVMMPLLLAGMAVKDAEEKAINML
+		EHVGLKPRLAHKPAQLSGGERQRVAIARALVHQPHCVLADEPTGNLDEATASKVFDLMLELNKKM
+		NTALVIVTHDQRIAERMDRVLVLHEGSLYARE
+
