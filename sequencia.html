@@ -120,9 +120,19 @@
 						<!-- /.panel-heading -->
 						<div class="panel-body">
 							<div class="col-lg-10 col-lg-offset-1">
-<h2>Título da cena</h2><br/>
-<p><big>É feita a extração do ficheiro genbank, através do script <a target="_blank" href="https://github.com/Hubble83/lb/tree/master/scripts/TODO">SeqRecord.py</a> referente ao nosso intervalo de genes (23.. - 260800), guardado como <a target="_blank" href="https://github.com/Hubble83/lb/tree/master/scripts/TODO">seq_record.gb</a>. No fim deste processo, é referido , como output do script de extração, algumas das características da proteína, como o ID, nome comum, taxonomia, entre outros, que está guardado em <a target="_blank" href="https://github.com/Hubble83/lb/tree/master/scripts/TODO">ProteinData.txt</a>. A sequência deste intervalo é escrita automaticamente num ficheiro de texto. (<a target="_blank" href="https://github.com/Hubble83/lb/tree/master/scripts/TODO">sequence.txt</a>).</big></p>
-<p><big>Para validar esta extração, é realizada uma comparação do nosso ficheiro com a tabela indicada pelo professor (<a target="_blank" href="https://github.com/Hubble83/lb/tree/master/scripts/TODO">ProteinTable1.txt</a>). Esta análise está presente no ficheiro <a target="_blank" href="https://github.com/Hubble83/lb/tree/master/scripts/TODO">analise.txt</a> e é também ela produto do output deste scipt (<a target="_blank" href="https://github.com/Hubble83/lb/tree/master/scripts/TODO">Validation.py</a>).</big></p>
+<h2>Extracção e análise</h2><br/>
+<p><big>Inicialmente, é pretendido aceder ao NCBI e guardar o genoma num ficheiro genbank no intervalo pretendido, entre os genes referidos como lpg2079 e 2310 (2327101-2610800).
+Para tal, esta extração é realizada através do script <a target="_blank" href="https://github.com/Hubble83/lb/tree/master/scripts/TODO">SeqRecord.py</a>. Este script guarda automaticamente no ficheiro <a target="_blank" href="https://github.com/Hubble83/lb/tree/master/scripts/TODO">seq_record.gb</a> a informaçao relativa ao genoma. Uma vez feito este processo, como output são escritas algumas informações sobre este organismo, que foram guardados em <a target="_blank" href="https://github.com/Hubble83/lb/tree/master/scripts/TODO">ProteinData.txt</a>, características como o seu ID, nome comum, taxonomia, entre outros. A sequência completa referente a esse ficheiro é escrita no ficheiro <a target="_blank" href="https://github.com/Hubble83/lb/tree/master/scripts/TODO">sequence.txt</a>.</big></p>
+
+<br/><h2>Validação</h2><br/>
+
+<p><big>Para validar esta extração, é realizada uma comparação do nosso ficheiro com a tabela indicada pelo professor (<a target="_blank" href="https://github.com/Hubble83/lb/tree/master/scripts/TODO">ProteinTable1.txt</a>). Esta análise está presente no ficheiro <a target="_blank" href="https://github.com/Hubble83/lb/tree/master/scripts/TODO">analise.txt</a> e é também ela produto do output deste script (<a target="_blank" href="https://github.com/Hubble83/lb/tree/master/scripts/TODO">Validation.py</a>).</big></p>
+
+<p><big>De seguida está um excerto desse ficheiro de texto de validaçao:</big></p><br/>
+							<figure>
+								<img src="img/validacao.png" alt="Np image" class="img-rounded img-responsive">
+							</figure>
+
 <br/>
 <br/><h2>Geração de tabelas</h2><br/>
 <p><big>Recorrendo ao ficheiro <a target="_blank" href="https://github.com/Hubble83/lb/tree/master/scripts/TODO">seq_record.gb</a>, através da execução do ficheiro <a target="_blank" href="https://github.com/Hubble83/lb/tree/master/scripts/criatabelas/script.py">script.py</a>, são gerados dois ficheiros com as informações dos vários genes e proteínas correspondentes: o <a target="_blank" href="https://github.com/Hubble83/lb/tree/master/scripts/criatabelas/table.csv">table.csv</a> para abrir a tabela localmente, e o <a target="_blank" href="https://github.com/Hubble83/lb/tree/master/scripts/criatabelas/table.html">table.html</a> contendo as várias linhas com a formatação necessária para serem inseridas na tabela resumo.</big></p>
