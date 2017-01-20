@@ -31,6 +31,13 @@
 
 	<link href="bower_components/timeline.css" rel="stylesheet" type="text/css">
 
+	<!-- DataTables CSS -->
+	<link href="bower_components/datatables-plugins/integration/bootstrap/3/dataTables.bootstrap.css" rel="stylesheet">
+
+	<!-- DataTables Responsive CSS -->
+	<link href="bower_components/datatables-responsive/css/dataTables.responsive.css" rel="stylesheet">
+
+
 	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 	<!--[if lt IE 9]>
@@ -124,7 +131,80 @@
 <p><big>Para a construção duma rede metabólica dum organismo é necessário conhecer todas as suas reações e enzimas que as catalisam, os produtos dessas reações e como são transportados, o modo como esses processos são regulados e muitos outros fatores. Assim, a construção de tabelas sobre os genes que codificam e regulam os vários intervenientes desta complexa rede é crucial.</big></p>
 
 <br/><h3>Genes com função metabólica</h3><br/>
-<p><big>Através da consulta da base de dados KEGG foi possível registar as vias metabólicas em que estes genes metabólicos intervêm, bem como as reações. Os resultados estão apresentados na seguinte <a target="_blank" href="https://github.com/Hubble83/lb/tree/master/scripts/intMetReg/genesFuncMetabolica.xlsx">Tabela</a>.</big></p>
+<p><big>Através da consulta da base de dados KEGG foi possível registar as vias metabólicas em que estes genes metabólicos intervêm, bem como as reações. Os resultados estão apresentados na seguinte <a target="_blank" href="https://github.com/Hubble83/lb/tree/master/scripts/intMetReg/genesFuncMetabolica.xlsx">Tabela</a>, replicada em seguida.</big></p><br/><br/>
+							</div>
+							<div class="col-lg-8 col-lg-offset-2">
+
+
+<div class="dataTable_wrapper" style="margin:0; padding:0; display:table">
+	<table class="table table-hover table-bordered" id="dataTables-example1">
+		<thead>
+			<tr>
+				<th>ID</th>
+				<th>Locus Tag</th>
+				<th>TC Number</th>
+				<th>Família</th>
+				<th>Classe</th>
+				<th>Substrato</th>
+			</tr>
+		</thead>
+		<tbody>
+<tr class='odd' role='row'><td>19833645</td><td>lpg2079</td><td>3.A.7</td><td>IVSP</td><td>ATP-Dependent</td><td>Unclassified</td></tr>
+<tr class='even' role='row'><td>19833646</td><td>lpg2080</td><td></td><td></td><td></td><td></td></tr>
+
+<tr class='odd' role='row'><td>19833648</td><td>lpg2082</td><td></td><td></td><td></td><td></td></tr>
+<tr class='even' role='row'><td>19833649</td><td>lpg2083</td><td></td><td></td><td></td><td></td></tr>
+
+<tr class='odd' role='row'><td>19833650</td><td>lpg2084</td><td></td><td></td><td></td><td></td></tr>
+<tr class='even' role='row'><td>19833651</td><td>lpg2085</td><td></td><td></td><td></td><td></td></tr>
+
+<tr class='odd' role='row'><td>19833652</td><td>lpg2086</td><td></td><td></td><td></td><td></td></tr>
+<tr class='even' role='row'><td>19833653</td><td>lpg2087</td><td></td><td></td><td></td><td></td></tr>
+
+<tr class='odd' role='row'><td>19833654</td><td>lpg2088</td><td></td><td></td><td></td><td></td></tr>
+<tr class='even' role='row'><td>19833656</td><td>lpg2090</td><td></td><td></td><td></td><td></td></tr>
+
+<tr class='odd' role='row'><td>19833657</td><td>lpg2091</td><td>3.A.7</td><td>IVSP</td><td>ATP-Dependent</td><td>Unclassified</td></tr>
+<tr class='even' role='row'><td>19833689</td><td>lpg2123</td><td>2.A.4</td><td>CDF</td><td>Secondary Transporter</td><td>cation efflux</td></tr>
+
+<tr class='odd' role='row'><td>19833691</td><td>lpg2125</td><td></td><td></td><td></td><td></td></tr>
+<tr class='even' role='row'><td>19833692</td><td>lpg2126</td><td>2.A.72</td><td>KUP</td><td>Secondary Transporter</td><td>potassium ion uptake</td></tr>
+
+<tr class='odd' role='row'><td>19833699</td><td>lpg2133</td><td>2.A.1</td><td>MFS</td><td>Secondary Transporter
+</td><td>multidrug efflux</td></tr>
+<tr class='even' role='row'><td>19833700</td><td>lpg2134</td><td>2.A.6</td><td>RND</td><td>Secondary Transporter
+</td><td>cobalt/zinc/cadmium ion efflux (HME subfamily)</td></tr>
+
+<tr class='odd' role='row'><td>19833701</td><td>lpg2135</td><td></td><td></td><td></td><td></td></tr>
+<tr class='even' role='row'><td>19833702</td><td>lpg2136</td><td></td><td></td><td></td><td></td></tr>
+
+<tr class='odd' role='row'><td>19833718</td><td>lpg2152</td><td>3.A.1</td><td></td><td></td><td></td></tr>
+<tr class='even' role='row'><td>19833723</td><td>lpg2157</td><td></td><td></td><td></td><td></td></tr>
+
+<tr class='odd' role='row'><td>19833744</td><td>lpg2178</td><td>2.A.6</td><td></td><td></td><td></td></tr>
+<tr class='even' role='row'><td>19833745</td><td>lpg2179</td><td></td><td></td><td></td><td></td></tr>
+
+<tr class='odd' role='row'><td>19833755</td><td>lpg2189</td><td>9.A.30</td><td></td><td></td><td></td></tr>
+<tr class='even' role='row'><td>19833756</td><td>lpg2190</td><td></td><td></td><td></td><td></td></tr>
+
+<tr class='odd' role='row'><td>19833759</td><td>lpg2193</td><td>2.A.53</td><td></td><td></td><td></td></tr>
+<tr class='even' role='row'><td>19833764</td><td>lpg2198</td><td>2.A.17</td><td></td><td></td><td></td></tr>
+
+<tr class='odd' role='row'><td>19833775</td><td>lpg2209</td><td></td><td></td><td></td><td></td></tr>
+<tr class='even' role='row'><td>19833779</td><td>lpg2213</td><td></td><td></td><td></td><td></td></tr>
+
+<tr class='odd' role='row'><td>19833800</td><td>lpg2234</td><td>2.A.1</td><td></td><td></td><td></td></tr>
+<tr class='even' role='row'><td>19833802</td><td>lpg2237</td><td>3.A.1</td><td></td><td></td><td></td></tr>
+
+<tr class='odd' role='row'><td>19833810</td><td>lpg2245</td><td>2.A.23</td><td></td><td></td><td></td></tr>
+<tr class='even' role='row'><td>19833838</td><td>lpg2273</td><td>3.A.1</td><td></td><td></td><td></td></tr>
+
+<tr class='odd' role='row'><td>19833849</td><td>lpg2284</td><td>3.A.1</td><td></td><td></td><td></td></tr>
+<tr class='even' role='row'><td>19833850</td><td>lpg2285</td><td>3.A.1</td><td></td><td></td><td></td></tr>
+</tbody>
+</table>
+</div>
+<!-- /.table-responsive -->
 
 <br/><h3>Genes com função transportadora</h3><br/>
 <p><big>Estes genes com função transportadora podem atuar de formas muito diversificadas, codificando um vasto número de diferentes proteínas transportadoras, daí o tipo de transportador ser tão variado. Os produtos transportados também são bastante distintos, podendo variar desde macromoléculas a pequenos iões. Para recolher estas informações usamos a base de dados TransportDB em que os dados são apresentados na seguinte <a target="_blank" href="https://github.com/Hubble83/lb/tree/master/scripts/intMetReg/tabelaTransporte.xlsx">Tabela</a>.</big></p>
@@ -156,6 +236,24 @@
 
 	<!-- Custom Theme JavaScript -->
 	<script src="dist/js/sb-admin-2.min.js"></script>
+
+	<!-- DataTables JavaScript -->
+	<script src="bower_components/datatables/media/js/jquery.dataTables.min.js"></script>
+	<script src="bower_components/datatables-plugins/integration/bootstrap/3/dataTables.bootstrap.min.js"></script>
+
+	<script>
+	$(document).ready(function () {
+		$('#dataTables-example1').DataTable({
+				responsive: true
+		});
+		$('#dataTables-example2').DataTable({
+				responsive: true
+		});
+		$('#dataTables-example3').DataTable({
+				responsive: true
+		});
+	});
+	</script>
 
 </body>
 
